@@ -92,7 +92,7 @@ function AddUserDialog({ onSuccess }: { onSuccess: () => void }) {
   const [open, setOpen] = useState(false)
   const [email, setEmail] = useState("")
   const [displayName, setDisplayName] = useState("")
-  const [role, setRole] = useState("subscriber")
+  const [role, setRole] = useState("cms:subscriber")
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState("")
 
@@ -143,10 +143,10 @@ function AddUserDialog({ onSuccess }: { onSuccess: () => void }) {
                 <Select value={role} onValueChange={setRole}>
                     <SelectTrigger><SelectValue /></SelectTrigger>
                     <SelectContent className="z-[9999]">
-                        <SelectItem value="subscriber">Subscriber</SelectItem>
-                        <SelectItem value="author">Author</SelectItem>
-                        <SelectItem value="editor">Editor</SelectItem>
-                        <SelectItem value="admin">Admin</SelectItem>
+                        <SelectItem value="cms:subscriber">Subscriber</SelectItem>
+                        <SelectItem value="cms:author">Author</SelectItem>
+                        <SelectItem value="cms:editor">Editor</SelectItem>
+                        <SelectItem value="sys:admin">Admin</SelectItem>
                     </SelectContent>
                 </Select>
             </div>
@@ -185,12 +185,12 @@ function UnsubscribeButton({ userId, onSuccess }: { userId: string, onSuccess: (
 function EditUserDialog({ user, onSuccess }: { user: any, onSuccess: () => void }) {
     const [open, setOpen] = useState(false)
     const [displayName, setDisplayName] = useState(user.displayName || "")
-    const [roles, setRoles] = useState<string[]>(user.roles || ["subscriber"])
+    const [roles, setRoles] = useState<string[]>(user.roles || ["cms:subscriber"])
     const [status, setStatus] = useState(user.status || "active")
     const [loading, setLoading] = useState(false)
     const [error, setError] = useState("")
 
-    const availableRoles = ["subscriber", "author", "editor", "admin"]
+    const availableRoles = ["cms:subscriber", "cms:author", "cms:editor", "sys:admin"]
   
     const handleSubmit = async (e: React.FormEvent) => {
       e.preventDefault()

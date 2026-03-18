@@ -29,7 +29,7 @@ export async function createUserByAdminAction(input: unknown) {
   const program = Effect.gen(function* (_) {
     // 1. Auth Check (Must be Admin)
     const currentUser = yield* _(getCurrentUser)
-    if (!currentUser.roles.includes("admin")) {
+    if (!currentUser.roles.includes("sys:admin")) {
         return yield* _(Effect.fail(new AuthError({ message: "Forbidden" })))
     }
 
@@ -54,7 +54,7 @@ export async function createUserByAdminAction(input: unknown) {
 export async function unsubscribeUserAction(userId: string) {
     const program = Effect.gen(function* (_) {
         const currentUser = yield* _(getCurrentUser)
-        if (!currentUser.roles.includes("admin")) {
+        if (!currentUser.roles.includes("sys:admin")) {
             return yield* _(Effect.fail(new AuthError({ message: "Forbidden" })))
         }
 
@@ -69,7 +69,7 @@ export async function unsubscribeUserAction(userId: string) {
 export async function updateUserAction(input: unknown) {
     const program = Effect.gen(function* (_) {
        const currentUser = yield* _(getCurrentUser)
-       if (!currentUser.roles.includes("admin")) {
+       if (!currentUser.roles.includes("sys:admin")) {
           return yield* _(Effect.fail(new AuthError({ message: "Forbidden" })))
        }
   
