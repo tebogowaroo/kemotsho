@@ -27,6 +27,7 @@ const make = Effect.succeed({
         const fixDisplayName = (val: any) => {
             if (val && typeof val === 'object' && val._tag === 'Some') return val.value
             if (val && typeof val === 'object' && val._tag === 'None') return null
+            if (val === undefined) return null
             return val
         }
 
@@ -126,6 +127,7 @@ const make = Effect.succeed({
             const fixDisplayName = (val: any) => {
                 if (val && typeof val === 'object' && val._tag === 'Some') return val.value
                 if (val && typeof val === 'object' && val._tag === 'None') return null
+                if (val === undefined) return null
                 return val
             }
             
