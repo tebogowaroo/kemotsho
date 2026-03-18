@@ -1,0 +1,68 @@
+"GEMS TARIFFS FOR CONTRACTED SERVICES FOR  ENHANCED REIMBURSEMENT FOR IN-ROOM PROCEDURES  
+WITH EFFECT FROM 2026-01-01",,"Family Practitioners (014) and 
+Family Physicians (015)",Specialists
+Tariff Code,Tariff Description,2026 Tariff Value,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",,
+,RULES GOVERNING THE STRUCTURE OF  THE GEMS MEDICAL PRACTITIONERS TARIFF FILES  APPLY,,
+,"ENHANCED REIMBURSEMENT FOR IN-ROOM PROCEDURES INCLUDES ALL APPLICABLE MODIFIERS EXCEPT 0010 AND 0020, WHICH CAN BE BILLED ADDITIONALLY WHEN APPROPRIATE.",,
+2.2,Integumentary system,,
+IR0244,Repair of nail bed (only for ingrown toe nail),"R1,178.20","R1,504.80"
+IR0307,Excision and repair by direct suture; excision nail fold or other minor procedures of similar magnitude ( only for ingrown toe nail),"R1,060.70","R1,355.60"
+IR0310,Radical excision of nailbed ( only for ingrown toe nail),"R1,492.10","R1,907.80"
+IR0313,Extensive resection for malignant soft tissue tumour including muscle,R0.00,"R14,253.80"
+IR0314,Excision of larger cancers as an ellipse and direct repair usually requiring undermining,R0.00,"R5,221.20"
+IR0315,Excision of small cancers as an ellipse and direct repair,R0.00,"R2,760.60"
+2.3,Major plastic repair,,
+IR0289,Full thickness skin graft repair,"R7,353.70","R11,747.00"
+IR0295,Flap repair for above excisions,"R6,473.90","R10,342.60"
+4.1,Nose and Sinuses,,
+IR1018,Flexible nasopharyngolaryngoscope examination,"R2,040.60","R2,607.60"
+8.2,Lips,,
+IR1485,Excision of benign lip lesion,"R1,060.70","R1,355.60"
+IR1487,Excision of malignant lip lesion,R0.00,"R4,568.40"
+IR1499,Full thickness lip repair,R0.00,"R5,301.80"
+8.6,Stomach,,
+IR1587,Upper gastro-intestinal endoscopy,"R1,915.00","R2,447.80"
+8.8,Gastrointestinal Tract (Intestines),,
+IR1653,Total colonoscopy:  (including biopsy),"R3,535.30","R4,518.30"
+IR1656,Left-sided colonoscopy,"R2,357.70","R3,012.80"
+IR1676,Flexible sigmoidoscopy (including rectum and anus),"R1,915.00","R2,447.80"
+IR1677,"Sigmoidoscopy: First and subsequent, with or without biopsy",R510.60,R652.00
+IR1679,"Sigmoidoscopy with removal of polyps, first and subsequent","R1,178.20","R1,504.80"
+IR1681,Proctoscopy with removal of polyps: First time,R825.20,"R1,054.30"
+IR1683,Proctoscopy with removal of polyps: Subsequent times,R589.50,R752.80
+10.3,Bladder,,
+IR1949,Cystoscopy: Hospital equipment (a specific practice request),"R1,728.40","R2,208.80"
+11.2,Testis and Epididymis,,
+IR2207,Vasectomy: Unilateral or bilateral (no extra fee to be charged if done in combination with prostatectomy),"R2,195.60","R2,806.40"
+12.1,Vulva and introitus,,
+IR2271,Removal of tag or polyp,R236.10,R302.10
+IR2272,Removal of small superficial benign lesions,R903.60,"R1,154.50"
+IR2274,"Electro-, cryo-, chemo-, laser therapy of vulva and/or vagina (colposcopy directed)","R2,789.30","R3,564.60"
+IR2277,Removal of benign vulva tumour or cyst,"R2,631.30","R3,363.50"
+IR2283,Hymenectomy,"R1,689.80","R2,159.50"
+IR2293,Vulva and introitus: Drainage of abscess,"R1,060.70","R1,355.60"
+12.2,Vaginal procedures and operations,,
+IR2316,"Destruction of condylomata by chemo-, cryo-, or electrotherapy, or harmonic scalpel: First lesion",R549.70,R702.50
+IR2317,"Destruction of condylomata by chemo-, cryo-, or electrotherapy, or harmonic scalpel: Repeat – Limited",R275.10,R351.00
+IR2318,"Destruction of condylomata by chemo-, cryo-, or electrotherapy, or harmonic scalpel: Widespread","R2,199.70","R2,811.90"
+12.3,Cervix,,
+IR2392,"Cryo- or electro-cauterisation, or Lletz of cervix (excluding cost of disposable loop electrode): In consulting room",R549.70,R702.50
+IR2395,"Cryo- or electro-cauterisation, or Lletz of cervix (excluding cost of disposable loop electrode): Under anaesthetic","R1,897.70","R2,711.10"
+IR2396,"Cautery, laser or Harmonic scalpel treatment of the cervix","R3,143.10","R4,017.20"
+IR2399,Punch biopsy (excluding after-care),R353.40,R451.80
+IR2400,Biopsy during pregnancy (excluding after-care),R510.60,R652.00
+IR2405,Cone biopsy: Cervix (excluding after-care),R0.00,"R2,711.10"
+IR2415,Cervix encerclage: Removal items 2409 and 2411: Without anaesthetic,R196.30,R251.60
+IR2429,Colposcopy (excluding after-care),"R1,060.70","R1,355.60"
+12.4,Uterus,,
+IR2434,Endometrial biopsy (excluding after-care),R706.90,R903.40
+IR2442,Insertion of intra uterine contraceptive device (IUCD) (excluding after-care),R706.90,R903.40
+12.7,Miscellaneous procedures,,
+IR2565,Implantation hormone pellets (excluding after-care),R117.70,R150.50
+16.3,Cataract,,
+IR3051,Needling or capsulotomy,R0.00,"R6,526.40"
+IR3052,Laser capsulotomy,R0.00,"R5,271.30"
+16.12,Lids: Reconstruction of eyelid,,
+IR3189,Full thickness eyelid repair,R0.00,"R6,853.30"

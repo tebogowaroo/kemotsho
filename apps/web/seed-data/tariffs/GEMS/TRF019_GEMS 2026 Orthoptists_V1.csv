@@ -1,0 +1,11 @@
+"GEMS TARIFF  IN RESPECT OF ORTHOPTISTS
+WITH EFFECT FROM 2026-01-01",,074 - Orthoptists
+Tariff Code,Tariff Description,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,ITEMS,
+001,"Orthoptic consultation (Ocular motility assessment, comprehensive examination)",R231.60
+003,Orthoptic treatment (Ocular motility imbalance),R201.50
+005,Orthoptic consultation (Hess chart),R257.30
+007,Orthoptic visual fields charting or field of binocular single vision,R502.10
+107,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",R0.00

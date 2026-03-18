@@ -1,0 +1,67 @@
+
+> build
+> npm run build --workspaces
+
+
+> @waroo/web@0.1.0 build
+> next build
+
+▲ Next.js 16.1.2 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 16.5s
+  Running TypeScript ...
+Failed to compile.
+
+./src/app/(site)/_components/sections/contact-block.tsx:8:23
+Type error: Could not find a declaration file for module 'react-google-recaptcha'. '/home/tebogo/projects/waroo/website-base/node_modules/react-google-recaptcha/lib/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/react-google-recaptcha` if it exists or add a new declaration (.d.ts) file containing `declare module 'react-google-recaptcha';`
+
+[0m [90m  6 |[39m [36mimport[39m { [33mOption[39m } [36mfrom[39m [32m"effect"[39m
+ [90m  7 |[39m [36mimport[39m { useState[33m,[39m useRef } [36mfrom[39m [32m"react"[39m
+[31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m [33mReCAPTCHA[39m [36mfrom[39m [32m"react-google-recaptcha"[39m
+ [90m    |[39m                       [31m[1m^[22m[39m
+ [90m  9 |[39m [36mimport[39m { submitContactForm } [36mfrom[39m [32m"@/app/actions/contact"[39m
+ [90m 10 |[39m [36mimport[39m { [33mButton[39m } [36mfrom[39m [32m"@/shared/ui/atoms/button"[39m
+ [90m 11 |[39m [36mimport[39m { [33mInput[39m } [36mfrom[39m [32m"@/shared/ui/atoms/input"[39m[0m
+Next.js build worker exited with code: 1 and signal: null
+npm error Lifecycle script `build` failed with error:
+npm error code 1
+npm error path /home/tebogo/projects/waroo/website-base/apps/web
+npm error workspace @waroo/web@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/apps/web
+npm error command failed
+npm error command sh -c next build
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/core@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/core
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/core@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/module-commerce@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/module-commerce
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/module-commerce@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/module-medical@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/module-medical
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/module-medical@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/platform-cms@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/platform-cms
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/platform-cms@0.1.0

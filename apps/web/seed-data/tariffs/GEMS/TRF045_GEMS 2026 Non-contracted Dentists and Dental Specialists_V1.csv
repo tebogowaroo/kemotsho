@@ -1,0 +1,1252 @@
+GEMS TARIFF FOR SERVICES BY NON-CONTRACTED DENTISTS AND DENTAL SPECIALISTS WITH EFFECT FROM 2026-01-01,,054 - General Dental Practitioner,062 - Maxillo facial and Oral surgery,064 - Orthodontics,092 - Oral medicine and Periodontics,094 - Prosthodontist,098 - Oral Pathology
+Tariff Code,Description of tariff codes,2026 Tariff value,2026 Tariff value,2026 Tariff value,2026 Tariff value,2026 Tariff value,2026 Tariff value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.", ,,,, , 
+,"The schedule includes procedures and services for use by Oral Health Care Providers for purposes of keeping accurate patient records, reporting procedures on patients, and processing oral health care related insurance claims. The procedures are those performed by general dental practitioners, oral pathologists, prosthodontists, periodontists, orthodontists, maxillo-facial and oral surgeons and dental therapists.
+
+The procedures codes listed in the schedule have, for the convenience in using the schedule, been divided into categories of services, based on the branches of clinical dental practice. The procedures are grouped under the category of service with which the procedures are most frequently identified and should not be interpreted as excluding certain categories of Oral Health Care Providers from performing such procedures. Individual procedure codes consist of a procedure code, procedure description (nomenclature), and when necessary, a descriptor, that provides further definition and/or guidelines to clarify the intended use of the procedure code.", ,,,, , 
+I.,INTRODUCTION,,,,,,
+A.,Administrative and invoicing rules,,,,,,
+001,Invoices:, ,,,,,
+,"a.	A practitioner shall render a monthly invoice for every procedure which has been completed irrespective of whether the total treatment plan has been concluded.	", ,,,,,
+,b.	An invoice shall contain the following particulars:	, ,,,,,
+,"i. The surname and initials of the member;
+ii. The first name of the patient;
+iii. The name of the scheme;
+iv. The membership number of the member;
+v. The practice number;
+vi. The date on which every service was rendered;
+vii. The code number, description and fee/benefit of the procedure or service;
+viii. The name of the dentist rendering the service;
+ix. The name of the general dental practitioner/specialist assistant (when applicable);
+x. The appropriate ICD-10 code(s) for the procedures performed.", ,,,,,
+,Note: Photocopies of original invoices shall be certified by way of a rubber stamp or the signature of the dentist.,,,,,,
+002,"Cost of direct materials:
+The expenses incurred for direct materials identified in the Schedule may be billed in addition to the procedure code. These expenses are limited to the net acquisition cost of the materials and a handling fee. The price of the materials should be VAT inclusive. Use Modifier 8025 for handling fee.",,,,,,
+003,Dental laboratory services:,,,,,,
+,"Manual submission of invoices. Fees charged by dental technicians for laboratory services (PLUS L) shall be indicated on the dentist's invoice by reporting code 8099 - Dental laboratory service with the appropriate laboratory fee on the line following the relevant dental procedure code.
+The technician's invoice shall be certified by the dentist (or a person appointed by the dentist) for correctness by means of a signature. The original invoice of the dental technician (or a copy thereof) shall accompany the invoice of the dentist and a copy (or the original) shall be filed by the dentist for record purposes.",,,,,,
+,"Electronic submission of invoices.  Fees charged by dental technicians for laboratory services (PLUS L) shall be indicated on the dentist's invoice by submitting code 8099 - Dental laboratory service with the appropriate laboratory fee on the line following the relevant dental procedure code on the date on which the dental procedure was rendered. The laboratory fee shall be submitted for payment on the date on which the procedure code is submitted for payment, and the appropriate dental laboratory service codes shall be reported on the lines following code 8099.
+The technician's invoice shall be certified by the dentist (or a person appointed by the dentist) for correctness by means of a signature. The original invoice of the dental technician shall be filed by the dentist for record purposes.",,,,,,
+005,"Procedure accompanied by unusual circumstances:
+In exceptional cases where the proposed fee/benefit is disproportionately low in relation to the actual services rendered by a practitioner, such higher fee as may be mutually agreed upon between the dental practitioner and the patient/medical scheme may be billed. Use Modifier 8011 with a narrative description.	
+Under certain circumstances a service or procedure is partially reduced or eliminated at the practitioner's election. Under these circumstances a lower fee may be billed. The service provided can be identified by its usual procedure code and the addition of Modifier 8012, signifying the service is reduced.	
+",,,,,,
+B.,General coding rules,,,,,,
+006,"The schedule does not prescribe the scope of practice of a particular category of Oral Health Care Provider; neither does it confine the performing of procedures or services to a registered speciality. Fees listed within a column of a particular category of Oral Health Care Provider are customary fees, should the procedure or service be rendered by that provider category.
+Specialists are however encouraged to confine their practice to the speciality or related specialities in which they are registered. Specialist may charge fees for procedures or services which usually pertain to some other speciality, if such procedures or services are also recognised in their speciality, and if it is carried out only for their bona fide patients. Such fees shall not be higher than those charged by general practitioners for the same procedures or services (HPCSA, Rule 25).
+Fees for procedures or services not listed within the column of dental therapists that do fall within the field of dental therapy in terms of their scope of practice are regarded as being “by arrangement” until such fees are listed.",,,,,,
+007,Procedures not listed in the Dental Schedule,,,,,,
+,"When a procedure is performed that is not listed in the schedule, an appropriate procedure code, listed in the NHRPL for medical practitioners may be reported.",,,,,,
+,"Unlisted procedures.  Any procedure that is neither described in the schedule, nor in the medical schedule, should be reported using code 9099 - Unlisted dental procedure or service. The fee for an unlisted dental procedure or service should be based on the fee of a comparable procedure. Code 9099 codes should not be used to report procedures where the fee is determined “by arrangement” with the patient and/or medical scheme.",,,,,,
+C.,Services rules,,,,,,
+008,"Oral evaluations and completion of treatment plans:
+Oral examinations include an examination, diagnosis and treatment planning (when treatment is required). No further fees/benefits shall be levied for an oral examination (code 8101) or comprehensive examination (code 8102) until the treatment plan resulting from these type of examinations is completed.
+The completion of a treatment plan effected from an oral examination and/or comprehensive examination should be indicated by reporting code 8120 – Treatment plan completed.
+
+Oral diagnosis defined.  The determination by the dentist of the oral health condition of an individual patient achieved through the evaluation of data gathered by means of history taking, direct examination, patient conference, and such clinical aids and tests as may be necessary in the judgement of the dentist.
+
+Treatment plan defined.  The treatment plan is the sequential guide for the patient’s care as determined by the dentist’s diagnosis and is used by the dentists for the restoration and/or maintenance of optimal oral health",,,,,,
+009,Surgery guidelines:,,,,,,
+,"1.	Follow-up care for therapeutic surgical procedures: The fee/benefit for an operation shall, unless otherwise stated, include normal post-operative care for a period not exceeding four months. If a practitioner does not him/herself complete the post-operative care, he/she shall arrange for post-operative care without additional charges. A fee/benefit for post-operative treatment of a prolonged or specialised nature may be charged as agreed upon between the practitioner and the scheme.",,,,,,
+,"2.	Multiple Procedures (Maxillo-facial and oral surgery):  The fee/benefit for more than one operation or procedure performed through the same incision shall be determined as the fee for the major operation plus fee/benefit for the subsidiary operation to the indicated maximum for each such subsidiary operation or procedure (Modifier 8005). The fee/benefit for more than one operation or procedure performed under the same anaesthetic but through another incision shall be determined on the fee/benefit for the major operation plus: 75% for the second procedure/operation (Modifier 8009). 50% for the third and subsequent procedures/operations (Modifier 8006). This rule shall not apply where two or more unrelated operations are performed by practitioners in different specialities, in which case each practitioner shall be entitled to the full fee/benefit of the operation. If, within four months, a second operation for the same condition or injury is performed, the fee/benefit for the second operation shall be 50% of that of the first operation (Modifier 8006).",,,,,,
+,3.	Assistant Surgeon (Maxillo-facial and periodontal surgery): The fee payable to a specialist assistant is determined as 1/3 (of the fee of the practitioner performing the procedure (Modifier 8001). The fee payable to a general dental practitioner assistant is determined as 15% (of the fee of the practitioner performing the procedure (Modifier 8007). The patient must be informed beforehand that another dentist/specialist will be assisting at the operation and that a fee will be payable to the assistant. The assistant's name must appear on the invoice rendered to the patient.,,,,,,
+,4.	Surgical team (Maxillo-facial and oral surgery): The additional fee to all members of the surgical team for after hours emergency surgery shall be calculated by adding 25% to the fee for the procedure or procedures performed (Modifier 8008).,,,,,,
+010,Orthodontic guidelines:,,,,,,
+,"The documentation and first invoice to the patient/medical scheme regarding orthodontic services will include the following information:
+a. The treatment plan and type of treatment (treatment code number);
+b. A diagnostic code (ICD-10) and
+c. An orthodontic payment plan indicating the following:
+   i.  The total fee that will be levied for the treatment;
+   ii.  The total months of orthodontic treatment (retention period excluded);
+   iii. The initial fee payable by the patient (approximately 20% of the total fee); and
+   iv. The monthly payments of the balance of the fee.",,,,,,
+,"2.	The fee for orthodontic treatment does not include a clinical oral evaluation and necessary diagnostic services.  The fee for corrective therapy (i.e. codes 8861 to 8888) is an inclusive fee and no additional fees may be levied for intra-operative oral evaluations and preventive services.  A pre-orthodontic treatment visit, an orthodontic retention, and an oral evaluation on completion of the treatment plan (retention phase included) are excluded and should be reported in addition to corrective orthodontic treatment as separate procedures (Code 8803 x3). Intra/post orthodontic treatment records consisting of radiographs/diagnostic images (limited to a cephalometric film and 5 oral/facial images) and diagnostic casts may be levied when a corrective orthodontic treatment plan is completed (retention phase included).",,,,,,
+,"3.	The fee for 'Fixed appliance therapy' (codes 8861 and 8865 to 8888), as determined by the individual practitioner, will be levied on a monthly manner over the treatment period (retention phase excluded).",,,,,,
+,"4.	When partial fixed appliance or preliminary orthodontic treatment (codes 8858, 8861, 8865 or 8866) is followed by full fixed appliance orthodontic treatment (codes 8873 to 8888) provided by the same orthodontist, the fees levied for the partial fixed appliance therapy or preliminary treatment will be deducted from the fee quoted for the full fixed appliance orthodontic treatment.",,,,,,
+,5.	The total fee for multiple phases of full fixed appliance orthodontic treatment provided by the same orthodontist may not exceed the most recent fee (determined on commencement date of the final stage of full fixed appliance treatment) for the appropriate full fixed orthodontic procedure.,,,,,,
+,"6.	When the patient transfers to another practitioner during treatment, or treatment is terminated for any reason, the original treating practitioner must report the number of treatment months remaining and determine the balance of the fee by applying the following formula: Total payment (for treatment only) minus 20% of the total fee (for banding - when applicable) multiplied by the percentage of treatment remaining. For example, if the practitioner was paid R 10,000.00 for a 24-month treatment plan and 18 months of treatment were completed. The balance would be R 2,000.00 (or R 10,000.00 - R 2,000.00 x 6/24). The length of the treatment plan from the original request for authorisation will be used to determine the number of treatment months remaining. The practitioner continuing treatment will provide the information stipulated in paragraph 1 above. Report code 8891 (Orthodontic transfer) with the fee that will be levied for continuation of the treatment in addition to the appropriate orthodontic treatment code. The fee for continuous treatment is subject to prior authorisation by the patient's medical scheme.",,,,,,
+,"7.	When an established orthodontic patient requires re-treatment, the information stipulated in paragraph 1 above and the cause(s) for re-treatment will be provided. Report code 8892 (Orthodontic re-treatment) with the fee that will be levied for re-treatment in addition to the appropriate orthodontic treatment code. Orthodontic re-treatment is subject to prior authorisation by the patient's medical scheme.",,,,,,
+011,"Dento-legal fees:
+Practitioners are entitled to remuneration if they are present at Court at the request of an advocate or attorney. Use code 8111 (Dental testimony) to report dento-legal work. The code is listed in the adjunctive general services sections in the code lists.",,,,,,
+D.,Modifiers,,,,,,
+012,"Modifiers:
+Modifiers should be used with procedures identified throughout the NHRPL.	
+Modifiers provide the means by which the reporting practitioner can indicate that a service or procedure that has been performed has been altered by some specific circumstance but not changed it its definition or code. The sensible application of modifiers obviates the necessity for separate procedure listings that may describe the modifying circumstance.  Modifiers may be used to indicate to the recipient of the report that:	
+a.	A service or procedure was performed by more than one practitioner.	
+b.	A service or procedure has been increased or reduced.	
+c.	Only part of a service was performed.	
+d.	An adjunctive service was performed.	
+e.	A service or procedure was provided more than once.	
+f.	The fee/benefit was altered due to a financial agreement.",,,,,,
+8001,Assistant surgeon - specialist (1/3 of the appropriate benefit),,,,,,
+8006,Multiple surgical procedures -  third and subsequent procedures (50% of the appropriate benefit),,,,,,
+8007,Assistant surgeon - general dental practitioner (15% of the appropriate benefit),,,,,,
+8008,Emergency surgery - after hours (PLUS 25% of the appropriate benefit),,,,,,
+8009,Multiple surgical procedures - second procedure (75% of the appropriate benefit),,,,,,
+8010,Open reduction (PLUS 75% of the appropriate benefit),,,,,,
+8011,Procedure accompanied by unusual circumstances (Benefit PLUS X % as determined by the practitioner and agreed upon by patient/medical scheme),,,,,,
+8012,Reduced services (benefit MINUS X % as determined by the practitioner),,,,,,
+8023,Fabrication of inlay/onlay (PLUS 25% of the appropriate benefit),,,,,,
+8025,Handling fee - direct materials (26% of material cost to a maximum of R26.00),,,,,,
+8090,Dispensing Fee,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+E.,Explanations,,,,,,
+,Tooth identification and designation of areas of the oral cavity:,,,,,,
+,"Tooth identification and designation of areas of the oral cavity is compulsory for all invoices rendered. Tooth identification is applicable to procedures identified with the letter ( T ), and other designation of areas of the oral cavity with the letter ( Q ) for a quadrant and the letter ( M ) for the maxillary or mandibular area in the mouth part ( MP ) column of the Dental Coding. The International Standards Organisation (ISO) in collaboration with the FDI designated system for teeth and areas of the oral cavity should be used. For supernumeraries, the abbreviation SUP should be used.",,,,,,
+,Treatment categories:,,,,,,
+,"Treatment categories (TC) of dental procedures are identified in the TC column of the Dental Coding as follows:
+Basic dentistry	- designated as ( B ) in the treatment category column
+Advanced dentistry	- designated as ( A ) in the treatment category column
+Surgery	- designated as ( S ) in the treatment category column",,,,,,
+,Abbreviations used in Dental Coding,,,,,,
+,"DM	Direct Material Column	
++D	Add fee/benefit for denture	
++L	Add laboratory fee	
++M	Add material fee	",,,,,,
+,"MP	Mouth Part Column
+M	Maxilla/Mandible
+Q	Quadrant
+S	Sextant
+T	Tooth",,,,,,
+,"TC	Treatment Category Column
+A	Advanced dentistry
+B	Basic dentistry
+S	Surgery",,,,,,
+,"Practice type codes:
+ 25400  General Dental Practitioner
+ 26200  Specialist Maxillo Facial and Oral Surgeon
+ 26400  Specialist Orthodontist
+ 29200  Specialist in Oral Medicine and Periodontics
+ 29400  Specialist Prosthodontist
+ 29800  Specialist Oral Pathologist
+ 39500  Dental Therapist",,,,,,
+F.,Guidelines to medical schemes,,,,,,
+,"Age of a Child. 
+The determination of a child or adult status of the patient should be based on the clinical development of the patient's dentition. Where administrative constraints preclude the use of clinical development so that the chronological age must be used to determine the child or adult status, the patient is defined as an adult beginning at age 12 with the exclusion of treatment for orthodontics or sealants.",,,,,,
+,"Frequency of benefits.
+The South African Dental Association recommends to medical schemes, where considered necessary and appropriate, that contract limitations on the frequency of providing care for certain services be stated as “twice a calendar year” rather than once in every six months.",,,,,,
+,"Radiographs and records.
+Radiographs should be taken only for clinical reasons as determined by the treating dentist. Postoperative radiographs should only be required as part of dental treatment. When a dentist determined it is appropriate to comply with a third-party payer's request for radiographs, a duplicate set should be submitted and the originals retained by the dentist. Any additional costs incurred by the dentists in copying radiographs and clinical records for claims determination should be reimbursed by the third-party payer or the patient.",,,,,,
+,"New vs. established patient.
+A new patient is one who has not received any professional services from the dentist or another dentist of the same speciality who belongs to the same group practice, within the past three years. An established patient (patient of record) is one who has received professional services from the dentist or another dentist of the same speciality who belongs to the same group practice, within the past three years.
+In the instance where a dentist is on call for or covering for another dentist, the patient's encounter will be classified as it would have been by the dentist who is not available.",,,,,,
+II.,DENTAL PROCEDURES AND SERVICES,,,,,,
+A.,DIAGNOSTIC SERVICES,,,,,,
+,The branch of dentistry used to identify and prevent dental disorders and disease. Includes all services/procedures available to the dentist for evaluating existing conditions and determining any further dental care that may be required.,,,,,,
+,CLINICAL ORAL EXAMINATIONS,,,,,,
+,"The purpose of oral examinations is to observe and record pertinent information, past and present, necessary to arrive at a diagnosis and treatment plan (when treatment is indicated).  A treatment plan is a list of procedures or services the dentist proposes to perform on a dental patient based on the results of the examination and diagnosis. Often more than one treatment plan is presented.
+Oral examinations may require the integration of information that is acquired through additional diagnostic procedures, which should be reported separately. The oral examination, diagnosis, and treatment planning are the responsibility of the dentist. The collection and recording of some data and components of the oral examination may however be delegated. Oral examinations and consultations include the issuing of prescriptions where medication is required.",,,,,,
+8105,Case presentation – extensive treatment planning,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8893,Telephonic/electronic consultation  ,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8894,"Consultation without the patient (with family for consent or writing of special reports, or preparation of quotations)",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8895,Examination under general anaesthesia,R319.10,,,,,
+,General Dental Practitioner,,,,,,
+8101,Oral examination,R285.70,,,,,
+8102,Comprehensive oral examination,R461.30,,,,,
+8104,Limited oral examination,R138.60,,,,,
+8189,Re-examination - existing condition,R138.60,,,,,
+8176,Periodontal examination,R240.80,,,,,
+8181,Administration of dermal filler within the peri-oral area.,R0.00,,,,,
+8182,Cost of dermal filler.,R0.00,,,,,
+8190,Consultation - second opinion or advice,R285.70,,,,,
+,Maxillo Facial Surgeon,,,,,,
+8901,Consultation - MFOS,,R364.40,,,,
+8902,Consultation - MFOS (detailed),,R953.30,,,,
+*8840,Treatment planning for orthognathic surgery,R822.60,"R1,233.80","R1,233.80",,,
+,Orthodontist,,,,,,
+8801,Consultation - Orthodontist,,,R364.40,,,
+8803,"Consultation - Orthodontist (subsequent, retention and post treatment)",,,R212.10,,,
+8837,Diagnosis and treatment planning - Orthodontist,,,R169.30,,,
+,Periodontist/Oral Medicine,,,,,,
+8701,Consultation - periodontist,,,,R364.40,,
+8703,Consultation - Periodontist (detailed),,,,R953.30,,
+8705,Re-examination - Periodontist,,,,R284.90,,
+8707,Periodontal screening,,,,R284.90,,
+8722,Cost of provisional splinting materials. See Rule 002 Appendix A.,R0.00,R0.00,,R0.00,R0.00,
+8781,Consultation - Oral medicine (simple),,,,R284.90,,
+8782,Consultation - Oral medicine (complex),,,,R500.90,,
+8783,Consultation - Oral medicine (subsequent),,,,R212.10,,
+,Prosthodontist,,,,,,
+8501,Consultation - Prosthodontis,,,,,R364.40,
+8507,Comprehensive consultation - Prosthodontist,,,,,R584.80,
+8506,Detailed consultation - Prosthodontist,,,,,R0.00,
+,Oral Pathologist,,,,,,
+9201,Consultation - oral pathologist,,,,,,R365.60
+9205,Consultation - oral pathologist (subsequent),,,,,,R212.70
+,RADIOGRAPHS/DIAGNOSTIC IMAGING,,,,,,
+,"Diagnostic radiographs/diagnostic images include interpretation.
+Radiographs/diagnostic images should only be taken for clinical reasons as determined by the dentist and practitioners should comply with the Regulations concerning safe radiological practice and take the necessary precaution to minimise radiation of patients. Radiographs/diagnostic images are part of the patient's clinical record, should be of diagnostic quality, properly identified and dated. The dentist should retain the original images and only copies should be used to fulfil requests made by patients or third party funders.
+A complete series of intra-oral radiographs/images for diagnostic purposes is required once per treatment plan only.  A second series may be required in exceptional cases e.g., following periodontal surgery. The same applies to panoramic films, where additional films may be required for follow-up/re-evaluation purposes.
+Diagnostic radiographs/diagnostic images preceding endodontic treatment, periodontal treatment, the surgical extraction of teeth or roots and fixed prostheses are fundamental to ethical clinical practice.",,,,,,
+8107,Intraoral radiograph - periapical,R115.40,R115.40,R115.40,R115.40,R115.40,
+8108,Intraoral radiographs/images - complete series,R895.60,R895.60,R895.60,R895.60,R895.60,
+8112,Intraoral radiograph - bitewing,R115.40,R115.40,R115.40,R115.40,R115.40,
+8113,Intraoral radiograph - occlusal,R199.30,R199.30,R199.30,R199.30,R199.30,
+8114,Extraoral radiograph - hand-wrist,R462.70,R462.70,R462.70,R462.70,R462.70,
+8115,Panoramic radiograph/image,R462.70,R462.70,R462.70,R462.70,R462.70,
+8116,Cephalometric radiograph/image,R462.70,R462.70,R462.70,R462.70,R462.70,
+8118,Extraoral radiograph - skull/facial bone,R462.70,R462.70,R462.70,R462.70,R462.70,
+8121,Oral and/or facial image (digital/conventional),R124.30,R124.30,R124.30,R124.30,R124.30,
+8601,Computerised implant planning ,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8602,Computer Generated Surgical Guide ,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8483,Cost of CT Scan DICOM conversion,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8485,Cost of the production of a computer-generated surgical guide,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8193,Three-dimensional reconstruction of cone beam volumetric image using existing data (includes multiple images),R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8194,CBCT capture and interpretation with limited field of  view –less than one whole jaw,"R1,070.30","R1,070.30","R1,070.30","R1,070.30","R1,070.30","R1,070.30"
+8195,CBCT capture and interpretation with limited field of  view  of one full dental arch -mandible ,"R1,195.60","R1,195.60","R1,195.60","R1,195.60","R1,195.60","R1,195.60"
+8196,CBCT capture and interpretation with limited field of  view  of one full dental arch – maxilla without orbits and/or cranium ,"R1,195.60","R1,195.60","R1,195.60","R1,195.60","R1,195.60","R1,195.60"
+8199,CBCT capture and interpretation with limited field of  view  of one full dental arch – maxilla with orbits and/or cranium,"R1,252.70","R1,252.70","R1,252.70","R1,252.70","R1,252.70","R1,252.70"
+8197,CBCT capture and interpretation with limited field of  view  of both dental arches –without orbits and  or cranium,"R1,252.70","R1,252.70","R1,252.70","R1,252.70","R1,252.70","R1,252.70"
+8200,CBCT capture and interpretation with field of  view  of both dental arches –with orbits and/or cranium,"R1,358.90","R1,358.90","R1,358.90","R1,358.90","R1,358.90","R1,358.90"
+8217,CBCT capture and interpretation for the visualisation of sinuses,R751.60,R751.60,R751.60,R751.60,R751.60,R751.60
+8198,CBCT capture and interpretation for TMJ series including two or more exposures.,"R1,252.70","R1,252.70","R1,252.70","R1,252.70","R1,252.70","R1,252.70"
+8205,CBCT image capture with limited field of  view –less than one whole jaw,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8206,CBCT image capture with limited field of  view of one full dental arch -mandible ,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8207,CBCT image capture with limited field of view of one full dental arch – maxilla without orbits and or cranium ,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8210,CBCT image capture with limited field of  view  of one full dental arch – maxilla with orbits and/or cranium,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8208,CBCT capture with limited field of view of both dental arches –without orbits and or cranium,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8211,CBCT capture with field of view of both dental arches –with orbits and/or cranium,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8218,CBCT capture for the visualisation of sinuses,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8209,CBCT capture for TMJ series including two or more exposures.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8203,"Interpretation of diagnostic image by a practitioner not associated with capture of the image, including  the report",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8212,"Interpretation of diagnostic image by a practitioner associated with capture of the image, including the report",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,OTHER DIAGNOSTIC PROCEDURES,,,,,,
+8117,Diagnostic models,R124.30,R124.30,R124.30,R124.30,R124.30,
+8119,Diagnostic models mounted,R312.90,R312.90,R312.90,R312.90,R312.90,
+8126,Digital Diagnostic Models,R312.90,R312.90,R312.90,R312.90,R312.90,
+*8122,Microbiological studies,,,,,,
+*8123,Caries susceptibility tests (By Arrangement),R129.70,,,,,
+8124,Pulp tests,R33.90,,,,,
+8125,Pulp tests – more than 3 teeth. See Code 8124 for descriptor,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8503,Occlusion analysis mounted,R389.40,,,,R584.80,
+8505,Pantographic recording,R0.00,,,,R0.00,
+*8508,Electrognathographic recording,R605.60,,,,R908.10,
+*8509,Electrognathographic recording with computer analysis,"R1,005.40",,,,"R1,507.90",
+8811,Tracing and analysis of extra-oral film,R53.80,R53.80,R53.80,R53.80,R53.80,
+8839,Diagnostic setup (orthodontics),R238.70,,R357.90,,,
+B.,PREVENTIVE SERVICES,,,,,,
+,Services/procedures intended to eliminate or reduce the need for future dental treatment.,,,,,,
+,DENTAL PROPHYLAXIS,,,,,,
+8155,Polishing - complete dentition,R175.40,,,R241.90,R175.40,
+8159,Prophylaxis - complete dentition,R345.20,,,R486.10,R345.20,
+*8160,Removal of gross calculus,,,,,,
+8179,Polishing - complete dentition (periodontally compromised patient),R201.40,,,,,
+8180,Prophylaxis - complete dentition (periodontally compromised patient),R375.00,,,R375.00,,
+,TOPICAL FLUORIDE TEATMENT,,,,,,
+,"Topical fluoride treatment procedures involve the professionally application of topical fluoride within the dental office. Excludes fluoride application as part of prophylaxis paste, fluoride rinses or “swish.""
+For application of desensitising medicaments, see codes 8166 and 8167 in the supplementary section.",,,,,,
+8161,Topical application of fluoride - child,R175.40,,,R175.40,R175.40,
+8162,Topical application of fluoride - adult,R175.40,,,R175.40,R175.40,
+,SPACE MAINTENANCE (PASSIVE APPLIANCES),,,,,,
+,Passive appliances are designed to prevent tooth movement.,,,,,,
+8173,"Space maintainer - fixed, per abutment ",R325.80,,R325.80,,R325.80,
+8174,Recementation of space maintainer,R81.40,,,,,
+8175,Space maintainer  - removable,R419.90,,R419.90,,R419.90,
+,OTHER PREVENTIVE PROCEDURES,,,,,,
+*8149,Nutritional counselling,,,,,,
+*8150,Tobacco counselling,,,,,,
+*8151,Oral hygiene instruction,R175.40,,,R351.50,R351.50,
+*8153,Oral hygiene instruction - each additional visit,R128.40,,,R169.30,R169.30,
+8163,Sealant - per tooth,R115.40,,,,R115.40,
+8169,Interocclusal appliance,R674.60,,,,R674.60,
+8171,Mouth guard,R204.40,,,,,
+8177,Oral hygiene instruction (periodontally compromised patient),R266.10,,,,,
+8178,Oral hygiene instruction - each additional visit (periodontally compromised patient),R143.40,,,,,
+C.,RESTORATIVE SERVICES,,,,,,
+,"The branch of dentistry that deals with the reconstruction of the hard tissues of a tooth or group of teeth, injured or destroyed by trauma or disease. Restorative services/procedures intend to restore the function of a natural tooth.
+Anterior teeth include incisors and canines. Posterior teeth include premolars and molars.
+The number of tooth surfaces restored, i.e. mesial, occlusal (or incisal), distal, lingual, or vestibular (buccal or labial), is used to determine the appropriate procedure code. A one surface restoration for example, involves only one of the surfaces, while a two-surface restoration extends to two of the five surfaces. With a four-or-more-surfaces anterior restoration involving four tooth surfaces and the incisal angle is involved.
+Limitations on amalgam and resin-based composite restorations:
+(1) The reporting of two separate restorations of the same material (e.g., a MO and DO amalgam restoration) on the same tooth is appropriate. Some medical schemes however, have a clause in its dental plan(s) that restricts coverage of the same tooth surface, such as an occlusal, twice on the same day and may require the reporting of a MOD restoration instead of a separate MO and DO restoration.
+(2) The current NHRPL rates include direct pulp capping (code 8301) and rubber dam application (code 8304).",,,,,,
+,AMALGAM RESTORATIONS,,,,,,
+,"All adhesives, liners, bases and polishing are included as part of the restoration. If pins are used, they should be reported separately.
+See codes 8345, 8347 and 8348 for post and/or pin retention.",,,,,,
+8341,Amalgam - one surface,R349.10,,,,R349.10,
+8342,Amalgam - two surfaces,R430.10,,,,R430.10,
+8343,Amalgam - three surfaces,R524.60,,,,R524.60,
+8344,Amalgam - four or more surfaces,R584.80,,,,R584.80,
+8346,Restorative Material Factor,R0.00,R0.00,R1.19,R0.00,R0.00,R0.00
+,RESIN-BASED COMPOSITE RESTORATIONS,,,,,,
+,"Resin restorations refer to a broad category of materials including but not limited to composites. Report these codes when glass ionomers/compomers are used as restorations. The procedures include acid etching, adhesives (including resin bonding agents) and curing part of the restoration. 
+Resin restorations utilise the direct technique. For the indirect technique, see “Resin inlays/onlays”
+If pins are used, they should be reported in addition to these codes - See codes 8345, 8347 and 8348 for post and/or pin retention.",,,,,,
+8350,Resin crown - anterior primary tooth (direct),R761.70,,,,R761.70,
+8351,"Resin - one surface, anterior",R383.20,,,,R383.20,
+8352,"Resin - two surfaces, anterior",R482.40,,,,R482.40,
+8353,"Resin - three surfaces, anterior",R576.00,,,,R576.00,
+8354,"Resin - four or more surfaces, anterior",R642.60,,,,R642.60,
+8367,"Resin - one surface, posterior",R415.60,,,,R415.60,
+8368,"Resin - two surfaces, posterior",R514.00,,,,R514.00,
+8369,"Resin - three surfaces, posterior",R621.30,,,,R621.30,
+8370,"Resin - four or more surfaces, posterior",R668.40,,,,R668.40,
+,GOLD FOIL RESTORATIONS - DELETED FROM GEMS TARIFF 2011,,,,,,
+*8561,Gold foil class I or IV - DELETED FROM GEMS TARIFF 2011,R0.00,,,,R0.00,
+*8563,Gold foil class V - DELETED FROM GEMS TARIFF 2011,R0.00,,,,R0.00,
+*8565,Gold foil class III - DELETED FROM GEMS TARIFF 2011,R0.00,,,,R0.00,
+,INLAY/ONLAY RESTORATIONS,,,,,,
+,"Temporary and/or intermediate inlays/onlays, the removal thereof and cementing of the permanent restoration are included as part of the restoration. The cusp tip must be overlaid to be considered an onlay.",,,,,,
+,Metal Inlays/Onlays,,,,,,
+,"Use these codes for single metal inlay/onlay restorations. See the Fixed Prosthodontic Service section for metal inlay/only bridge retainers.
+Metal components include structures manufactured by means of conventional casting and/or electroforming.
+The benefits provided by some medical schemes for metal inlays on anterior teeth (incisors and canines) may be subject to pre-authorisation.",,,,,,
+8360,Temporary   inlay/onlay,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8361,Inlay - metal - one surface,R533.40,,,,"R1,051.70",
+8362,Inlay/onlay - metal - two surfaces,R780.00,,,,"R1,524.90",
+8363,Inlay/onlay - metal - three surfaces,"R1,299.90",,,,"R2,364.70",
+8364,Inlay/onlay - metal - four or more surfaces,"R1,572.30",,,,"R2,364.70",
+,Porcelain/Ceramic Inlays/Onlays,,,,,,
+,"Use these codes for single porcelain/ceramic inlay/onlay restorations. See the Fixed Prosthodontic Service section for porcelain/ceramic inlay/only bridge retainers.
+Porcelain/ceramic inlays/onlays include all indirect ceramic, porcelain and polymer-reinforced porcelain type inlays/onlays.
+Fees for the application of a rubber dam (8304) may be levied in addition to these codes.
+TO BE CONFIRMED: When computer generated (CAD-CAM) ceramic restorations are fabricated by the dental practitioner, laboratory costs do not apply. Report codes 8570 (Fabrication of computer generated ceramic restoration) and 8560 for the cost of the ceramic block in addition to the restoration.",,,,,,
+8371,Inlay - porcelain - one surface,R642.60,,,,"R1,270.50",
+8372,Inlay/onlay - porcelain - two surfaces,R948.70,,,,"R1,829.40",
+8373,Inlay/onlay - porcelain - three surfaces,"R1,563.50",,,,"R2,842.30",
+8374,Inlay/onlay - porcelain - four or more surfaces,"R1,893.90",,,,"R2,842.30",
+,Procedures utilizing computer generated restorations ,,,,,,
+,Fabrication of computer generated restorations ,,,,,,
+,"This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic restoration by the dental practitioner. This includes the design, milling, and finishing of the resin or ceramic restoration and replace the laboratory codes used when resin or ceramic restorations are made by conventional means in a dental laboratory. The codes 8560 and 8570 are currently used. Please use codes 8519 -8526 for fabrication and 8527 and 8528 for direct cost of material. Code 8304 (isolation of tooth/teeth) may be levied in addition to these codes.  M8023 is applied for th",,,,,,
+8519,Fabrication of computer generated 1-3 surface resin or  ceramic inlay or onlay,R948.70,,,,"R1,829.40",
+,"This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic restoration by the dental practitioner. See Code 8527, 8528 for cost of materials. Practitioners will use this code and not the usual laboratory fees (8099)",,,,,,
+8520,Fabrication of computer generated 4 or more surface resin or ceramic inlay or onlay,"R1,893.90",,,,"R2,842.30",
+,"This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic inlay or onlay by the dental practitioner. See Code, 8527, 8528 for cost of materials. Practitioners will use this code and not the usual laboratory fees (8099)",,,,,,
+8521,Fabrication of computer generated resin or ceramic crown,"R2,005.20",,,,"R2,951.80",
+,"This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic crown by the dental practitioner. See Code 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)",,,,,,
+8522,"Fabrication of computer generated  resin or ceramic crown retainer, per unit as part of bridge framework","R2,005.20",,,,"R2,951.80",
+,"This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic crown retainer by the dental practitioner. See Code 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)",,,,,,
+8523,"Fabrication of computer generated  resin or ceramic pontic, per unit as part of bridge framework","R2,005.20",,,,"R2,951.80",
+,"This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic pontic by the dental practitioner. See Code, 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)",,,,,,
+8524,"Fabrication of computer generated resin or  ceramic veneer for bridge framework, per unit","R1,346.50",,,,"R2,020.10",
+,"This procedure involves the fabrication of a computer generated (CAD-CAM) resin or ceramic veneer for bridge framework by the dental practitioner. See code, 8527 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)",,,,,,
+,"This procedure involves the fabrication of a computer generated (CAD-CAM) ceramic restoration by the dental practitioner. See Code 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)",,,,,,
+,"This procedure involves the fabrication of a computer generated (CAD-CAM) ceramic restoration by the dental practitioner. See Code 8527, 8528 for the cost of direct materials. Practitioners will use this code and not the usual laboratory fees (8099)",,,,,,
+,Direct cost of materials in the fabrication of computer generated restorations,,,,,,
+8525,"Fabrication of computer generated ceramic implant supported restoration, per unit",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8526,"Fabrication of a computer generated ceramic implant abutment, per unit",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8527,Direct Cost of material in the fabrication of computer generated resin restoration. ,,,,,,
+8528,Direct Cost of material in the fabrication of computer generated ceramic restoration. ,,,,,,
+8560,Cost of ceramic block,,,,,,
+8570,Fabrication of computer generated ceramic restoration,"R1,785.80",,,,"R1,785.80",
+,Resin-based Inlays/Onlays,,,,,,
+,"Resin based inlays/onlays usually utilise the indirect technique.
+Fees for the application of a rubber dam (8304) may be levied in addition to these codes.
+When the direct technique is used, laboratory costs do not apply. An additional fee may be levied by reporting Modifier 8023 in addition to these codes.",,,,,,
+8381,Inlay - resin - one surface,R642.60,,,,"R1,270.50",
+8382,Inlay/onlay - resin - two surfaces,R948.70,,,,"R1,829.40",
+8383,Inlay/onlay - resin - three surfaces,"R1,563.50",,,,"R2,842.30",
+8384,Inlay/onlay - resin - four or more surfaces,"R1,893.90",,,,"R2,842.30",
+8385,Fabrication of Indirect resin inlay/onlay restoration,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,CROWNS – SINGLE RESTORATIONS,,,,,,
+,"Use these codes for single crown restorations. See the Fixed Prosthodontic Service section for crown bridge retainers and the Implant Services section for crowns on osseo-integrated implants.
+Porcelain/ceramic crowns include all ceramic, porcelain and porcelain fused to metal crowns.  Resin crowns and resin metal crowns include all reinforced heat and/or pressure-cured resin materials. Metal components include structures manufactured by means of conventional casting and/or electroforming.
+Temporary and/or intermediate crowns, the removal thereof (provisional crowns included) and cementing of the permanent restorations are included as part of the restorations.
+TO BE CONFIRMED: When computer generated (CAD-CAM) ceramic restorations are fabricated by the dental practitioner, laboratory costs do not apply. Report codes 8570 (Fabrication of computer generated ceramic restoration) and 8560 for the cost of the ceramic block in addition to the restoration.",,,,,,
+8400,Temporary crown,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8401,Crown - full cast metal,"R2,005.20",,,,"R2,951.80",
+8403,Crown - 3/4 cast metal,"R2,005.20",,,,"R2,951.80",
+8404,Crown - 3/4 porcelain/ceramic,"R1,893.80",,,,"R2,842.30",
+8405,Crown - resin laboratory,"R1,893.80",,,,"R2,842.30",
+8406,Crown - three-quarter resin (indirect).,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8407,Crown - resin with metal,"R2,005.20",,,,"R2,951.80",
+8409,Crown - porcelain/ceramic,"R2,005.20",,,,"R2,951.80",
+8411,Crown - porcelain with metal,"R2,005.20",,,,"R2,951.80",
+8410,Provisional crown,R389.40,,,R389.40,R584.80,
+,VENEERS,,,,,,
+8355,Veneer - resin (chair-side),R608.40,,,,R608.40,
+8552,Veneer ceramic - indirect,"R1,346.50",,,,"R2,020.10",
+8554,Veneer - resin (laboratory),"R1,346.50",,,,"R2,020.10",
+,TEMPORARY RESTORATIONS,,,,,,
+8137,Emergency crown (chair-side),R602.10,,,,R602.10,
+8357,Prefabricated metal crown,R357.90,,,,R357.90,
+8480,Cost of Prefabricated metal restoration,,,,,,
+8375,Prefabricated non-metal crown,R357.90,,,,R357.90,
+8380,Cost of prefabricated non-metal restoration or crown,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,OTHER RESTORATIVE PROCEDURES,,,,,,
+,Pin Retention and Cores,,,,,,
+8345,"Prefabricated post retention, per post (in addition to restoration)",R345.20,,,,R345.20,
+8347,Pin retention - first pin (in addition to restoration),R173.50,,,,R173.50,
+8348,Pin retention - each additional pin (in addition to restoration),R160.90,,,,R160.90,
+8366,Pin retention as part of cast restoration (any number of pins),R259.40,,,,R351.50,
+8376,Core build-up with prefabricated posts,R955.10,,,,R955.10,
+8377,Temporary Prefabricated Post Retention,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8379,Cost of prefabricated posts,,,,,,
+8391,Cast core with single post,R402.90,,,,,
+8392,Cast post (each additional),R239.70,,,,,
+8397,Cast core with pins (any number of pins),R642.60,,,,R835.60,
+8396,Coping – metal,R0.00,,,,R0.00,
+8398,Core build-up,R780.00,,,,R780.00,
+8581,Cast core with single post,,,,,R595.20,
+8582,Cast core with double post,,,,,R848.20,
+8583,Cast core with triple post,,,,,"R1,051.70",
+,Unclassified Restorative Procedures,,,,,,
+8130,Rebond veneer,R0.00,,,R0.00,R0.00,
+8133,"Recement inlay, onlay, crown or veneer",R175.40,,,,R222.50,
+8142,Recement inlay/onlay/veneer,R175.40,,,,R222.50,
+8134,Recement cast core or post,R175.40,,,,R222.50,
+8135,"Remove inlay, onlay or crown",R349.10,,,,R349.10,
+8156,Removal of inlay/onlay/Veneer,R349.10,,,,R349.10,
+8138,Remove retention post (prefabricated or cast),R229.10,,,,R229.10,
+*8146,Resin bonding for restorations,,,,,,
+8228,ART restorations,R415.60,R0.00,R0.00,R0.00,R415.60,R0.00
+8157,Re-burnishing and polishing of restorations - complete dentition,R175.40,,,,,
+8349,Carve restoration to accommodate existing removable prosthesis,R70.70,,,,,
+8413,Repair crown (permanent or provisional),R389.40,,,,R389.40,
+8414,Additional fee for provision of crown within an existing clasp or rest,R115.40,,,,R115.40,
+D.,ENDODONTIC SERVICES,,,,,,
+,Services/procedures intended to treat diseases of the dental pulp and their sequelae.,,,,,,
+,Root canal therapy on primary teeth ,,,,,,
+,Endodontic therapy procedures on primary teeth include both root canal prepartation and obturation. Does not include diagnostic evaluation and necessary radiographs/diagnostic images. Report code 8304 (isolation of tooth/teeth) in addition to these codes when used.,,,,,,
+,Anterior primary teeth include incisors and canines.,,,,,,
+,PULP CAPPING,,,,,,
+,These codes should not be used as a base or liner under a restoration. Certain funders (medical aids) may restrict the placement of the final restoration during the same visit.,,,,,,
+8301,Pulp cap - direct,R233.80,,,,,
+8303,Pulp cap - indirect,R233.80,,,,,
+,PULPOTOMY,,,,,,
+8307,Pulp amputation (pulpotomy)  ,R229.10,,,,R229.10,
+8132,Pulp removal (pulpectomy),R287.00,,,,,
+,ENDODONTIC THERAPY,,,,,,
+,"Includes endodontic therapy on primary teeth. Does not include diagnostic evaluation and necessary radiographs/ diagnostic images.
+Limitation: Intra-operative radiographs/ diagnostic images are limited to three on a single canal tooth and five on a multi-canal tooth for each completed endodontic therapy.
+Report code 8304 (application of a rubber dam) in addition to these codes.",,,,,,
+,Preparatoty Visits,,,,,,
+8332,Root canal preparatory visit - single canal tooth,R175.40,,,,,
+8333,Root canal preparatory visit - multi canal tooth,R245.90,,,,R245.90,
+8317,"Root canal preparation, each additional canal ",R326.00,,,,R326.00,
+,Preparation of the canal. May require further appointments to prepare the canal. Obturation is done in a subsequent appointment.,,,,,,
+8318,Irrigation and medication per tooth at a separate visit,R70.30,,,,,
+,Obtuation of Canals,,,,,,
+8335,Root canal obturation - anteriors and premolars - first canal,R796.80,,,,,
+8328,Root canal obturation - anteriors and premolars - each additional canal,R326.00,,,,,
+8336,Root canal obturation - posteriors - first canal,"R1,096.50",,,,,
+8337,Root canal obturation - posteriors - each additional canal,R326.00,,,,,
+,Complete Therapy,,,,,,
+8338,Root canal therapy - anteriors and premolars - first canal,"R1,218.80",,,,,
+8329,Root canal therapy - anteriors and premolars - each additional canal,R406.80,,,,,
+8339,Root canal therapy - posteriors - first canal,"R1,675.00",,,,,
+8340,Root canal therapy - posteriors - each additional canal,R406.80,,,,,
+8631,Root canal therapy - first canal,,,,,"R2,068.90",
+8633,Root canal therapy - each additional canal,,,,,R520.60,
+8639,Endodontic instruments per patient per completed treatment.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,ENDODONTIC RETREATMENT,,,,,,
+8334,Re-preparation of previously obturated root canal,R259.40,,,,R312.90,
+8323,"Retreatment of previously completed root canal therapy, each additional canal
+– anterior or premolar",R259.40,R0.00,R0.00,R0.00,R312.90,R0.00
+8324,"Retreatment of previously completed root canal therapy, each additional canal – molar",R259.40,R0.00,R0.00,R0.00,R312.90,R0.00
+,APEXIFICATION/RECALCIFICATION PROCEDURES,,,,,,
+8634,Apexification/ apexogenesis /revascularisation - initial visit,R233.80,,,,R345.20,
+8635,Apexification/recalcification – per visit,R233.80,,,,R345.20,
+,PERIRADICULAR PROCEDURES,,,,,,
+8637,"Apicectomy/ periradicular surgery, first root – anteriors or premolars","R1,038.60","R1,377.60",,"R1,377.60","R1,377.60",
+8638,"Apicectomy/ periradicular surgery, each additional root – anteriors and premolars",R432.60,R573.90,,R573.90,R573.90,
+8641,"Apicectomy/ periradicular surgery, first root – molar ",R763.40,"R1,145.20",R0.00,"R1,145.20",R0.00,
+8642,"Apicectomy/ periradicular surgery, each additional root – molars",R763.40,"R1,144.90",,"R1,144.90","R1,144.90",
+,OTHER ENDODONTIC PROCEDURES,,,,,,
+8330,Removal of root canal obstruction,R229.10,,,,R229.10,
+8331,Repair of perforation defects,R229.10,,,,,
+8136,Access through a prosthetic crown or inlay to facilitate root canal treatment,R156.50,,,,R156.50,
+8640,Removal of separated instrument within root canal,R608.40,,,,R608.40,
+8765,"Hemisection of a tooth, resection of a root or tunnel preparation (isolated procedure)",R765.60,,,"R1,148.00","R1,148.00",
+8792,Vestibuloplasty with teeth per sextant,"R4,200.00","R6,300.80",,"R6,300.80",,
+8793,Vestibuloplasty in an edentulous area per sextant,"R3,500.20","R5,250.50",,"R5,250.50",,
+8794,Alveoplasty with implant therapy 1-3 teeth,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8795,Alveoplasty with implant therapy 4 or more teeth,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8796,Repair of oronasal opening,"R1,778.10","R2,667.00",,,,
+E.,PERIODONTIC SERVICES,,,,,,
+,"The branch of dentistry used to treat and prevent disease affecting the gingivae, ligaments and bone that supports the teeth.",,,,,,
+,SURGICAL SERVICES,,,,,,
+,Surgical services includes usual postoperative care.,,,,R0.00,,
+8741,Gingivectomy/gingivoplasty - four or more teeth per quadrant,R916.80,,,"R1,257.40",,
+8743,Gingivectomy or gingivoplasty - one to three teeth per quadrant,R732.40,,,R998.30,,
+8749,Flap operation with root planning and curettage (open curettage) - one to three teeth per quadrant,"R1,903.30",,,"R2,855.20","R1,903.30",
+8746,Flap operation with root planing and curettage (open curettage) – four or more teeth per quadrant,"R2,284.10",,,"R3,426.30",,
+,See code 8749 for descriptor,,,,,,
+8747,"Flap operation with root planing and curettage, including bone surgery – one to three teeth per quadrant","R2,474.50",,,"R3,711.90",,
+8748,"Flap operation with root planing and curettage, including bone surgery – four or more teeth per quadrant","R2,664.60",,,"R3,997.40",,
+8756,Clinical crown lengthening (isolated procedure),"R1,159.50",,,"R1,739.30",,
+8757,Clinical Crown Lengthening.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8759,Pedicle flapped graft (isolated procedure),R871.30,,,"R1,306.60",,
+*8761,Masticatory mucosal autograft - extending across one to four teeth (as a separate procedure),R946.40,"R1,420.20",,"R1,420.20",,
+*8762,Masticatory mucosal autograft - extending across four or more teeth per quadrant (as a separate procedure),"R1,422.40","R2,133.30",,"R2,133.30",,
+8763,Wedge resection (isolated procedure),R557.00,R557.00,,R835.60,,
+*8766,Bone regeneration/repair procedure - as part of a flap operation,R455.80,,,R683.30,,
+*8767,Bone regeneration/repair procedure - at a single site,"R1,181.00","R1,771.70",,"R1,771.70",,
+*8769,Membrane removal (used for guided tissue regeneration),R557.00,R835.60,,R835.60,,
+*8770,Cost of bone regenerative/repair material,,,,,,
+*8772,Submucosal connective tissue autograft (isolated procedure),R956.80,"R1,435.30",,"R1,435.30",,
+8780,"Alveolar process preservation, per extraction site",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8995,Gingivectomy - per jaw,"R1,358.10","R2,036.80",,,,
+,NON-SURGICAL PERIODONTAL SERVICES,,,,,,
+8723,Provisional splinting - extracoronal (wire) - per sextant,R326.00,R326.00,,R488.40,R488.40,
+8725,Provisional splinting - extracoronal (wire plus resin) - per sextant,R472.80,R472.80,,R709.00,R709.00,
+8727,Provisional splinting - intracoronal - per tooth,R148.40,R148.40,,R222.50,R222.50,
+8737,Root planing - four or more teeth per quadrant,R702.80,,,R953.30,,
+8739,Root planing - one to three teeth per quadrant,R559.10,,,R760.40,,
+8773,Cost of intrapocket chemotherapeutic agent,,,,,,
+,OTHER PERIODONTAL SERVICES,,,,,,
+8711,The visualisation enhancement adjunct (VEA),R117.20,,,,,
+8712,Cost Of Disposable Items Used With Vea.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8714,Cost Of Phlebotomy Products,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8768,Unlisted periodontal procedure,R557.00,,,R835.60,,
+8732,Topical treatment of diseased soft tissue,R204.40,,,,,
+8787,Unlisted oral medicine procedure,R199.80,,,R299.70,,
+F.,REMOVABLE PROSTHODONTICS,,,,,,
+,"The branch of prosthodontics concerned with the replacement of teeth by artificial substitutes that is readily removable.
+Removable prosthodontic services include routine post-operative care.",,,,,,
+,COMPLETE DENTURES,,,,,,
+8231,Complete dentures - maxillary and mandibular,"R2,831.90",,,,"R5,912.00",
+8232,Complete denture - maxillary or mandibular,"R1,745.60",,,,"R4,136.30",
+8244,Immediate denture - maxillary,"R1,745.60",,,,"R2,619.00",
+8245,Immediate denture - mandibular,"R1,745.60",,,,"R2,619.00",
+8246,Immediate denture – Partial,"R1,222.10",,,,"R1,833.30",
+8646,Immediate denture – maxillary or mandibular    Only for Prosthodontist,,,,,R0.00,
+8647,Immediate denture – maxillary or mandibular (with major complications) Only for Prosthodontist,,,,,R0.00,
+8651,Immediate Denture Mandibular. Only for Prosthodontist,,,,,R0.00,
+,PARTIAL DENTURES,,,,,,
+8233,Partial denture - resin base - one tooth,R811.70,,,,R811.70,
+8234,Partial denture - resin base - two teeth,R811.70,,,,R811.70,
+8235,Partial denture - resin base - three teeth,"R1,214.80",,,,"R1,214.80",
+8236,Partial denture - resin base - four teeth,"R1,214.80",,,,"R1,214.80",
+8237,Partial denture - resin base - five teeth,"R1,214.80",,,,"R1,214.80",
+8238,Partial denture - resin base - six teeth,"R1,611.10",,,,"R1,611.10",
+8239,Partial denture - resin base - seven teeth,"R1,611.10",,,,"R1,611.10",
+8240,Partial denture - resin base - eight teeth,"R1,611.10",,,,"R1,611.10",
+8241,Partial denture - resin base - nine or more teeth,"R1,611.10",,,,"R1,611.10",
+8281,Partial denture - cast metal framework only,"R1,893.90",,,,"R1,893.90",
+8283,Flexible denture framework,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8284,Flexible denture,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8671,Partial denture - cast metal framework with resin denture base,,,,,"R4,721.20",
+,ADJUSTMENTS TO DENTURES,,,,,,
+8275,Adjust complete or partial denture,R128.40,,,,R128.40,
+8662,Adjust complete or partial dentures (remounting),R454.30,,,,R681.70,
+,REPAIRS TO DENTURES,,,,,,
+,"Professional fees should not be levied for the repair of dentures/intra-oral appliances if the practitioner did not examine the patient. Laboratory costs, however, may be recovered.",,,,,,
+8269,Repair denture or other intra-oral appliance,R222.50,,,,R239.70,
+8270,Add clasp to existing partial denture,R160.90,,,,,
+8271,Add tooth to existing partial denture,R160.90,,,,R160.90,
+8273,Impression to repair or modify a denture or other intra-oral appliance,R128.40,,,,R128.40,
+8278,Modification of surgical conformer.,R128.40,R128.40,,,R128.40,
+,DENTURE REBASE PROCEDURES,,,,,,
+,Rebase – The partial or complete removal and replacement of the denture base.,,,,,,
+8259,Rebase complete or partial denture (laboratory),R661.80,,,,R955.10,
+8261,Remodel complete or partial denture,"R1,062.20",,,,"R1,062.20",
+,DENTURE RELINE PROCEDURES,,,,,,
+,Reline - The addition of material to the fitting surface of a denture base.,,,,,,
+8263,Reline complete or partial denture (chair-side),R419.90,,,,R524.60,
+8267,Reline complete or partial denture (laboratory),R966.50,,,,R966.50,
+,INTERIM DENTURES,,,,,,
+,"Also known as provisional, temporary, or transitional dentures. Provisional dentures are used for a limited period of time for reasons of aesthetics, function or occlusal support, after which it is replaced by a more definitive prosthesis.",,,,,,
+8658,Interim complete denture,"R1,745.60",,,,"R2,618.90",
+8659,Interim partial denture,"R1,396.50",,,,"R2,095.10",
+8661,Diagnostic dentures (including tissue conditioning),,,,,"R4,721.20",
+,OTHER REMOVABLE PROSTHETIC PROCEDURES,,,,,,
+*8251,Clasp or rest - cast gold,R160.90,,,,,
+*8253,Clasp or rest - wrought gold,R160.90,,,,,
+8255,Clasp or rest - stainless steel,R169.30,,,,,
+8257,Bar - lingual or palatal,R199.30,,,,,
+8265,Tissues conditioning per arch (including soft self-cure reline),R274.60,,,R274.60,R351.50,
+*8277,Inlay in denture,,,,,,
+8599,Precision attachment (removable denture),R389.40,,,,R584.80,
+8652,Overdenture - complete,"R3,147.40",,,,"R4,721.20",
+8653,Overdenture - partial,"R2,517.90",,,,"R3,777.00",
+8657,Replacement of precision attachment,R222.50,,,,R239.70,
+8663,Metal base to complete denture,R948.20,,,,"R1,422.40",
+8664,Remount crown or bridge for prosthetics,R454.30,,,,R711.90,
+8667,Soft base to denture (heat cured),R948.20,,,,"R1,422.40",
+8672,Altered cast technique (in addition to partial denture),R121.60,,,,R182.50,
+8674,Additive partial denture,"R1,428.00",,,,"R2,142.20",
+G.,MAXILLO-FACIAL PROSTHETICS,,,,,,
+,"The branch of prosthodontics concerned with the restoration of stomatognathic and associated facial structures that have been affected by disease, injury, surgery or congenital defect.
+Where “+D” appears the practitioner will charge the relevant fee/benefit for the denture in the Where “+D” appears the practitioner will charge the relevant fee/benefit for the denture in the Schedule plus the fee/benefit indicated",,,,,,
+9196,Planning for Craniofacial Reconstruction – Simple,R822.60,"R1,233.80","R1,233.80",,,
+9197,Planning for Craniofacial Reconstruction – Complex,"R12,714.30",,"R19,070.90",,,
+,MAXILLIARY PROSTHESIS,,,,,,
+9101,"Obturator prosthesis, surgical - modified denture",R234.60,,,,R351.50,
+9102,"Obturator prosthesis, surgical - continuous base",R635.30,,,,R953.30,
+9103,"Obturator prosthesis, surgical - split base",R946.40,,,,"R1,420.20",
+9104,"Obturator prosthesis, interim - on existing denture","R1,428.00",,,,"R2,142.20",
+9105,"Obturator prosthesis, interim - on new denture","R4,409.70",,,,"R6,614.80",
+9106,"Obturator prosthesis, definitive - open/hollow box","R1,428.00",,,,"R2,142.20",
+9107,"Obturator prosthesis, definitive - silicone glove","R2,757.50",,,,"R4,136.30",
+,Obturator prosthesis modification ,,,,,,
+8685,Modification of obturator prostheses per visit.   ,R159.80,,,,R239.70,
+,MANDIBULAR RESECTION PROSTHESES,,,,,,
+9108,Mandibular resection prosthesis w/ guide flange,"R3,387.10",,,,"R5,080.90",
+9109,Mandibular resection prosthesis w/o guide flange,"R3,147.40",,,,"R4,721.20",
+9110,"Mandibular resection prosthesis, palatal augmentation",R635.30,,,,R953.30,
+,Sleep apnea ,,,,,,
+,GLOSSAL RESECTION PROSTHESES,,,,,,
+9111,Glossal resection prosthesis - simple,"R1,325.10",,,,"R1,988.00",
+9112,Glossal resection prosthesis - complex,"R1,985.10",,,,"R2,977.60",
+,RADIOTHERAPY APPLIANCES,,,,,,
+,CHEMOTHERAPY APPLIANCES,,,,,,
+9118,Chemotherapeutic agent carrier,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,CLEFT PALATE PROSTHESES,,,,,,
+8853,Supracrestal Fiberotomy ,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8855,Consultation - cleft palate therapy (house or hospital),R326.00,R326.00,R488.40,,R488.40,
+8856,Consultation - cleft palate (subsequent),R159.80,R159.80,R239.70,,R239.70,
+8857,Consultation - cleft palate (maximum),"R1,112.30","R1,112.30","R1,668.60",,"R1,668.60",
+,NEONATAL PROSTHESES,,,,,,
+9119,"Feeding aid prosthesis, neonatal","R1,263.70",,"R1,895.80",,"R1,895.80",
+9120,"Orthopaedic appliance, active presurgical - minor","R1,263.70",,"R1,895.80",,"R1,895.80",
+9121,"Orthopaedic appliance, active presurgical - moderate","R1,870.50",,"R2,805.60",,"R2,805.60",
+9122,"Orthopaedic appliance, active presurgical - severe","R3,147.40",,"R4,721.20",,"R4,721.20",
+9123,"Orthopaedic appliance, active presurgical - modification",R159.80,,R239.70,,R239.70,
+,INTERMEDIATE/DEFINITIVE PROSTHESES,,,,,,
+9125,Speech aid/obturator prosthesis - palatal alteration,R637.00,,,,R955.10,
+9126,Speech aid/obturator prosthesis - velar alteration,"R1,428.00",,,,"R2,142.20",
+9127,Speech aid/obturator prosthesis - pharyngeal alteration,"R3,147.40",,,,"R4,721.20",
+9128,Speech aid/obturator prosthesis - modification,R159.80,,,,R239.70,
+9129,Speech aid/obturator prosthesis - surgical,"R1,263.70",,,,"R1,895.80",
+,SPEACH APPLIANCES,,,,,,
+9130,Speech aid appliance - palatal lift,R635.30,,,,R953.30,
+9131,Speech aid appliance - palatal stimulating,"R1,428.00",,,,"R2,142.20",
+9132,Speech aid appliance - bulb,"R3,147.40",,,,"R4,721.20",
+9133,Speech aid appliance - modification,R159.80,,,,R239.70,
+9134,Unspecified speech aid appliance,,,,,,
+,EXTRA-ORAL APPLIANCES,,,,,,
+9135,Auricular prosthesis - simple ,"R3,941.30",,,,"R5,912.00",
+9136,Auricular prosthesis - complex,"R5,142.30",,,,"R7,672.40",
+9137,Nasal prosthesis - simple,"R3,941.30",,,,"R5,912.00",
+9138,Nasal prosthesis - complex ,"R5,142.30",,,,"R7,672.40",
+9139,Ocular prosthesis - interim,"R1,428.00",,,,"R2,142.20",
+9140,Ocular prosthesis - modified stock appliance,"R3,542.70",,,,"R5,314.50",
+9141,Ocular prosthesis - custom appliance,"R5,142.30",,,,"R7,672.40",
+9142,Orbital prosthesis - simple,"R3,542.70",,,,"R5,314.50",
+9143,Orbital prosthesis - complex,"R5,142.30",,,,"R7,672.40",
+9144,"Facial prosthesis, combination - small",,,,,,
+9145,"Facial prosthesis, combination - medium",,,,,,
+9146,"Facial prosthesis, combination - large",,,,,,
+9147,"Facial prosthesis, combination - complex",,,,,,
+9148,Unspecified body prosthesis - simple,"R3,542.70",,,,"R5,314.50",
+9149,Unspecified body prosthesis - complex,"R5,142.30",,,,"R7,672.40",
+9150,"Facial prosthesis, surgical - simple","R2,757.50",,,,"R4,136.30",
+9151,"Facial prosthesis, surgical - complex","R3,542.70",,,,"R5,314.50",
+9152,Extraoral appliance - additional prosthesis,,,,,,
+9153,Extraoral appliance - replacement prosthesis,,,,,,
+9155,Cranial prosthesis,"R1,428.00",,,,"R2,142.20",
+,CUSTOM IMPLANTS,,,,,,
+9156,"Cranial implant prosthesis, custom made","R1,724.00",,,,"R2,585.30",
+9157,"Facial implant prosthesis, custom made - simple",R861.30,,,,"R1,291.60",
+9158,"Facial implant prosthesis, custom made - complex","R1,724.00",,,,"R2,585.30",
+9159,"Ocular implant prosthesis, custom made",R861.30,,,,"R1,291.60",
+9160,Body implant prosthesis - custom made,"R3,832.60",,,,"R5,749.20",
+,SURGICAL APPLIANCES,,,,,,
+9154,Cost of Surgical Splint,,,,,,
+9161,Surgical splint - simple,R389.40,,,,R584.80,
+9162,Surgical splint - complex,"R1,428.00",,,,"R2,142.20",
+9163,Surgical template - simple,R389.40,,,,R584.80,
+9164,Surgical template - complex,"R1,428.00",,,,"R2,142.20",
+9165,Surgical conformer - simple,R389.40,,,,R584.80,
+9166,Surgical conformer - complex,"R1,428.00",,,,"R2,142.20",
+,TRISMUS APPLIANCES,,,,,,
+9167,Trismus appliance (simple),R159.80,,,,R239.70,
+9168,Trismus appliance (complex),"R1,428.00",,,,"R2,142.20",
+9169,Orthoses appliance,"R3,147.40",,,,"R4,721.20",
+9170,Facial palsy appliance,R946.40,,,,"R1,420.20",
+9171,Commissure splint,R389.40,,,,R584.80,
+9172,"Oral retractor, dynamic - per arm",R389.40,,,,R584.80,
+9173,Hand splint,,,,,,
+9174,Unspecified burn appliance,,,,,,
+,ATTENDANCE IN THEATRE,,,,,,
+9175,Theatre attendance (MaxFac prosthod) /hour,R526.70,R790.40,,,R790.40,
+H.,IMPLANT SERVICES,,,,,,
+,"Services/procedures concerned with the surgical insertion of materials and devices into, onto and about the jaws and oral cavity for purposes of oral maxillofacial or oral occlusal rehabilitation or cosmetic corrections.",,,,,,
+,SURGICAL IMPLANT PROCEDURES,,,,,,
+,The codes in this subsection are intended to report surgical procedures for the placement of implants to be used as prosthetic abutments. The surgical phase includes all procedures concerned with placing the implant into or onto the bone and preparation for the prosthetic phase.,,,,,,
+*9180,Surgical placement of sub-periosteal implant - preparatory stage,"R2,310.70","R3,466.30",,,,
+*9181,Surgical placement of sub-periosteal implant - placement stage,"R2,310.70","R3,466.30",,,,
+*9182,Surgical placement of endosteal implant plate,"R1,156.40","R1,735.10",,"R1,735.10",,
+8216,CBCT of plaster models or impressions for the purpose of creating virtual models for use in planning software,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*9183,Surgical placement of endosseus implant  - first per quadrant,"R1,628.00","R2,212.80",,"R2,212.80",,
+*9190,Surgical exposure of endosseus implant  - first per quadrant,R603.90,R817.70,,R817.70,R817.70,
+,IMPLANT SUPPORTED PROSTHETICS,,,,,,
+,Services/procedures concerned with the construction and placement of fixed or removable prosthesis on any implant device. Prosthetic devices which are not listed in this subsection should be reported using existing fixed or removable prosthetic codes.,,,,,,
+,Abutments and Bars,,,,,,
+,"These codes are intended to report the placement of final restorations and should not be used to report the placement of temporary/provisional components e.g., healing abutments/collars, temporary abutments, caps, cylinders, etc.Abutments as part of one-piece endosteal implants (incorporating both the implant and integral fixed abutment) are considered being part of the implant body and should not be reported in addition to the surgical placement of the implant.See Codes 9187 to 9189 located in the “Other implant services” section to submit the cost of implant components.",,,,,,
+*8584,Connector bar - implant supported,"R3,147.40",,,,"R4,721.20",
+8669,Crown cemented on a screw-retained implant-supported superstructure.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*8578,Prefabricated abutment,R326.00,,,,R488.40,
+*8579,Custom abutment,"R1,485.40",,,,"R2,227.70",
+8580,Modification of prefabricated abutment,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,Removable Dentures,,,,,,
+*8533,Implant supported removable complete overdenture,"R3,147.40",,,,"R4,721.20",
+*8534,Implant supported removable partial overdenture,"R2,517.90",,,,"R3,777.00",
+,Fixed-detachable Dentures,,,,,,
+*8654,Implant supported fixed-detachable complete overdenture,"R3,540.30",,R0.00,R0.00,"R5,310.40",R0.00
+8550,Retainer - implant supported,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*8655,Implant supported fixed-detachable partial overdenture,"R2,832.00",,,,"R3,638.50",
+*8660,Additional fee to implant supported fixed-detachable denture - per implant,R488.40,,,,R488.40,
+,Crowns - Single Restorations,,,,,,
+*8536,Implant/abutment supported crown - ceramic,"R2,602.80",,,,"R3,442.30",
+*8537,Implant/abutment supported crown - ceramometal,"R2,602.80",,,,"R3,442.30",
+*8538,Crown - implant/abutment supported - cast metal,"R2,602.80",,,,"R3,442.30",
+8539,Crown-Implant / abutment supported crown – resin veneered to metal,"R2,602.80",R0.00,R0.00,R0.00,"R3,442.30",R0.00
+8541,Implant supported temporary crown – cemented,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8542,Implant supported temporary crown – screw retained,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8543,Implant supported provisional crown – cemented,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8544,Implant supported provisional crown – screw retained,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8592,Crown - implant/abutment supported,"R3,540.00",R0.00,R0.00,R0.00,"R4,682.10",
+8673,Access through a cemented implant supported crown for screw location,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,Bridge Retainers - Crowns,,,,,,
+*8546,Implant supported crown retainer - ceramic,"R2,602.80",,,,"R3,442.30",
+*8547,Crown retainer - implant/abutment supported - porcelain with metal,"R2,602.80",,,,"R3,442.30",
+*8548,Crown retainer - implant/abutment supported - cast metal,"R2,602.80",,,,"R3,442.30",
+8549,Implant supported crown retainer – resin veneered to metal,"R2,003.80",R0.00,R0.00,R0.00,"R2,650.40",R0.00
+8571,Implant supported temporary retainer – cemented,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8572,Implant supported temporary crown  retainer – screw retained,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8573,Implant supported provisional crown retainer – cemented,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8574,Implant supported provisional crown retainer – screw retained,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,OTHER IMPLANT SERVICES,,,,,,
+8665,Mini screw implants,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8666,Immediate loading of implant,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8668,Metal base for implant supported denture - complete,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8621,Metal base for implant supported denture – Partial,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8670,Implant screw access closure,R191.60,R0.00,R0.00,R0.00,R191.60,R0.00
+8588,Implant supported superstructure,R0.00,R0.00,R0.00,R0.00,R0.00,
+*8590,Implant maintenance procedures - per implant,R144.10,,,,R216.20,
+8591,Removal of implant supported prosthesis,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*8594,Repair of implant supported prosthesis,R159.80,,,,R239.70,
+*8595,Repair of implant abutment,R159.80,,,,R239.70,
+8596,"Repair of implant supported ceramic or ceramometal crown, retainer or pontic",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8598,Repair of implant supported Provisional Prosthesis,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*8600,Cost of implant components,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*9187,Cost of endosteal implant body,,,,,,
+*9188,Cost of prefabricated abutment,,,,,,
+*9189,Cost of other implant compnts,,,,,,
+9193,Report for placement of implant into fresh extraction socket,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+9194,Surgical placement of one-piece trans mucosal endosseus implant,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+9195,Additional code for the surgical placement of single phase endosseus implant,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8603,Removal of fractured/damaged screw within implant.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8604,Removal of fractured/damaged screw within abutment.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8607,"Skeletal anchorage - screw, plate or implant ",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8608,Removal of non-integrated implant,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8609,"Flap operation with modification of the implant surface, including bone surgery-one to three implants per quadrant",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8610,"Flap operation with modification of the implant surface, including bone surgery-four or more implants per quadrant",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8612,Skeletal anchorage - removal,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*9198,Surgical removal of implant,R752.60,"R1,128.90",,"R1,128.90",,
+9199,Assessment Of Implant Fixture Osseointegration.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+I.,FIXED PROSTHODONTICS,,,,,,
+,"The branch of prosthodontics concerned with the replacement or restoration of teeth by artificial substitutes that are not readily removable.
+A prosthetic retainer (e.g., crown/inlay/onlay retainer) in this section is defined as a part of a bridge that attaches a pontic to the abutment tooth.  A pontic is that part of a bridge which replaces a missing tooth or teeth. Each retainer and each pontic constitutes a unit in a bridge.
+Porcelain/ceramic retainers and pontics presently include all ceramic, porcelain and porcelain fused to metal retainers and pontics.
+Resin retainers and pontics and resin metal retainers and pontics include all reinforced heat and/or pressure-cured resin materials.
+Metal components include structures manufactured by means of conventional casting and/or electroforming.",,,,,,
+,PONTICS,,,,,,
+,"Comment: Codes 8415, 8416, 8417and 8418 include ovate pontic designs. The nomenclatures of the pontics have been revised to coincide with the nomenclature used for crowns, which improves accurate record keeping. A similar approach has been followed for crowns and inlays/onlays utilised as bridge retainers.",,,,,,
+8415,Pontic - porcelain/ceramic,"R1,636.40",,,,"R1,636.40",
+8416,Pontic - cast metal,"R1,299.90",,,,"R1,299.90",
+8417,Pontic - resin with metal,"R1,636.40",,,,"R1,636.40",
+8418,Pontic - porcelain fused to metal,"R1,636.40",,,,"R1,636.40",
+8419,Provisional pontic,R389.40,,,,R584.80,
+8420,Pontic – resin based composite (indirect),R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8422,Pontic – resin based composite (direct),R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8423,Ovate pontic design,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8421,Temporary pontic,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,BRIDGE RETAINERS – INLAYS/ONLAYS,,,,,,
+,"An inlay/onlay retainer for a bridge that gains retention, support and stability from a tooth. The cusp tip must be overlayed to be considered an onlay.
+See inlay/onlay restorations in the Restorative Services Section for inlay/onlay retainers.",,,,,,
+8431,Temporary inlay/onlay retainer    Emergency inlay/onlay retainer. An emergency inlay/onlay retainer temporary is a custom made retainer to maintain the space and tissue until the definitive prosthesis can be placed. This code is to be used when the patient has to have a prosthesis fabricated as an emergency when the previous definitive prosthesis has failed and cannot be recemented,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8432,Inlay/onlay retainer - metal - two surfaces,R780.00,,,,"R1,524.90",
+8433,Inlay/onlay retainer - metal - three surfaces,"R1,299.90",,,,"R2,364.70",
+8434,Inlay/onlay retainer - metal - four or more surfaces,"R1,572.30",,,,"R2,364.70",
+8436,Inlay/onlay retainer - porcelain - two surfaces,R948.70,,,,"R1,829.40",
+8437,Inlay/onlay retainer - porcelain - three surfaces,"R1,563.50",,,,"R2,842.30",
+8438,Inlay/onlay retainer - porcelain - four or more surfaces,"R1,893.90",,,,"R2,842.30",
+8617,Retainer cast metal (Maryland type retainer),R780.00,,,,"R1,524.90",
+8619,Fibre reinforced resin inlay retainer – Use for direct Maryland type resin-bonded bridges.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,BRIDGE RETAINERS – CROWNS,,,,,,
+,"A crown retainer for a bridge that gains retention, support and stability from a tooth.",,,,,,
+8440,Temporary crown retainer,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8441,Crown retainer - full cast metal,"R2,005.20",,,,"R2,951.80",
+8442,Crown retainer - 3/4 cast metal,"R2,005.20",,,,"R2,951.80",
+8443,Crown retainer - porcelain/ceramic,"R2,005.20",,,,"R2,951.80",
+8444,Crown retainer - 3/4 porcelain/ceramic,"R2,005.20",,,,"R2,951.80",
+8445,Crown retainer - porcelain with metal,"R2,005.20",,,,"R2,951.80",
+8446,Crown retainer - resin with metal,"R2,005.20",,,,"R2,951.80",
+8448,Crown retainer – resin based composite (indirect),R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8447,Provisional crown retainer,R389.40,,,,R584.80,
+,OTHER FIXED PROSTHODONTIC PROCEDURES,,,,,,
+,See “other restorative services” for procedures related to fixed prosthesis not listed in this sub-section.,,,,,,
+8514,Recement bridge,R175.40,,,,R222.50,
+8515,Sectioning of a bridge ,R349.10,,,,R349.10,
+8516,Remove bridge,R349.10,,,,R349.10,
+8518,Repair bridge,R389.40,,,,R389.40,
+8585,Connector bar,"R3,147.40",,,,"R4,721.20",
+8586,Stress breaker,"R1,173.90",,,,"R1,760.80",
+8587,Coping metal,R261.30,,,,R488.40,
+J.,ORAL AND MAXILLO-FACIAL SURGERY,,,,,,
+,The branch of dentistry using surgery to treat disorders/diseases of the mouth. Surgical procedures include routine postoperative care.,,,,,,
+,EXTRACTIONS,,,,,,
+8201,Extraction of tooth or exposed tooth roots,R201.70,R302.70,,R201.70,R201.70,
+8204,Minimally traumatic tooth/root removal,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,SURGICAL EXTRACTIONS,,,,,,
+,Report code 8220 when sutures are provided by the practitioner.,,,,,,
+8213,Surgical removal of residual tooth roots,R758.40,,,,,
+8215,Impressions for the purpose of establishing virtual models for use in planning software ,R0.00,R0.00,R0.00,R0.00,R0.00,
+8936,Cost Of Wound Dressing Such As Bipp Pack,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8937,Surgical removal of tooth,R758.40,"R1,023.70",,R758.40,,
+8941,Surgical removal of impacted tooth,"R1,257.40","R1,653.30",,"R1,257.40",,
+8953,"Surgical removal of residual roots, first tooth - per tooth",,"R1,023.70",,,,
+,Distraction osteogenesis ,,,,,,
+9067,Distraction osteogenesis – across one to two tooth sites,"R3,396.90","R5,095.70",,,,
+9068,Distraction of the alveolar ridge -across three to five tooth sites,"R3,396.90","R5,095.70",,,,
+9070,Distraction of the alveolar ridge -full arch,"R3,396.90","R5,095.70",,,,
+9073,Distraction for the reconstruction of the mandibular body (per side),"R3,396.90","R5,095.70",,,,
+9078,Distraction for the reconstruction of the mandibular condyle and tempero-mandibular joint,"R3,396.90","R5,095.70",,,,
+9080,Distraction for the reconstruction of the midface (internal distractor),"R3,396.90","R5,095.70",,,,
+9082,Distraction for the reconstruction of the midface (external distractor),"R3,396.90","R5,095.70",,,,
+9084,Removal of an internal or external distractor device,R652.70,R979.00,,,,
+,OTHER SURGICAL PROCEDURES,,,,,,
+8517,Reimplantation of avulsed tooth (include stabilisation),R405.80,R405.80,,R405.80,R608.40,
+8909,Oral antral fistula closure,"R1,778.10","R2,667.00",,,,
+9247,Bicoronal approach,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+9249,Blephro-approach,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+9251,Transconjunctival/subcilliary approach,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+9253,Mandibular swing approach for access to the skullbase,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+9255,Geniohyoidotomy (mandibular split),,R0.00,,,,
+9257,"Midfacial deglove, including nasal skeleton",,R0.00,,,,
+8916,Preauriculo-temporal approach,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8912,Transmasseteric antero-parotid approach,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8913,Condylar Risdon / submandibular approach,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8914,Endoscopic or intra-oral approach to the condyle,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8915,Intra-oral circum-oral mandibular approach,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8911,Caldwell-Luc procedure,R695.70,"R1,043.70",,,,
+8917,Biopsy of oral tissue - soft,R443.60,R591.30,,R591.30,,
+8918,Brush biopsy,R682.40,"R1,023.70",,,,
+8919,Biopsy of bone - needle,R682.40,"R1,023.70",,R682.40,,
+8920,Exfoliative cytological specimen collection,"R1,116.60","R1,675.00",,,,
+8923,Aspiration biopsy (FNA),R682.40,"R1,023.70",,,,
+8924,Open biopsy of a single lymph node in the neck,"R1,116.60","R1,675.00",,,,
+8932,"Biopsy of soft tissue – intraoral superficial, with suturing","R1,116.60","R1,675.00",,,,
+8934,"Biopsy of soft tissue– intraoral deep or intramuscular, requiring suturing in multiple layers","R1,116.60","R1,675.00",,,,
+8921,Biopsy – extra-oral bone/soft tissue,"R1,116.60","R1,675.00",,"R1,116.60",,
+8925,"Biopsy of soft tissue –extra oral deep or intramuscular, requiring suturing in multiple layers ","R1,116.60","R1,675.00",,,,
+8926,Biopsy of tissue –intra-oral bone,R682.40,"R1,023.70",,,,
+8927,Biopsy of tissue –extra-oral bone,R682.40,"R1,023.70",,,,
+8928,Core Needle biopsy,R682.40,"R1,023.70",,,,
+8961,Tooth transplantation,"R1,526.30","R2,289.90",,,,
+8965,Peripheral neurectomy,"R1,526.30","R2,289.90",,,,
+8966,Repair of oronasal fistula (local flaps),"R2,123.40","R3,185.50",,,,
+8981,Surgical exposure of impacted or unerupted teeth to aid eruption,"R1,401.10","R1,908.70",,"R1,908.70",,
+8896,Cost of materials required to aid eruption ,,,,,,
+8983,Corticotomy - first tooth,"R1,014.00","R1,520.80",,,,
+8994,Placement of Zygomaticus implant,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8996,Placement of  a second Zygomaticus implant,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8998,Craniofacial transcutaneous endosseus implant,"R1,156.40","R1,735.10",,,,
+8999,Craniofacial trans mucosal endosseus implant,"R1,156.40","R1,735.10",,,,
+8606,Placement of implant fixtures outside the oral cavity,"R1,156.40","R1,735.10",,,,
+9231,Defensive corticotomy – marginal mandibulectomy,R0.00,"R2,952.50",R0.00,R0.00,R0.00,R0.00
+,ALVEOLOPLASTY,,,,,,
+8955,Alveoplasty or alveolectomy in conjunction with extractions- per quadrant,R931.20,"R1,396.60",,,,R0.00
+8956,Alveoplasty or alveolectomy not in conjunction with extractions – per quadrant,R931.20,"R1,396.60",,,,R0.00
+8957,Alveolotomy or alveolectomy (including extractions),R0.00,R0.00,,,,
+*9003,Reposition mental foramen and nerve - per side,"R2,120.60","R3,181.30",,,,R0.00
+*9004,Lateralization of inferior dental nerve,"R3,416.90","R5,126.00",,,,R0.00
+,VESTIBULOPLASTY,,,,,,
+,Any of a series of surgical procedures designed to increase relative alveolar ridge height.,,,,,,
+8997,Sulcoplasty / Vestibuloplasty,"R3,500.20","R5,250.50",,"R5,250.50",,R0.00
+,SURGICAL EXCISION OF SOFT TISSUE LESIONS,,,,,,
+8971,Excision of tumour of the soft tissue,R682.40,"R1,023.70",,"R1,023.70",,R0.00
+8970,"Excision of benign soft tissue tumour/cyst
+requiring suturing in multiple layers no
+muscular involvement",R682.40,"R1,023.70",,"R1,023.70",,R0.00
+8968,"Excision of benign soft tissue tumour/cyst
+requiring extensive resection and suturing in
+multiple layers with muscular involvement",R682.40,"R1,023.70",,,,R0.00
+8972,Excision small malignant lesion requiring minimal suturing,R546.00,R819.00,,R819.00,,R0.00
+8974,Excision of malignant soft tissue tumour requiring suturing in multiple layers no muscular or intraosseus involvement,R341.30,R512.00,,,,R0.00
+8976,Extensive resection for malignant soft tissue tumour - excluding reconstruction,"R1,705.90","R2,559.30",,,,R0.00
+8978,"Excision of a lesion of the tongue requiring no suture or primary suture, excludes primary suture and may be reported with code 8990",R454.70,R682.40,,R682.40,,R0.00
+8910,Vermillionectomy   ,,"R1,751.10",,,,R0.00
+8982,Local excision of benign lesion of lip with primary closure,R682.40,"R1,023.70",,"R1,023.70",,R0.00
+8986,Local excision of benign lesion of lip where primary closure is not possible.  ,R682.40,"R1,023.70",,,,R0.00
+8988,Resection for lip malignancy ,,"R1,751.10",,,,R0.00
+,Repair/reconstructive procedures ,,,,,,
+8990,Repair by primary suture,R865.50,"R1,148.00",,,,R0.00
+8992,Repair by skin graft or local flap,R865.50,"R1,148.00",,,,R0.00
+9006,Lip reconstruction following an injury or tumour removal: primary closure,,"R5,039.40",,,,R0.00
+9018,"Lip reconstruction following an injury or tumour removal: simple advancement, rotation flap (Abbe or Estlander) (first stage)",,"R3,801.20",,,,R0.00
+9020,"Lip reconstruction following an injury or tumour removal: simple advancement, rotation flap (Abbe or Estlander) (subsequent stages)",,"R3,801.20",,,,R0.00
+9022,Lip reconstruction following an injury or tumour removal: Total complicated reconstruction with a complicated advancement flap (Bernard flap),,"R1,919.20",,,,R0.00
+,Neck dissection ,,,,,,
+9026,Radical neck dissection,,"R6,495.30",,,,R0.00
+9221,Posterior neck dissection,,"R6,495.30",,,,R0.00
+9028,Modified radical neck dissection,,"R6,495.30",,,,R0.00
+9030,Selective neck dissection.,,"R6,495.30",,,,R0.00
+9034,Extended neck dissection.,,"R6,495.30",,,,R0.00
+8939,Limited neck dissection,,"R6,495.30",,,,R0.00
+,SURGICAL EXCISION OF INTRA-OSSEOUS LESIONS,,,,,,
+8967,Surgical removal of jaw cyst - intra-oral approach,"R2,120.60","R3,181.30",,,,R0.00
+8969,Surgical removal of jaw cyst - extra-oral approach,"R3,396.90","R5,095.70",,,,R0.00
+8973,Surgical excision of tumours of the jaw,"R3,396.90","R5,095.70",,,,R0.00
+9040,Surgical removal of jaw cyst/tumor – intra-oral approach for lesions  >1cm with no involvement of vital structures,"R2,120.60","R3,181.30",,,,R0.00
+9042,"Surgical removal of jaw cyst/tumor – intra-oral approach for lesions  >1cm with involvement of vital structures, reconstructive procedures not included","R2,544.50","R3,817.60",,,,R0.00
+9044,"Surgical excision of malignant tumours of the jaws– extra-oral approach, reconstructive procedures not included","R4,076.40","R6,115.00",,,,R0.00
+9054,"Surgical excision of tumours of the midface (zygoma, nose and orbits), reconstructive procedures not included","R3,396.90","R5,095.70",,,,R0.00
+9056,Radical resection of palate (including skin graft),,"R4,613.30",,,,R0.00
+9058,Wide excision of lesion of palate,,"R1,845.50",,,,R0.00
+9064,Complicated reconstruction of bony defects following major ablative procedure for head and neck cancer – soft tissue reconstruction excluded,,,,,,R0.00
+9086,Tumour resection from infratemporal or pterygopalatine fossa,,"R9,595.30",,,,R0.00
+9088,Tarsorrhaphy,,R867.10,,,,R0.00
+9090,Excision of lacrimal sac: Unilateral,,R867.10,,,,R0.00
+9094,Orbitectomy: Removal of tumour,,"R4,428.80",,,,R0.00
+9097,Orbit: Exenteration,,"R5,074.60",,,,R0.00
+9290,"Maxillectomy - Alveolus only, Level I",,"R21,388.30",,,,R0.00
+9292,"Maxillectomy - Alveolus and sinus or nasal floor, Level II",,"R21,399.10",,,,R0.00
+9294,"Maxillectomy - Alveolus, sinus, nasal floor and zygoma excluding orbital rim Level III",,"R21,399.10",,,,R0.00
+9296,"Maxillectomy - Alveolus, sinus, nasal floor and zygoma including orbital rim Level IV",,"R32,070.90",,,,R0.00
+9298,"Maxillectomy - Alveolus, sinus, nasal floor, zygoma, orbital rim and pterygoid plates Level V",,"R32,070.90",,,,R0.00
+9300,Hemiresection of jaw including condyle and coronoid process,,"R21,399.10",,,,R0.00
+,EXCISION OF BONE TISSUE,,,,,,
+8975,Hemiresection of jaw excluding condyl,"R3,568.70","R5,353.10",,,,R0.00
+8987,Reduction of mylohyoid ridges - per side,"R1,526.30","R2,289.90",,,,R0.00
+8989,Removal torus mandibularis,"R1,526.30","R2,289.90",,,,R0.00
+8991,Removal of torus palatinus,"R1,526.30","R2,289.90",,,,R0.00
+8993,Surgical reduction of osseous tuberosity - per side,R682.40,"R1,023.70",,,,R0.00
+9098,Partial mandibulectomy,,"R5,904.80",,,,R0.00
+,SURGICAL INCISION,,,,,,
+8731,Incision & drainage of abscess - intra-oral,R279.80,,,R419.90,,R0.00
+8908,Surgical removal of roots from maxillary antrum,"R2,319.10","R3,478.70",,,,R0.00
+9011,Incision & drainage of abscess - intra-oral (pyogenic),R434.10,R651.00,,,,R0.00
+9013,Incision & drainage of abscess - extra-oral (pyogenic),R593.50,R891.10,,,,R0.00
+9100,Multiple extra-oral incision & drainages (eg. Ludiwig's angina),R712.30,"R1,069.40",,,,R0.00
+9299,Abscess - Retropharyngeal or equivalent,,R645.80,,,,R0.00
+9017,"Decortication, saucerisation and sequestrectomy","R3,143.10","R4,714.20",,,,R0.00
+9019,Sequestrectomy - intra oral per sextant and or ramus,R682.40,"R1,023.70",,,,R0.00
+,TREATMENT OF FRACTURES,,,,,,
+,Alveolus Fractures,,,,,,
+9024,Dento-alveolar fracture - per sextant,R765.60,"R1,148.00",,,,R0.00
+,Mandibular Fractures,,,,,,
+9025,Closed treatment of mandibular fracture,"R1,695.10","R2,542.80",,,,R0.00
+9027,"Mandible fracture - compound, with eyelet wiring","R2,380.90","R3,570.70",,,,R0.00
+9029,Treatment of mandibular fracture with metal cap splintage or Gunning’s splints,"R2,636.00","R3,954.20",,,,R0.00
+9031,Mandible fracture - open reduction,"R3,907.30","R5,860.70",,,,R0.00
+,Maxilliary Fractures,,,,,,
+9035,Closed reduction of maxillary fracture - Le Fort I or Guerin,"R2,385.20","R3,577.20",,,,R0.00
+9036,Open treatment of maxillary fracture – Le Fort I,"R2,385.20","R3,577.20",,,,R0.00
+9037,Closed reduction of maxillary fracture - Le Fort II or middle third of face,"R3,907.30","R5,860.70",,,,R0.00
+9038,Open treatment of maxillary fracture - Le Fort II or middle third of face,"R3,907.30","R5,860.70",,,,R0.00
+9039,Open reduction of maxillary fracture - Le Fort III or craniofacial disjunction,"R5,603.90","R8,405.40",,,,R0.00
+,Zygoma/Orbital/Antral Fractures,,,,,,
+9041,Zygomatic arch fracture - closed reduction,"R1,695.10","R2,542.80",,,,R0.00
+9043,Zygomatic arch fracture - open reduction,"R3,396.90","R5,095.70",,,,R0.00
+9045,Zygomatic arch fracture - open reduction (requiring osteosynthesis and/or grafting),"R5,089.40","R7,634.10",,,,R0.00
+9291,Zygomatic fracture-open reduction with fixation at two sites,"R3,396.90","R5,095.70",,,,R0.00
+8944,Zygomatic fracture-open reduction with fixation at three or more sites,"R3,396.90","R5,095.70",,,,R0.00
+9293,Zygomatic fracture-closed reduction,"R1,695.10","R2,542.80",,,,R0.00
+9295,Cost of device material to test implant stability.,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+9297,Removal of eyelet wiring.,,R0.00,,,,
+8946,Zygomatic reconstruction (osteotomy or onlay),"R7,123.10","R10,684.90",,,,R0.00
+8947,Anthrostomy for the placement of a sinuspack in order to reduce a zygomatic fracture,,"R1,192.00",,,,R0.00
+9046,"Placement of Zygomaticus fixture, per fixture","R3,361.90","R5,042.50",,,,R0.00
+9273,Open treatment of an orbital wall fracture,,"R3,406.20",,,,R0.00
+9275,Major orbital reconstruction (comminuted orbital fractures),,"R3,406.20",,,,R0.00
+9277,Secondary reconstruction of orbital defect,,"R3,406.20",,,,R0.00
+9279,Eyelid surgery for facial paralysis including tarsoraphy (excludes material),,"R3,451.00",,,,R0.00
+9281,Full thickness eyelid repair (tumor or trauma surgery),,"R2,518.90",,,,R0.00
+9283,"Repair by superior rectus, levator or frontalis muscle operation",,"R3,506.30",,,,R0.00
+9285,Ptosis: By lesser procedure e.g. sling operation,,"R2,539.30",,,,R0.00
+9287,Dacrocystorhinostomy,,"R3,875.20",,,,R0.00
+,Nasal Fractures,,,,,,
+9280,Open reduction and fixation of nasal fractures,,"R5,860.70",,,,R0.00
+9282,Manipulation and immobilisation of nasal fracture,,"R2,542.80",,,,R0.00
+,TEMPOROMANDIBULAR JOINT,,,,,,
+,Procedures which are an integral part of a primary procedure should not be reported separately.,,,,,,
+8170,Cost of Mouth protector,R204.40,,,,,R0.00
+8172,Cost of orthotic appliance,,,,,,R0.00
+8850,Treatment of MPDS - first visit,R268.50,R268.50,R402.90,,R402.90,R0.00
+8851,Treatment of MPDS - subsequent visit,R141.60,R141.60,R212.10,,R212.10,R0.00
+8852,Occlusal orthotic appliance,R674.60,R888.70,R888.70,R888.70,R888.70,R0.00
+8951,Trigger point injection (local anesthesia),R198.10,R298.00,,,,R0.00
+8952,"Pain point injection (alcohol, phenol, etc)",R198.10,R298.00,,,,R0.00
+8954,Laser treatment for facial pain,R198.10,R298.00,,,,R0.00
+9053,Coronoidectomy (intra-oral approach),"R2,119.20","R3,178.60",,,,R0.00
+9074,Tmj arthroscopy diagnostic,"R1,686.40","R2,530.00",,,,R0.00
+9075,"Condylectomy, coronoidectomy or both","R4,237.20","R6,355.70",,,,R0.00
+9076,TMJ artrocentesis,R931.20,"R1,396.60",,,,R0.00
+9077,TMJ intra-articular injection,R254.20,R381.60,,,,R0.00
+9079,Trigger point injection,R198.10,R298.00,,,,R0.00
+9081,Condylectomy (Ward/Kostecka),"R1,695.10","R2,542.80",,,,R0.00
+9083,TMJ srthroplasty,"R4,237.20","R6,355.70",,,,R0.00
+9085,Reduction of TMJ disloc w/o anaesthetic,R336.90,R505.80,,,,R0.00
+9087,Reduction of TMJ disloc w/ anaesthetic,R682.40,"R1,023.70",,,,R0.00
+9089,Reduction of TMJ disloc w/ anaesthetic and immobobilisation,"R1,695.10","R2,542.80",,,,R0.00
+9091,Reduction of TMJ dislocation - open reduction,"R4,237.20","R6,355.70",,,,R0.00
+9092,Joint reconstruction,"R11,311.30","R16,967.30",,,,R0.00
+8929,Removal of temperomandibular joint prosthesis,R652.70,R979.00,,,,R0.00
+8930,"Design meeting and / or planning for a custom prosthesis / tempero-mandibular joint, charge per joint/prosthesis designed",R953.30,,,,,R0.00
+,REPAIR OF TRAUMATIC WOUNDS,,,,,,
+8192,Suture - minor,R865.50,R865.50,,R865.50,,R0.00
+,COMPLICATED SUTURING,,,,,,
+,Reconstruction requiring delicate handling of tissues and undermining for meticulous closure. Excludes the closure of surgical incisions.,,,,,,
+9021,"Suture - reconstruction, minor (excludes closure of surgical incisions)",R865.50,"R1,148.00",,,,R0.00
+9023,"Suture - reconstruction, major (excludes closure of surgical incisions)","R1,611.10","R2,416.30",,,,R0.00
+,OTHER REPAIR PROCEDURES,,,,,,
+8958,Emergency tracheotomy,R782.30,"R1,173.50",,,,R0.00
+8959,Pharyngostomy,R782.30,"R1,173.50",,,,R0.00
+9289,Frenulotomy,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*8962,Harvest iliac crest graft,R562.90,R691.60,,,,R0.00
+9208,Harvest iliac crest graft - monocortical,R562.90,R691.60,,,,R0.00
+9209,Harvest iliac crest graft - bicortical,R562.90,R691.60,,,,R0.00
+9210,Harvest tibial bone - spongiosa,R562.90,R691.60,,,,R0.00
+9211,Harvest iliac crest graft - bicortical,,R0.00,,,,
+9212,Harvest rib graft - bone,R645.80,R968.20,,,,R0.00
+9213,Harvest rib graft - cartilage,R645.80,R968.20,,,,R0.00
+*8963,Harvest rib graft,R645.80,R968.20,,,,R0.00
+*8964,Harvest cranium graft,R505.80,R758.40,,,,R0.00
+9214,Harvest auricular cartilage graft,R645.80,R968.20,,,,R0.00
+8977,Surgical repair of maxilla or mandible - major,"R3,566.00","R5,348.60",,,,R0.00
+9001,Augmentation of alveolar ridge using block graft / split ridge technique – across one to two tooth sites,"R3,568.70","R5,353.10",,"R5,353.10",,R0.00
+9002,Augmentation of alveolar ridge using block graft / split ridge technique – across three to five tooth sites. See code 9001 for descriptor.,"R2,246.10","R3,369.40",,,,R0.00
+*8979,Harvesting of autogenous grafts (intra-oral),R294.00,R441.20,,R441.20,,R0.00
+8980,"Intraoral harvesting of bone-coagulum/bone-scraping, not per site",R645.80,R968.20,,,,R0.00
+9215,Intra-oral harvesting of particulate bone,R645.80,R968.20,,,,R0.00
+9216,Harvest fascia lata,R562.90,R691.60,,,,R0.00
+9217,Harvest of free fat,R562.90,R691.60,,,,R0.00
+8985,Frenulectomy ,R931.20,"R1,396.60",,"R1,396.60",,R0.00
+*9005,Alveolar ridge augmentation - total (by bone graft),"R3,568.70","R5,353.10",,"R5,353.10",,R0.00
+*9007,Alveolar ridge augmentation - total (by alloplastic material),"R2,246.10","R3,369.40",,,,R0.00
+*9008,Alveolar ridge augmentation - one to two tooth sites,R694.40,"R1,270.50",,"R1,270.50",,R0.00
+*9009,Alveolar ridge augmentation - three across 3 or more tooth sites,"R1,543.60","R2,315.40",,"R2,315.40",,R0.00
+*9010,Sinus lift procedure,"R2,319.10","R3,478.70",,"R3,478.70",,R0.00
+9012,"Maxillary sinus floor bone augmentation, buccal-approach, limited",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+9014,Osteotome sinus floor bone augmentation,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*9032,Open treatment of mandibular fracture through an extra-oral approach.,R0.00,"R5,860.70",R0.00,R0.00,R0.00,R0.00
+*9033,Reduction of masseter muscle and bone - intra-oral approach,,,,,,R0.00
+8940,Endoscopic management of a condylar fracture – report per side,"R1,695.10","R2,542.80",,,,R0.00
+9048,"Surgical removal of internal fixation devices, per site",R652.70,R979.00,,,,R0.00
+,Functional Correction of Malocclusion,,,,,,
+,For Codes 9047 to 9072 the full fee may be charged.,,,,,,
+9206,Surgical removal of reconstruction plate,R652.70,R979.00,,,,R0.00
+9218,Nerve repair: 1st Fasciculus,,"R3,727.40",,,,R0.00
+9219,Nerve repair: 2nd and additonal Fasciculus,,R922.80,,,,R0.00
+9225,Nerve repair: entubelation,,"R4,133.20",,,,R0.00
+*9047,Osteotomy - open with stabilisation,"R7,123.10","R10,684.90",,,,R0.00
+*9049,"Osteotomy - mandible body, anterior segmental","R5,936.40","R8,904.40",,,,R0.00
+*9050,Osteotomy - total subapical,"R10,858.80","R16,288.00",,,,R0.00
+*9051,Genioplasty,"R3,396.90","R5,095.70",,,,R0.00
+9204,"Sandwich osteotomy - for placement of an interpositional bone graft to increase the alveolar ridge height, may also be reported if utilized in the maxilla","R7,123.10","R10,684.90",,,,R0.00
+*9052,Midfacial exposure,"R5,377.90","R8,066.80",,,,R0.00
+*9055,"Osteotomy - segmented, posterior","R5,936.40","R8,904.40",,,,R0.00
+*9057,"Osteotomy - segmented, anterior","R5,936.40","R8,904.40",,,,R0.00
+*9059,"Reconstruct maxilla - Le Fort I osteotomy, one piece","R11,170.00","R16,754.90",,,,R0.00
+*9060,Reconstruct maxilla - Le Fort I osteotomy w/ repositioning and graft,"R12,539.80","R18,809.10",,,,R0.00
+*9061,Palatal osteotomy,"R3,907.30","R5,860.70",,,,R0.00
+*9062,"Reconstruct maxilla - Le Fort I osteotomy, multiple segments","R14,259.20","R21,388.30",,,,R0.00
+9063,Reconstruct maxilla - Le Fort 2 osteotomy (facial and post-traumatic deformities),"R14,266.10","R21,399.10",,,,R0.00
+9065,Reconstruct maxilla - Le Fort 3 osteotomy (severe congenital deformities),"R21,380.30","R32,070.90",,,,R0.00
+9229,Choanal artesia repair through a palatal osteotomy,,"R3,580.20",,,,R0.00
+9227,Turbinectomy,,"R1,155.10",,,,R0.00
+*9066,Surgical expansion - maxilliary or mandibular,"R3,396.90","R5,095.70",,,,R0.00
+9069,Glossectomy - partial,"R2,544.40","R3,816.80",,,,R0.00
+*9071,Geniohyoidotomy,"R1,526.30","R2,289.90",,,,R0.00
+9072,Close secondary oro-nasal fistula w/ bone grafting (complete procedure),"R11,170.00","R16,754.90",,,,R0.00
+,Salivary Glands,,,,,,
+8960,Salivary duct dilatation or canalization,,R184.20,,,,R0.00
+8948,Endoscopic procedure: Wharton's duct,,R184.20,,,,R0.00
+8949,Endoscopic procedure: Stenson's duct,,R184.20,,,,R0.00
+8950,Excision of a ranula (marsupealization),,"R1,579.90",,,,R0.00
+9093,Removal of salivary stone (Sialolithotomy),R765.60,"R1,148.00",,,,R0.00
+9095,Excision of sublinglual salivary gland,"R1,886.60","R2,829.70",,,,R0.00
+9096,Excision of salivary gland - extra oral approach,"R2,794.80","R4,192.30",,,,R0.00
+9202,Excision of submandibular salivary gland with any type of neck dissection,,"R6,495.30",,,,R0.00
+9186,Closure of salivary fistula,,"R1,678.90",,,,R0.00
+9176,Local resection of parotid tumour (lumpectomy),,"R3,129.50",,,,R0.00
+9177,Superficial parotidectomy,,"R5,720.30",,,,R0.00
+9178,Total parotidectomy with preservation of facial nerve,,"R6,615.60",,,,R0.00
+9179,Total parotidectomy without preservation of facial nerve,,"R6,615.60",,,,R0.00
+,Pedicle Flaps,,,,,,
+,"Report codes 9284, 9286 and 9288 for flaps taken for repair of post –cancer/ trauma/ tumour surgery. These are not vestibuloplasty procedures. The use of the codes are not subject to modifier use.",,,,,,
+9284,Musculofascial flap,,"R10,684.90",,,,R0.00
+9286,Musculocranial flap,,"R10,684.90",,,,R0.00
+9288,Buccal fat pad (major repair),R0.00,"R9,536.50",,R0.00,R0.00,R0.00
+9241,Simple local flap (eg. Advancement or rotation flap),,,,,,R0.00
+9242,Complex local flap,,,,,,R0.00
+9243,"Regional flap (eg pectoral, deltoid or lattisimus dorsi flap)",,,,,,R0.00
+9244,Tongue flap - 2 procedures,,,,,,R0.00
+,Repair of Frontal Bones,,,,,,
+,"The use of codes 9274, 9275 and 9278 imply the bicoronal/ hemicoronal approach.",,,,,,
+9274,"Repair anterior table, frontal sinus and/or supraorbital rim",,"R21,399.10",,,,R0.00
+9276,Repair anterior and posterior wall w/ obturation and/or cranialisation of frontal sinus,R0.00,"R11,288.30",,R0.00,R0.00,R0.00
+9278,"Repair medial canthal ligament (canthopexy), per side",,"R1,148.00",,,,R0.00
+9200,Cranioplasty,,"R5,167.20",,,,R0.00
+9233,Obliteration of the frontal sinus,,"R5,371.80",,,,R0.00
+,Cleft lip and Palat,,,,,,
+9220,Repair cleft hard palate - unilateral,"R6,239.10","R9,358.60",,,,R0.00
+9222,Repair cleft hard palate - bilateral (one procedure),"R7,920.10","R11,879.30",,,,R0.00
+9224,Repair cleft hard palate - bilateral (two procedures),"R11,801.50","R17,699.90",,,,R0.00
+9226,Repair cleft soft palate - w/o muscle reconstruction,"R5,227.70","R7,842.40",,,,R0.00
+9228,Repair cleft soft palate - w/ muscle reconstruction,"R7,591.00","R11,387.20",,,,R0.00
+9230,Repair submucosal cleft and/or bifid uvula - w/ muscle reconstruction,"R5,652.00","R8,478.40",,,,R0.00
+9232,Velopharyngeal reconstruction - uncomplicated,"R5,816.20","R8,724.60",,,,R0.00
+9234,Velopharyngeal reconstruction - complicated,"R6,219.10","R9,328.50",,,,R0.00
+9238,Repair oronasal fistula (one procedure),"R3,557.50","R5,335.50",,,,R0.00
+9240,Repair oronasal fistula (two procedures),"R6,206.30","R9,309.20",,,,R0.00
+9246,Secondary periosteal flaps,"R3,101.40","R4,652.70",,,,R0.00
+9248,Lipadhesion,"R1,159.50","R1,739.30",,,,R0.00
+9250,Repair cleft lip - unilateral w/o muscle reconstruction,"R2,042.20","R3,063.10",,,,R0.00
+9252,Repair cleft lip - unilateral w/ muscle reconstruction,"R2,768.70","R4,153.30",,,,R0.00
+9254,Repair cleft lip - bilateral w/o muscle reconstruction,"R2,851.60","R4,277.70",,,,R0.00
+9256,Repair cleft lip - bilateral w/ muscle reconstruction,"R4,405.50","R6,608.50",,,,R0.00
+9258,Repair anterior nasal floor,"R1,112.30","R1,668.60",,,,R0.00
+9260,Revision of secondary cleft lip deformity - partial,"R1,112.30","R1,668.60",,,,R0.00
+9262,Revision of secondary cleft lip deformity - total w/ muscle reconstruction,"R2,513.60","R3,769.90",,,,R0.00
+9264,Abbe-flap - two stages,"R2,846.30","R4,269.40",,,,R0.00
+9266,Reconstruct columella,"R1,682.20","R2,523.50",,,,R0.00
+9268,Reconstruct nose due to cleft deformity - partial,"R2,137.50","R3,206.50",,,,R0.00
+9270,Reconstruct nose due to cleft deformity - complete,"R3,379.00","R5,068.10",,,,R0.00
+9272,Paranasal augmentation for nasal base deviation,"R1,682.20","R2,523.50",,,,R0.00
+K.,ORTHODONTIC SERVICES,,,,,,
+,"The branch of dentistry used to correct malocclusions of the mouth and restore it to proper alignment and function. Includes all services/procedures concerned with the supervision, guidnance and correction of the growing and mature dentofacial structures.",,,,,,
+,REMOVABLE APPLIANCE THERAPY,,,,,,
+,"Removable indicates patient can remove; includes appliances for limited orthodontic treatment (e.g., partial treatment to open spaces or upright of a tooth) and minor orthodontic treatment to control harmful habits (e.g., thumb sucking and tongue trusting).",,,,,,
+8862,Ortho Tx - removable appliance,"R1,969.40",,"R2,953.60",,,R0.00
+8863,Ortho Tx - each additional removable appliance,R989.90,,"R1,484.40",,,R0.00
+8864,Cost Of Prefabricated Removable Appliance .,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,Control of harmful habits,,,,,,
+,"Includes removable and fixed appliances to control harmful habits (e.g., thumbs sucking and tongue thrusting).",,,,,,
+8870,Therapy to control harmful habits – removable appliance,"R1,969.40",,"R2,953.60",,,R0.00
+8871,Therapy to control harmful habits – fixed appliance,"R2,359.00",,"R3,538.90",,,R0.00
+,FUNCTIONAL APPLIANCE THERAPY,,,,,,
+,"A removable functional appliance is an appliance with no fixed dental component which is designed to harness the forces generated by the muscles of mastication and the associated soft tissues of the oro-facial region. This appliance incorporates components which act on both the maxillary and mandibular arches and should be differentiated from a simple removable appliance including appliances incorporating an anterior and posterior bite plane.
+Orthodontic treatment by means of a functional appliance is usually followed by comprehensive orthodontic treatment utilising fixed orthodontic appliances. When both phases of orthodontic treatment is provided by the same practitioner, the fees levied for treatment by means of the functional appliance, will be deducted from the fee quoted for comprehensive orthodontic treatment.",,,,,,
+8858,Orthodontic treatment - functional appliance,"R3,547.20",,"R5,320.60",,,R0.00
+,FIXED APPLIANCE THERAPY,,,,,,
+,Fixed Appliance Therapy - Partial,,,,,,
+,"The intention of this phase in treatment is to intercept and modify the development of skeletal, dental and functional components of developing malocclusion usually in the mixed dentition.
+When the preliminary/interceptive phase(s) of orthodontic treatment is followed by comprehensive orthodontic treatment and both phases of orthodontic treatment is provided by the same practitioner, the fees levied for preliminary/interceptive orthodontic treatment will be deducted from the fee quoted for comprehensive orthodontic treatment.",,,,,,
+8861,Ortho Tx - partial fixed appliance - minor,"R2,359.00",,"R3,538.90",,,R0.00
+8865,Ortho Tx - partial fixed appliance - one arch,"R6,293.20",,"R9,439.80",,,R0.00
+8866,Ortho Tx - partial fixed appliance - both arches,"R8,654.80",,"R12,982.80",,,R0.00
+,Fixed Appliance Therapy - Comprehensive: Single Arch,,,,,,
+,This form of therapy requires the placement of fixed bands and or brackets on the majority of teeth within an arch and the subsequent placement of active arch wires to treat the case through to completion of active treatment excluding the retention phase.,,,,,,
+8867,Ortho Tx - fixed appliance - one arch,"R6,764.70",,"R10,146.70",,,R0.00
+8868,"Ortho Tx - fixed appliance - one arch, modeate","R8,343.90",,"R12,515.90",,,R0.00
+8869,"Ortho Tx - fixed appliance - one arch, severe","R9,759.50",,"R14,638.90",,,R0.00
+,Fixed Appliance Therapy - Comprehensive: Both Arches,,,,,,
+,This form of therapy requires the placement of fixed bands and or brackets on the majority of teeth within both arches and the subsequent placement of active arch wires to treat the case through to completion of active treatment excluding the retention phase.,,,,,,
+8873,"Ortho Tx - fixed appliance - both arches, Class 1 mild","R12,379.60",,"R18,569.40",,,R0.00
+8875,"Ortho Tx - fixed appliance - both arches, Class 1 moderate","R15,197.70",,"R22,795.70",,,R0.00
+8877,"Ortho Tx - fixed appliance - both arches, Class 1 severe","R17,716.30",,"R26,574.30",,,R0.00
+8879,"Ortho Tx - fixed appliance - both arches, Class 1 severe w/ complications","R19,909.80",,"R29,864.20",,,R0.00
+8881,"Ortho Tx - fixed appliance - both arches, Class 2/3 mild","R17,716.30",,"R26,574.30",,,R0.00
+8883,"Ortho Tx - fixed appliance - both arches, Class 2/3 moderate","R19,909.80",,"R29,864.20",,,R0.00
+8885,"Ortho Tx - fixed appliance - both arches, Class 2/3 severe","R22,350.30",,"R33,525.10",,,R0.00
+8887,"Ortho Tx - fixed appliance - both arches, Class 2/3 severe w/ complications","R25,182.10",,"R37,773.00",,,R0.00
+,Lingual Orthodontics - Comprehensive: Single Arch,,,,,,
+,This form of therapy requires the placement of bands and or brackets on the lingual aspect of the majority of teeth within at least one arch and must include the placement of active arch wires.,,,,,,
+8841,Ortho Tx - fixed lingual appliance - one arch,"R12,714.30",,"R19,070.90",,,R0.00
+8842,"Ortho Tx - fixed lingual appliance - one arch, modeate","R14,941.40",,"R22,412.10",,,R0.00
+8843,"Ortho Tx - fixed lingual appliance - one arch, severe","R17,023.80",,"R25,535.20",,,R0.00
+,Clear Aligner Appliance Therapy,,,,,,
+8830,"Limited aligner treatment, single arch, up to 7 aligners.",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8831,"Moderate aligner treatment, dual arch, up to 7 aligners per arch",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8832,"Moderate aligner treatment, single arch, up to 14 aligners",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8833,"Moderate aligner treatment, dual arch, up to 14 aligners per arch.",R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8834,Full aligner treatment single arch unlimited aligners,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8835,Full aligner treatment dual arch unlimited aligners,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,Lingual Orthodontics - Comprehensive: Both Arches,,,,,,
+8874,"Ortho Tx - fixed lingual appliance - both arches, Class 1 mild","R24,254.10",,"R36,380.90",,,
+8876,"Ortho Tx - fixed lingual appliance - both arches, Class 1 moderate","R28,396.40",,"R42,595.00",,,
+8878,"Ortho Tx - fixed lingual appliance - both arches, Class 1 severe","R32,226.60",,"R48,339.40",,,
+8880,"Ortho Tx - fixed lingual appliance - both arches, Class 1 severe w/ complications","R35,758.30",,"R53,637.00",,,
+8882,"Ortho Tx - fixed lingual appliance - both arches, Class 2/3 mild","R29,602.60",,"R44,404.50",,,
+8884,"Ortho Tx - fixed lingual appliance - both arches, Class 2/3 moderate","R33,116.50",,"R49,674.00",,,
+8886,"Ortho Tx - fixed lingual appliance - both arches, Class 2/3 severe","R36,883.10",,"R55,324.60",,,
+8888,"Ortho Tx - fixed lingual appliance - both arches, Class 2/3 severe w/ complications","R41,040.40",,"R61,560.00",,,
+,OTHER ORTHODONTIC SERVICES,,,,,,
+8845,Temporary anchorage device per unit,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8482,Cost of orthodontic attachment,,,,,,
+8889,Attachment device ,,,,,,
+8804,Placement of Fixed orthodontic retainer,R557.00,,R835.60,,,
+8805,Repair or Replacement of fixed orthodontic Retainer ,R334.30,,R501.30,,,
+8806,Orthodontic retention visit ,R0.00,,,R0.00,,
+8807,Post orthodontic treatment consultation,R182.10,,,,,
+8846,Repair orthodontic appliance - removable,R161.10,,R241.90,,,
+8847,Replace orthodontic appliance - removable,R557.00,,R835.60,,,
+8848,Repair orthodontic appliance - fixed,R238.70,,R357.90,,,
+8849,Retainer (orthodontic),R557.00,,R835.60,,,
+8890,Monthly instalment ortho tx,,,,,,
+8891,Orthodontic transfer,,,,,,
+*8892,Orthodontic re-treatment,,,,,,
+L.,SUPPLEMENTARY SERVICES,,,,,,
+,The branch of dentistry for unclassified treatment including palliative care and anaesthesia.,,,,,,
+,ANAESTHESIA,,,,,,
+8499,General Anaesthetic (Administration),R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+8141,Inhalation sedation - first 15 minutes or part thereof,R128.40,R128.40,,R128.40,R128.40,
+8143,Inhalation sedation - each addnl 15 minutes,R66.30,R66.30,,R66.30,R66.30,
+8144,Intravenous sedation,R77.20,R77.20,,R77.20,R77.20,
+8145,Local anaesthetic - per visit,R111.60,R111.60,R111.60,R111.60,R111.60,
+8152,Cost of gases associated with inhalation sedation,,,,,,
+8471,Procedural sedation or General anaesthesia- Assessment ,R364.40,,,,,
+8472,Procedural sedation - first 30 minutes ,R256.90,,,,,
+8473,Procedural sedation- each additional 15 minutes or part thereof,R66.30,,,,,
+8147,Monitoring equipment for intravenous sedation,R274.60,R274.60,,R274.60,R274.60,
+8474,Procedure room for Sedation ,"R1,597.80","R1,597.80","R1,597.80","R1,597.80","R1,597.80",
+9239,Surgical facility for surgical procedures in consulting rooms,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+,PROFESSIONAL VISITS,,,,,,
+8129,Office/hospital visit – after regularly scheduled hours,R430.30,R430.30,,R430.30,R430.30,
+8140,House/extended care facility/hospital call,R284.90,R284.90,,R284.90,R284.90,
+8903,House/Hosp/Nursing home consultation - MFOS,,R319.10,,,,
+8904,House/Hosp/Nursing home consultation (subsequent) - MFOS,,R212.10,,,,
+8905,After regularly hours consultation - MFOS,,R467.00,,,,
+8906,"Post-op visit in hospital for Neoplasm/
+Trauma/CLP (2x/day for duration of hospitalization),
+reported visit.",,R0.00,,,,
+8907,House/Hosp/Nursing home consultation (maximum per week) – MFOS,,R530.80,,,,R0.00
+9203,House/Hosp/Nursing home consultation - Oral pathologist,,,,,,R320.20
+9207,After hours visit - Oral pathologist,,,,,,R469.10
+,"DRUGS, MEDICAMENTS AND MATERIALS",,,,,,
+8109,Infection control/barrier techniques,R26.00,R26.00,R26.00,R26.00,R26.00,
+8110,Sterilized instrumentation,R66.30,R66.30,R66.30,R66.30,R66.30,
+8183,Therapeutic drug injection,R77.20,,,,,
+8220,Cost of suture material,,,,,,
+8221,Cost of haemostatic sponge.,R0.00,R0.00,,R0.00,,
+8304,Isolation of tooth/teeth - per arch,R137.00,R137.00,,R137.00,R137.00,
+8306,Cost of MTA or other bioceramic materials,,,,,,
+9259,Distraction device for alveolar bone,,,,,,
+9261,Internal distraction device for maxilla or mandible,,,,,,
+9263,Transport distraction device,,,,,,
+9265,External distraction device for maxilla or mandible,,,,,,
+9267,Temperomandibular joint prosthesis (stock or custom),,,,,,
+9269,Custom prosthesis for facial reconstruction,,,,,,
+9271,Cost of impression material (only to be used with code 8215),R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+*8310,Supply of bleaching materials,,,,,,
+,Equipment,,,,,,
+,ADMINISTRATIVE AND LABORATORY SERVICES,,,,,,
+*8099,Dental laboratory service,,,,,,
+*8106,Special report,R293.40,R293.40,R293.40,R293.40,R293.40,
+*8111,Dental testimony,,,,,,
+*8120,Treatment plan completed,,,,,,
+*8139,Appointment not kept /30min,,,,,,
+,MISCELLANEOUS SERVICES,,,,,,
+,Palliative Treatment,,,,,,
+8131,Emergency dental treatment,R175.40,R175.40,R175.40,R175.40,R357.90,
+8166,Application of desensitising or caries arresting agent – per tooth,R115.40,,,,,
+8167,"Application of desensitising medicament, per visit",R135.00,,,,R135.00,
+8165,Sedative filling,R175.40,,,,,R0.00
+,Post Surgical Complications,,,,,,
+8931,Treatment of post-extraction haemorrhage,R128.40,R771.20,,R128.40,,
+8933,Treatment of haemorrhage (blood dyscracias),"R1,778.10","R2,667.00",,"R1,778.10",,
+9235,Severe nasal bleeding - anterior pack,,R738.10,,,,
+9236,Severe nasal bleeding - anterior + posterior pack or cauterization,,"R1,107.40",,,,
+9237,Management of a patient on anti-coagulatives for the performance of a surgical procedure. This code is reported along with the appropriate surgical codes,R0.00,R0.00,R0.00,R0.00,R0.00,R0.00
+9223,Ligation of maxillary artery,,"R3,616.70",,,,
+8935,Treatment of septic socket,R128.40,R201.40,,R128.40,,
+,Bleaching,,,,,,
+*8308,External bleaching - per arch,,,,,,
+*8309,Home bleaching - instructions and applicator,,,,,,
+*8311,Home bleaching - subsequent visit,,,,,,
+8325,Internal bleaching - per tooth,R415.60,,,,R623.60,
+8327,Internal bleaching - each additional visit ,R199.30,,,,R298.90,
+,Unclassified Treatment,,,,,,
+*8158,Enamel microabrasion,R160.90,,,,,
+*8168,Behavior management,,,,,,
+8551,Occlusal adjustment - major,"R1,110.60",,"R1,666.30",,"R1,666.30",
+*8553,Occlusal adjustment - minor,R387.40,,R530.80,R530.80,R530.80,
+*9099,Unlisted dental procedure or service (By report),,,,,,
+,MODIFIERS,,,,,,
+8001,Assistant surgeon - specialist (1/3 of the appropriate benefit),,,,,,
+8023,Fabrication of inlay/onlay (PLUS 25% of the appropriate benefit),,,,,,
+8025,Handling fee - direct materials (26% of material cost to a maximum of R26.00),,,,,,

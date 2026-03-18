@@ -1,0 +1,20 @@
+"GEMS TARIFF FOR HCT AND PHARMACY SERVICES
+WITH EFFECT FROM 2026-01-01",,HCT and Pharmacy Services
+Tariff Code,Tariff Description,2026 Tariff Value
+0010,"PCDT: A face-to-face consultation with a patient where a pharmacist personally takes down a patient’s history, performs an appropriate health examination including observations, and plans appropriate interventions/treatment, which may include referral to another health care professional.",R274.30
+0012,Blood Glucose,R85.20
+0013,Blood Cholesterol,R146.70
+0014,Urine Analysis,R91.70
+0015,Blood Presure Monitoring,R73.30
+0016,Pre-counselling (without going ahead with the HIV Test),R90.60
+0017,HIV and AIDS Testing and Post Counselling,R265.30
+0018,Pregnancy Screening,R100.30
+0019,Peak Flow Measurement,R76.60
+0022,Administration of Immunisation ,R88.50
+,HIV Counselling and Test Campaign (HCT),
+,"General Practitioners 
+Discipline  14 and 15  ",
+7016,Pre-counselling,R42.30
+7017,"Pre-counselling,Screen test,Post test counselling,Confirmatory test (all inclusive code",R267.00
+7000,"For HIV pre-test counselling with a patient or a group (code to be charged per person), for at least 15 minutes",R42.30
+7010,"Testing, post-test counselling with a patient personally for at least 25 minutes. (Please note, this code includes a second test were applicable, for example, confirmation test and post window period re-testing and the cost of the materials). Include TB screening, BP assessment, glucose estimation, visual assessment for pallor and the supply of condoms.",R267.00

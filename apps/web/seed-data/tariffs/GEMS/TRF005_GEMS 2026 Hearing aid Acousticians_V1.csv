@@ -1,0 +1,35 @@
+"GEMS TARIFF FOR SERVICES BY HEARING AID ACOUSTICIANS
+WITH EFFECT FROM 2026-01-01",,083 - Hearing Aid Acoustician
+Tariff Code,Tariff Description,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,GENERAL RULES,
+003,"The fee in respect of more than one evaluation shall be the full fee for the first evaluation plus half the fee in respect of each additional evaluation, but under no circumstances may fees be charged for more than three evaluations carried out.",
+004,"Each practitioner shall render a monthly account in respect of any service rendered during the month, irrespective of whether or not the treatment has been completed. NB. Every account shall contain the following particulars :
+
+· The practice code number of the supplier of service
+· The name of the collaborating medical practitioner or audiologist.
+· The name of the member.
+· The name of the patient.
+· The name of the medical scheme.
+· The membership number of the member.
+· The nature of the treatment.
+· The date on which the service was rendered.
+· The  relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered.",
+005,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+,ITEMS,
+001,First consultation (comprehensive),R201.60
+003,Consultation (screening interview),R128.50
+021,Test - air conduction,R128.50
+023,Test - bone conduction,R128.50
+025,Test - speech hearing tests,R179.50
+027,Test - free field,R164.50
+029,Test - insertion gain (per ear),R139.80
+031,"Test - binaural loudness balance test, per ear",R164.50
+051,Global charge for supply and fitting of hearing aid and follow-up (By arrangement with scheme), 
+053,"Hearing Aid Evaluation, per ear (refer to General Rule 003)",R164.50
+055,Technical adjustment or replacement of earmolds,R270.90
+057,Repairs/service per instrument (3 X services/4 year cycle),R0.00
+059,Tympanogram,R128.50
+061,Reflex test (stapedial reflex),R128.50
+107,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",R0.00

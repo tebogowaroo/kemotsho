@@ -1,0 +1,66 @@
+
+> build
+> npm run build --workspaces
+
+
+> @waroo/web@0.1.0 build
+> next build
+
+▲ Next.js 16.1.2 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 17.4s
+  Running TypeScript ...
+Failed to compile.
+
+./src/app/(site)/_components/sections/promo-block.tsx:71:22
+Type error: Type 'unknown' is not assignable to type 'ReactNode'.
+
+[0m [90m 69 |[39m             [33m<[39m[33mdiv[39m className[33m=[39m[32m"container relative z-30 px-4 md:px-6 text-center pointer-events-none"[39m[33m>[39m
+ [90m 70 |[39m                  [33m<[39m[33mdiv[39m className[33m=[39m[32m"max-w-4xl mx-auto space-y-8"[39m[33m>[39m
+[31m[1m>[22m[39m[90m 71 |[39m                      {getVal(data[33m.[39mtitle) [33m&&[39m (
+ [90m    |[39m                      [31m[1m^[22m[39m
+ [90m 72 |[39m                          [33m<[39m[33mh2[39m 
+ [90m 73 |[39m                             className[33m=[39m[32m"text-4xl md:text-6xl lg:text-7xl font-bold tracking-tighter"[39m
+ [90m 74 |[39m                             style[33m=[39m{{ color[33m:[39m textColor }}[0m
+Next.js build worker exited with code: 1 and signal: null
+npm error Lifecycle script `build` failed with error:
+npm error code 1
+npm error path /home/tebogo/projects/waroo/website-base/apps/web
+npm error workspace @waroo/web@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/apps/web
+npm error command failed
+npm error command sh -c next build
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/core@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/core
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/core@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/module-commerce@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/module-commerce
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/module-commerce@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/module-medical@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/module-medical
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/module-medical@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/platform-cms@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/platform-cms
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/platform-cms@0.1.0

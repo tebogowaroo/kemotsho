@@ -1,0 +1,86 @@
+
+> build
+> npm run build --workspaces
+
+
+> @waroo/web@0.1.0 build
+> next build
+
+▲ Next.js 16.1.2 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+
+> Build error occurred
+Error: Turbopack build failed with 1 errors:
+./packages/module-commerce/src/marketing/infrastructure/FirebaseCouponRepository.ts:4:1
+Module not found: Can't resolve '@waroo/platform-cms/marketing/domain/Coupon'
+[0m [90m 2 |[39m [36mimport[39m { [33mEffect[39m[33m,[39m [33mLayer[39m[33m,[39m [33mOption[39m } [36mfrom[39m [32m"effect"[39m
+ [90m 3 |[39m [36mimport[39m { db } [36mfrom[39m [32m"@waroo/core/infra/firebase/admin"[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mCoupon[39m[33m,[39m [33mCouponRepository[39m[33m,[39m [33mCouponError[39m[33m,[39m [33mCouponNotFound[39m[33m,[39m [33mCouponId[39m } [36mfrom[39m [32m"@waroo/platform-cms/marketing/domain/Coupon"[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m { [33mTimestamp[39m } [36mfrom[39m [32m"firebase-admin/firestore"[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mconst[39m [33mCOLLECTION[39m [33m=[39m [32m"coupons"[39m[0m
+
+Import map: aliased to relative '../../packages/platform-cms/src/marketing/domain/Coupon' inside of [project]/apps/web
+
+
+Import traces:
+  #1 [App Route]:
+    ./packages/module-commerce/src/marketing/infrastructure/FirebaseCouponRepository.ts
+    ./apps/web/src/app/api/webhooks/payfast/route.ts
+
+  #2 [Server Component]:
+    ./packages/module-commerce/src/marketing/infrastructure/FirebaseCouponRepository.ts
+    ./apps/web/src/app/actions/checkout.ts
+
+  #3 [Server Component]:
+    ./packages/module-commerce/src/marketing/infrastructure/FirebaseCouponRepository.ts
+    ./apps/web/src/app/actions/marketing.ts
+    ./apps/web/src/app/(platform)/admin/marketing/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (./packages/module-commerce/src/marketing/infrastructure/FirebaseCouponRepository.ts:4:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+npm error Lifecycle script `build` failed with error:
+npm error code 1
+npm error path /home/tebogo/projects/waroo/website-base/apps/web
+npm error workspace @waroo/web@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/apps/web
+npm error command failed
+npm error command sh -c next build
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/core@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/core
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/core@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/module-commerce@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/module-commerce
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/module-commerce@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/module-medical@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/module-medical
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/module-medical@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/platform-cms@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/platform-cms
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/platform-cms@0.1.0

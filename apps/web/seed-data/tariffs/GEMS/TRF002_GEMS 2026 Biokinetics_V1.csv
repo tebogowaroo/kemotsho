@@ -1,0 +1,60 @@
+"GEMS TARIFF FOR SERVICES BY BIOKINETICS
+WITH EFFECT FROM 2026-01-01",,091 - Biokinetics
+Tariff Code,Tariff Description, 2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,GENERAL RULES,
+002,"The consultation code may be charged only once at the same consultation or visit.
+Consultation includes history taking, guidance, education, health promotion and/or consultation",
+003,"A maximum of three diagnostic procedures may be charged at the same consultation or visit.
+
+Diagnostic procedures include the full range of diagnostic and evaluation procedures within the scope of practice of the biokineticist, including for example: anthropometric / body composition assessments, ergological testing evaluations and perceptual motor evaluation.",
+004,"A maximum of three treatment procedures may be charged at the same consultation or visit for any single diagnosis.  This limitation shall be inclusive of a maximum of one group treatment procedure (code 12), where applicable.
+
+Treatment procedures include the full range of rehabilitative or preventive treatment or care procedures within the scope of practice of the biokineticist, including for example:  hydrotherapy, callisthenics exercises and programme prescription for individuals with CHD.",
+005,"After a series of 12 treatments in respect of one patient for the same condition, the practitioner concerned shall report to the scheme as soon as possible if further treatment is necessary. Further continuance of treatment should only be considered if recommended by the medical practitioner(s) and others involved in the rehabilitation of the patient.",
+010,"Every biokineticist must acquaint himself with the provisions of the Medical Schemes Act, 1998, and the regulations promulgated under the Act in connection with the rendering of accounts.
+
+Every account shall contain the following particulars :
+
+· The name and practice code number of the referring practitioner .
+· The name of the member.
+· The name of the patient.
+· The name of the medical scheme.
+· The membership number of the member.
+· The date on which the service was rendered.
+· The relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered",
+011,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+1,Consultations / Patient Education / Counseling,
+107,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \\By arrangement with the scheme\\"" or \\""Patient own account\\"" category).""",R0.00
+901,"Initial consultation including: a problem focused history; a short problem focused examination; and
+straightforward biokinetic decision making but excluding evaluation. To be charged only once per course of treatment. (inclusive of lung function tests)",R172.00
+903,Subsequent consultation for the same condition (global fee covering a problem focused interval history and re-examination; and straightforward biokinetic decision making but excluding physical re-assessment). To be charged only once per course of treatment.,R120.70
+905,"Consultation at hospital (global fee including a problem focused history; a problem focused examination; and
+biokinetic decision making excluding evaluation and physical re-assessment of a patient). To be charged only once per course of treatment.",R172.00
+922,Patient education (based upon the evaluation outcomes),R167.60
+936,Health promotion and lifestyle modifications,R0.00
+2,Evaluation / Diagnostic Procedures,
+908,Simple evaluation at the first visit only (to be fully documented),R103.00
+909,Complex evaluation at the first visit only (to be fully documented).,R172.00
+912,Anthropometric/body composition assessment,R103.00
+913,"Ergological testing evaluation of body segment, limb or joint",R293.60
+914,Neurological patients: Ergological evaluation,R172.00
+915,"Postural analysis and/or analysis of activities of daily living, gait and specific motor acts",R172.00
+916,Perceptual motor evaluation (perception and gross motor function),R172.00
+917,"Physical work capacity (treadmill or bicycle ergometer/other electronic equipment) / Musculoskeletal assessment (strength, endurance, range of motion, posture)",R293.60
+918,Physical work capacity with full ECG,R293.60
+920,"Isotonic, isometric or EMG testing by means of specialised electronic equipment",R293.60
+921,Isokinetic testing by means of specialised electronic equipment,R293.60
+3,Therapeutic Procedures (Physical Rehabilitation),
+,"Maximum of 3 modalities, per diagnosis, may be charged per visit", 
+923,"Proprioception, balance and motor co-ordination exercise therapy session with or without equipment",R167.50
+925,Hydrotherapy where the condition of the patient is such that it requires the undivided attention of the Biokineticist,R167.50
+926,Exercise on Isokinetic apparatus/Isotonic/Isometric resistance equipment.,R167.50
+927,"Posture, gait and activities of daily living (ADL), with/without equipment use",R167.50
+928,A rehabilitative exercise prescription,R167.50
+929,Callisthenics exercises,R167.50
+930,"Group session with high risk patients, per patient (maximum 10 patients)",R90.70
+931,Passive and active range of motion exercise therapy,R167.50
+933,"Programme prescription for an individual with CHD health risks including hyperlipedemia, metabolic disorders, Low-Back pain/ Lumbago etc.", 
+934,"Group exercise sessions, per patient",R90.70

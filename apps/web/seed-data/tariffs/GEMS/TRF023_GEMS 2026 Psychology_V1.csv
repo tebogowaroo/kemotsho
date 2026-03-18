@@ -1,0 +1,64 @@
+"GEMS TARIFF  FOR SERVICES BY PSYCHOLOGISTS
+WITH EFFECT FROM 2026-01-01",,086 - Psychologists
+Tariff Code,Tariff Description,2026  Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,GENERAL RULES,
+B,"Where emergency treatment is provided:
+
+a. during working hours, and the provision of such treatment requires the practitioner to leave her or his practice to attend to the patient at another venue; or 
+b. after working hours 
+
+the fee for such visits shall be the total fee plus 50%.
+
+ For purposes of this rule:
+
+a. \""emergency treatment\"" means a bona fide, justifiable emergency psychological procedure, where failure to provide the service immediately would result in serious or irreparable psychological or functional impairment 
+b. \""working hours\"" means 8h00 to 17h00, Monday to Friday. 
+
+Modifier 0003 must be quoted after the appropriate code number(s) to indicate that this rule is applicable.",
+C,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+D,"Every account shall contain the following particulars:
+
+a)         The surname and initials of the member;
+b)         The surname, first name and other initials, if any, of the patient; 
+c)         The name of the scheme concerned;.
+d)         The membership number of the member;
+e)         The practice code number, group practice number and individual provider registration number issued by the registering authorities for providers, if applicable, of the supplier of service and, in the case of a group practice, the name of the practitioner who provided the service;
+f)          The date on which each relevant health service was rendered;
+g)         The relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered.",
+E,"Compilation of reports is only to be included within billable time if these reports are for purposes of motivating for therapy and/or giving a progress report and/or a pre-authorisation report, and where such a report is specifically required by the medical scheme. Maximum billable time for such a report is 15 minutes.",
+F,"With the exception of compilation of reports as per Rule E, time charged in terms of the codes in this schedule only includes time spent in direct interaction with the patient.",
+,MODIFIERS,
+,Modifier governing the section Psychological Services,
+0003,Emergency treatments - Relevant fee plus 50%,
+0004,Psychology services rendered to an in-patient in a nursing home or hospital.,
+,CONSULTATIVE AND THERAPEUTIC SERVICES,
+007,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",R0.00
+200,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 1-10min.",R122.20
+201,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 11-20min.",R366.70
+202,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 21-30min.",R611.40
+203,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 31-40min.",R855.80
+204,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 41-50min.","R1,100.40"
+205,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 51-60min.","R1,345.30"
+206,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 61-70min.","R1,589.70"
+207,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 71-80min.","R1,834.00"
+208,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 81-90min.","R2,078.60"
+209,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 91-100min.","R2,323.30"
+210,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 101-110min.","R2,568.10"
+211,"Psychology assessment, consultation, counselling and/or therapy (individual or family). Duration: 111-120min.","R2,812.10"
+,This code would be used in addition to  code 211., 
+290,"Extended assessment, consultation, counselling and/or therapy (individual or family) - per full 15 minutes in excess of 120 minutes",R183.60
+,GROUP SERVICES,
+300,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 1-10min.",R24.30
+301,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 11-20min.",R73.20
+302,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 21-30min.",R122.20
+303,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 31-40min.",R171.20
+304,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 41-50min.",R220.00
+305,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 51-60min.",R268.80
+306,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 61-70min.",R317.60
+307,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 71-80min.",R366.70
+308,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 81-90min.",R415.80
+309,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 91-100min.",R464.70
+310,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 101-110min.",R513.60
+311,"Psychology group consultation, counselling and/or therapy, per patient. Duration: 111-120min.",R562.50

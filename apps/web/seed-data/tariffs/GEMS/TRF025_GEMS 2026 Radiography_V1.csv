@@ -1,0 +1,179 @@
+"GEMS TARIFF FOR SERVICES BY RADIOGRAPHERS
+WITH EFFECT FROM 2026-01-01",,039 - Radiography
+Tariff Code,Tariff Description,2026 Tariff Value 
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,"For tariff codes 001, 003 and 017, providers are required to indicate the region in the submission of the claims for reimbursement. 
+The fee for tariff code 300 is included in the comprehensive procedure codes and is not billed separately
+ 
+
+",
+,DIAGNOSTIC PROCEDURES,
+,"Note : Items 015, 029, 031, 033, 037, 065, 071, 073, 075, 077, 079, 081, 083, 085, 087, 089, 091, 093, 095, 097, 099, 101, 115, 117, 119, 121, 129, 131, 133, 135, 137, 1, 141, 149, 167, 171 and 173 should be only be paid on condition that the radiographer submits the name of the supervising clinician and his/her BHF practice number. Schemes should not pay the radiographer if she/he is supervised by a radiologist.",
+,GENERAL RULES,
+1000,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+,MODIFIERS,
+0001,"The specified call-out fee may be charged for any bona-fide, justifiable emergency occurring at any hour which requires the practitioner to travel to the patient. Individual medical schemes may require a motivation to accompany the claim.",R91.10
+0021,Services rendered to hospital patients: Quote modifier 0021 on all accounts for services performed on hospital or day clinic patients., 
+0080,Multiple examinations: Full fees, 
+0081,Repeat examinations: No reduction, 
+0084,Film Cost : The cost of film is included in the comprehensive procedure codes and is not billed separately,R0.00
+1,SKELETON,
+1.1,LIMBS,
+001,"Finger, toe",R294.30
+003,Hand,R381.20
+003,Wrist,R393.40
+003,Scaphoid,R408.60
+003,Radius and ulna,R364.00
+003,Elbow,R388.50
+003,Humerus,R364.00
+003,Shoulder,R430.60
+003,Acromio-Clavicula joint,R388.50
+003,Clavicle,R376.50
+003,Scapula,R376.50
+003,Foot,R346.60
+003,Ankle,R410.90
+003,Calcaneus,R339.10
+003,Tibia and Fibula,R364.00
+003,Knee,R410.90
+003,patella,R342.90
+003,Femur,R364.00
+003,Hip,R393.40
+003,Sesamoid Bone,R346.60
+005,"Smith-Petersen or equivalent control, in theatre",R980.70
+007,Stress Studies,R371.80
+009,Length studies per right and left pair of long bones,R507.60
+011,Skeletal survey under 5 years,R719.40
+013,Skeletal survey over 5 years,"R1,195.10"
+015,Arthrography per joint,R287.90
+1.2,SPINAL COLUMN,
+017,"Per region, e.g. cervical, sacral, coccygeal, one region thoracic",R553.10
+017,Cervical Spine - 2 or more views,R571.90
+017,Thoracic Spine 2 Views,R428.80
+017,Lumbar Spine - 2  or more views,R595.60
+021,Stress studies,R73.30
+025,Scoliosis studies,R804.50
+027,Pelvis (sacro-iliac or hip joints only to be added where an extra set of views is required),R420.90
+,MYELOGRAPHY,R0.00
+029,Lumbar,R314.30
+031,Thoracic,R292.30
+033,Cervical,R433.10
+035,"Multiple (lumbar, thoracic, cervical): Same fee as for first segment (no additional introduction of contrast medium)",R0.00
+037,Discography,R229.40
+1.3,SKULL,
+039,Skull studies,R443.50
+041,Paranasal sinuses,R420.90
+043,Facial bones and/or orbits,R451.90
+045,Mandible,R420.90
+047,Nasal bone,R274.90
+049,Mastoid: Bilateral,R825.30
+,TEETH,
+051,One quadrant,R229.90
+053,Two quadrants,R291.00
+055,Full mouth,R272.30
+057,Rotation tomography of the teeth and jaws,R466.80
+059,Temporo-mandibular joints: Per side,R409.10
+061,Tomography: Per side,R222.00
+063,Localisation of foreign body in the eye,R409.10
+065,Ventriculography,R272.70
+067,Post-nasal studies: Lateral neck,R183.90
+069,Maxillo-facial cephalometry,R196.00
+071,Dacryocystography,R176.40
+2,ALIMENTARY TRACT,
+073,Sialography (plus 80% for each additional gland),R179.70
+075,Pharynx and oesophagus,R166.20
+077,"Oesophagus, stomach and duodenum (control film of abdomen included) and limited follow through",R229.40
+079,"Small bowel meal (control film of abdomen included, except when part of item 081)",R202.00
+081,"Barium meal and dedicated gastro-intestinal tract follow through (including control film of the abdomen, oesophagus, duodenum, small bowel and colon)",R344.00
+083,Barium enema (control film of abdomen included),R370.90
+085,Biliary tract: ERCP (choledogram and/or pancreatography screening included),R342.70
+087,Gastric/oesophageal/duodenal intubation control,R151.50
+089,Hypotonic duodenography (077 included),R417.50
+3,BILIARY TRACT,
+091,Oral cholecystography,R348.50
+093,Intravenous,R427.20
+095,Operative: First series,R423.60
+097,Subsequent series,R174.70
+099,Post-operative: T-tube,R146.80
+101,"Trans-hepatic, percutaneous",R252.00
+103,Tomography of biliary tract: Add,R156.60
+4,CHEST,
+105,Larynx (tomography included),R309.00
+107,Chest (item 167 included),R444.40
+109,Chest and cardiac studies (item 167 included),R168.40
+111,Ribs,R495.60
+113,Sternum or sterno-clavicular joints,R581.10
+,BRONCHOGRAPHY,
+115,Unilateral,R235.90
+117,Bilateral,R412.10
+119,Pleurography,R114.50
+121,Laryngography,R114.50
+123,Thoracic inlet,R294.10
+5,ABDOMEN,
+125,"Control films of the abdomen (not being part of examination for barium meal, barium enema, pyelogram, cholecystogram, cholangiogram, etc.)",R381.70
+127,Acute abdomen or equivalent studies,R616.10
+6,URINARY TRACT,
+129,Control film included and bladder views before and after micturition,R488.40
+133,Waterload test: Add,R146.80
+135,Cystography only or urethrography only (retrograde),R273.90
+,CYSTO-URETHROGRAPHY,
+137,Retrograde,R241.20
+139,Retrograde-prograde pyelography,R309.00
+141,Aspiration renal cyst,R124.00
+143,Tomography of renal tract: Add,R139.60
+7,GYNAECOLOGY AND OBSTETRICS,
+145,Pregnancy,R139.60
+147,Pelvimetry,R259.00
+149,Hysterosalpingography,R232.90
+8,TOMOGRAPHY AND CINEMATOGRAPHY,
+151,"Tomography (conventional except where otherwise specified): Add 100% provided that if it is more than one dimension, fees shall be charged for the additional investigation at 50% of the rate with a maximum of two additional investigations",
+153,Tomography (multi-dimensional in motion): Add 150%,
+9,COMPUTED TOMOGRAPHY,
+155,"Head, single examination, full series","R1,914.60"
+157,"Head, repeat examination at the same visit, after contrast, full series",R657.20
+159,Chest,"R2,213.40"
+161,Abdomen (including base of chest and/or pelvis),"R2,572.70"
+163,"Multiple examinations: For an additional part, the lesser fee shall be reduced to",R598.40
+165,Limbs and other limited examinations,R598.40
+,MODIFIER GOVERNING THIS SPECIFIC SECTION OF THE TARIFFS,
+0089,"The number of sections of each examination and the matrix number must be specified. A full series of sections would be 8 or more for brain examinations, 12 or more for chest examinations, and 16 or more for abdomen examinations. Fees for examinations on a matrix number of less than 250 shall be reduced by 50%",
+10,MISCELLANEOUS,
+167,Fluoroscopy: Per half hour: Add (not applicable to items 107 and 109),R156.20
+169,Where a C-arm portable x-ray unit is used in hospital or theatre: Per half hour: Add,R215.60
+171,Sinography,R323.00
+173,Bone densitometry,R589.70
+175,Mammography: Unilateral or bilateral,R826.90
+177,"Repeat mammography, unilateral or bilateral for localisation of tumour",R724.20
+179,Attendance at operation in theatre or at radiological procedure performed by a surgeon or physician in x-ray department except 005: Per 1/2 hour: Plus fee for examination performed,R128.30
+181,Setting of sterile trays,R21.90
+," Films are to be charged (exclusive of VAT) at net acquisition price plus -
+
+* 26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; and
+
+* a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.
+",
+300,"X-Ray films
+The fee for tariff code 300 is included in the comprehensive procedure codes and is not billed separately",R0.00
+,ATTENDANCE IN CATHETERISATION LABORATORY,
+,Use codes 191 to 193 to charge for radiographer input where that is not included in cath lab facility fee,
+191,Preparation in catheterisation laboratory for purposes of cardiac catheterisation and/or invasive intravascular procedures.,R313.30
+192,Post-processing in catheterisation laboratory for purposes of cardiac catheterisation and/or invasive intravascular procedures,R313.30
+193,Coronary angiogram per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+194,Right heart investigation of valve and venous system of the right heart,R313.30
+195,PTCA per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+196,Left heart investigation of valve of the left heart and ventrical,R314.30
+197,Stent procedure per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+199,Vascular Study per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+201,Temporary pacemaker procedure per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+203,Permanent pacemaker procedure in catheterisation laboratory per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+205,Intra-aortic balloon pump procedure per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+207,Electro-physiological studies per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+209,Bleomycine and other studies per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+211,Intra vascular ultrasound per 30 minutes of part thereof provided that such part comprises 50% or more of the time,R313.30
+213,Rotablator/Laser procedures per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+215,Embolisation per 30 minutes or part thereof provided that such part comprises 50% or more of the time,R313.30
+,RULES,
+Z,No fee to be subject to more than one reduction,
+11,PORTABLE UNIT EXAMINATIONS,
+185,Where portable x-ray unit is used in the hospital or theatre: Add,R141.40
+187,Theatre investigations with fixed installation : Add,R60.40

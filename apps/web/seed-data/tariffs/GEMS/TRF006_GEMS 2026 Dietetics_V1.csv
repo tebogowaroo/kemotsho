@@ -1,0 +1,51 @@
+"GEMS TARIFF FOR SERVICES BY DIETICIANS
+WITH EFFECT FROM 2026-01-01",,084 - Dieticians
+Tariff Code,Tariff Description, 2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,GENERAL RULES,
+003,Dietary services are per individual patient.,
+004,"Each practitioner must acquaint him-/herself with the provisions of the Medical Schemes Act, as amended, and the regulations promulgated under the Act and shall render a monthly account in respect of any service rendered during the month, irrespective of whether or not the treatment has been completed. NB. Every account shall contain the following particulars
+
+· The name and practice code number of the referring practitioner.
+· The name of the member.
+· The name of the patient.
+· The name of the medical scheme.
+· The membership number of the member.
+· The nature of the treatment.
+· The date on which the service was rendered.
+· The relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered.",
+005,When multiple diagnoses apply every applicable diagnosis shall be specified on the statement.,
+010,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+011,"Compilation of reports is only to be included within billable time if these reports are for purposes of motivating for therapy and/or giving a progress report and/or a pre-authorisation report, and where such a report is specifically required by the medical scheme. Maximum billable time for such a report is 15 minutes.",
+,MODIFIERS,
+0021,Services to hospital inpatients: Quote modifier 0021 on all accounts for services performed on hospital inpatients.,
+,ITEMS,
+1,"INDIVIDUAL ASSESSMENT, COUNSELLING AND/OR TREATMENT",
+107,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \\By arrangement with the scheme\\"" or \\""Patient own account\\"" category).""",R0.00
+200,"Nutritional assessment, counselling and/or treatment. Duration: 1-10min.",R64.60
+201,"Nutritional assessment, counselling and/or treatment. Duration: 11-20min.",R194.00
+202,"Nutritional assessment, counselling and/or treatment. Duration: 21-30min.",R323.90
+203,"Nutritional assessment, counselling and/or treatment. Duration: 31-40min.",R453.40
+204,"Nutritional assessment, counselling and/or treatment. Duration: 41-50min.",R582.90
+205,"Nutritional assessment, counselling and/or treatment. Duration: 51-60min.",R711.90
+206,"Nutritional assessment, counselling and/or treatment. Duration: 61-70min.",R841.90
+207,"Nutritional assessment, counselling and/or treatment. Duration: 71-80min.",R971.00
+208,"Nutritional assessment, counselling and/or treatment. Duration: 81-90min.","R1,100.80"
+209,"Nutritional assessment, counselling and/or treatment. Duration: 91-100min.","R1,230.30"
+210,"Nutritional assessment, counselling and/or treatment. Duration: 101-110min.","R1,359.80"
+211,"Nutritional assessment, counselling and/or treatment. Duration: 111-120min.","R1,489.00"
+2,"GROUP ASSESSMENT, COUNSELLING AND/OR TREATMENT",
+,"Group nutritional assessment, counselling and/or treatment items are chargeable to a maximum of 12 patients.",
+300,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 1-10min.",R13.10
+301,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 11-20min.",R38.90
+302,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 21-30min.",R64.60
+303,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 31-40min.",R90.70
+304,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 41-50min.",R116.60
+305,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 51-60min.",R142.70
+306,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 61-70min.",R168.60
+307,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 71-80min.",R194.00
+308,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 81-90min.",R220.00
+309,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 91-100min.",R246.20
+310,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 101-110min.",R272.10
+311,"Group nutritional assessment, counselling and/or treatment, per patient. Duration: 111-120min.",R297.80

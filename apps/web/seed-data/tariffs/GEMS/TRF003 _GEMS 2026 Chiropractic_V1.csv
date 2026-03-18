@@ -1,0 +1,56 @@
+"GEMS TARIFF FOR SERVICES BY CHIROPRACTORS
+WITH EFFECT FROM 2026-01-01",,004 - Chiropractors
+Tariff Code,Tariff Description, 2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,GENERAL RULES,
+001,"All accounts must be presented with the following information clearly stated:
+
+· name of chiropractor;
+· qualifications of the chiropractor;
+· BHF practice number;
+· postal address and telephone number;
+· date on which service(s) were provided;
+· The  relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered;
+· the surname and initials of the member;
+· the first name of the patient;
+· the name of the scheme;
+· the membership number of the member;
+· a statement of whether the account is in accordance with the National Reference Price List; and
+. the name and practice number of the referring practitioner, if applicable.",
+002,"The consultation code may be charged only once at the same consultation or visit.
+
+Consultation includes history taking, guidance, education, health promotion and/or consultation.",
+003,"A maximum of three diagnostic procedures may be charged at the same consultation or visit.
+
+Diagnostic procedures include physical examination, neurological examination, orthopaedic examination, ergonomical analysis, postural analysis and radiological examination",
+004,"A maximum of three treatment procedures may be charged at the same consultation or visit for any single diagnosis.
+Treatment procedures include, inter alia: spinal or extra-spinal manipulation, acupuncture, cold applications, non-heating modalities, deep heating radiation, soft tissue manipulation, superficial heating therapy and therapeutic exercises (other than in relation to preparation or fitting of appliances).",
+005,"After a series of 12 treatments in respect of one patient for the same condition, the practitioner concerned shall report to the scheme as soon as possible if further treatment is necessary. Payment for treatment in excess of the stipulated number may be granted by the scheme after receipt of a letter from the practitioner concerned, motivating the need for such treatment.",
+006,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+107,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",R0.00
+301,Consultation,R263.20
+,Only a single item from this section may be charged per patient encounter, 
+,Radiation Control Council Certificate number to be on account if X-Rays charged, 
+311,Single diagnostic procedure,R263.20
+312,Two diagnostic procedures,R394.40
+313,Three diagnostic procedures,R526.00
+,Only a single item from this section may be charged per patient encounter,
+321,Single instance of immobilization or therapeutic exercises,R105.20
+322,Two instances of immobilization or therapeutic exercises,R157.80
+,Only a single item from this section may be charged per patient encounter, 
+331,Single treatment procedure,R105.20
+332,Two treatment procedures,R157.80
+333,Three treatment procedures,R210.20
+334,Four treatment procedures,R263.20
+335,Five treatment procedures,R315.40
+336,Six treatment procedures,R368.00
+,"The amount charged in respect of medicines and scheduled substances shall not exceed the limits prescribed in the Regulations Relating to a Transparent Pricing System for Medicines and Scheduled Substances, dated 30 April 2004, made in terms of the Medicines and Related Substances Act, 1965 (Act No 101 of 1965).
+
+In relation to all other materials, items are to be charged (exclusive of VAT) at net acquisition price plus -
+
+* 26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; and
+
+* a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.",
+100,"Medication / material: Charge for medication or material, identified by the appropriate Nappi code.",
+110,X-Ray films,

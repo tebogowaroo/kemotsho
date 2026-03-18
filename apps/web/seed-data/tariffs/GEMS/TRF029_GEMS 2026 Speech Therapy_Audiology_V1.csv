@@ -1,0 +1,193 @@
+"GEMS TARIFF FOR SERVICES BY SPEECH THERAPISTS AND AUDIOLOGISTS
+WITH EFFECT FROM 2026-01-01",,"082 - Speech therapy 
+Sub-discipline 01","082 - Audiology
+Sub-discipline 02"
+Tariff Code,Tariff Description, 2026 Tariff Value,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",,
+,General Rules,,
+A,"All accounts must be presented with the following information clearly stated:
+
+ · name of practitioner
+ · qualifications of the practitioner;
+ · BHF practice number;
+ · postal address and telephone number;
+ · date on which service(s) were provided;
+ · The  relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered;
+ · the surname and initials of the member;
+ · the first name of the patient;
+ · the name of the scheme;
+ · the membership number of the member; and
+ . the name and practice number of the referring practitioner, if applicable.",,
+B,"The rate in respect of more than one evaluation under item 1800 shall be the full rate for the first evaluation plus half the rate in respect of each additional evaluation, but under no circumstances may fees be charged for more than three evaluations carried out.",,
+D,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",,
+E,"Materials used in treatment shall be charged (exclusive of VAT) at net acquisition price plus –
+
+- 26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; 
+
+- a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.
+
+Use item 300 for this purpose.",,
+,Modifier ,,
+1017,Audiology assistant modifier,,R0.00
+,ITEMS,,
+1,"Assessment, Consultation & Treatment",,
+,"The time used to conduct any diagnostic or treatment procedure claimed in addition to the codes in this section, can not be considered in determining the duration of the assessment, consultation or treatment claimed",,
+1.1,Consultations,,
+1.1.1,Audiology Consultations,,
+1010,Audiology consultation. Duration 5 - 15 mins,,R148.40
+1011,Audiology consultation. Duration 16 - 30 mins,,R333.60
+1012,Audiology consultation. Duration 31 - 45 mins,,R556.20
+1013,Audiology consultation. Duration 46 - 60 mins,,R778.90
+1015,"Prolonged audiology consultation, each additional full 15 mins, to a maximum of 60 mins",,R222.60
+1.1.2,Speech Therapy Consultations,,
+1020,Speech therapy consultation. Duration 5 - 15 mins,R150.60,
+1021,Speech therapy consultation. Duration 16 - 30 mins,R339.00,
+1022,Speech therapy consultation. Duration 31 - 45 mins,R564.40,
+1023,Speech therapy consultation. Duration 46 - 60 mins,R790.30,
+1.2,Assessment & Treatment,,
+1.2.1,Speech Therapy Assessment & Treatment,,
+1050,Speech therapy assessment and treatment. Duration 5 - 15 mins,R150.60,
+1051,Speech therapy assessment and treatment. Duration 16 - 30 mins,R339.00,
+1052,Speech therapy assessment and treatment. Duration 31 - 45 mins,R564.40,
+1053,Speech therapy assessment and treatment. Duration 46 - 60 mins,R790.30,
+2,"Speech, Voice, Language and Hearing Disorders",,
+0007,Group therapy: per patient at rooms (Maximum of 3 patients per therapy),R225.80,
+,Note: Professional Group Consultations - no fee to be charged.,,
+0009,Preparation of a home programme,R225.80,
+,Note: This category is to prepare the home programme prior to consultation with patient or care giver,,
+0020,Report writing,R451.70,R445.10
+0107,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",R0.00,R0.00
+3,Audiology.,,
+A.,Peripheral Hearing Evaluation,,
+1100,"Air conduction, pure tone audiogram",,R254.60
+1105,Bone conduction pure tone audiogram,,R203.60
+1110,Full Speech Audiogram including speech reception threshold and discrimination at two or more levels. (3277),,R254.60
+1115,Speech audiogram screening,,R85.10
+1120,Visual reinforcement audiometry (VRA),,R694.00
+1121,Conditioning play audiometry,,R694.00
+1122,Select picture audiometry,,R694.00
+1125,Tinnitus Evaluation,,R254.60
+B.,Middle Ear Function Evaluation ,,
+1200,Tympanometry,,R128.40
+1205,Immittance Measurements - Impedance / Stapedial reflex (3276): Limited reflex spectrum (eg : 1-2 frequencies),,R64.30
+1210,Immittance Measurements - Impedance / Stapedial reflex (3276):  Extended reflex spectrum (250-8000Hz e.g. 4-8 frequencies) ,,R192.80
+1215,High Frequency Tympanometry (impedance testing) - for peadiatric population,,R128.40
+1220,Eustachian Tube Function Test - multiple tympanograms - bilateral,,R192.80
+1225,Rinné & Weber tests,,R67.70
+C.,Diagnostic Audiological Tests for Differential Diagnosis between Cochlear; Retro-cochlear; Central; Functional and/or Vestibular Pathology,,
+1300,Tone Decay (for retro cochlear pathology) ,,R135.80
+1305,Reflex decay (for retro cochlear pathology),,R128.40
+1310,Short Increment Sensitivity Index (SISI),,R85.10
+1315,Most comfortable levels (MCL) & Uncomfortable levels (UCL) : Air conduction,,R135.80
+1320,Most comfortable levels (MCL) & Uncomfortable levels (UCL) : Speech thresholds,,R67.70
+1325,Test for functional hearing loss,,R169.70
+1331,"Stenger test, pure tone",,R85.10
+1332,"Stenger test, speech",,R85.10
+1335,Fistula test - (for peri-lymph fluid leakage) ,,R254.60
+D.,Auditory Processing (AP) and Central Auditory Processing Tests (CAP),,
+,"Only tests appropriate to the recommendations of the HPCSA Taskforce on CAPD should be administered i.e. low-linguistically loaded tests are tests of choice. No more than two tests from each category below can be administered. Deviations from this billing guideline requires motivation. No more than two tests from each category below can be administered. Repeat item 1400 for each test done. Deviations from this billing guideline requires motivation.
+
+PRELIMINARY TEST BATTERY  
+  Scan-C
+  Scan-A
+  PSI
+DIFFERENTIAL DIAGNOSIS BETWEEN CAPD AND ADHD  
+  Selective Auditory Attention Test  
+  Auditory Continuous Performance Test
+TESTS OF MONAURAL LOW REDUNDANCY  
+  Low Pass Filtered Speech - Ivey
+  Low Pass Filtered Speech - NU-6 Lists 500Hz, 750Hz And 1000Hz
+  Time Compressed Speech/Time Compressed Speech with Reverberation
+SPEECH IN NOISE TESTS  
+  SPIN
+  SSI-ICM
+  BKB-SIN
+  SIN
+  QuickSIN
+DICHOTIC SPEECH TESTS
+  Dichotic Digits Test
+  Dichotic Consonant Vowel
+  SSI-CCM
+  Staggered Spondaic Word Test
+  Competing Sentences Test
+  Dichotic Rhyme Test
+  Dichotic Sentence Identification Test
+TEMPORAL PROCESSING TESTS  
+  Random Gap Detection Test
+TEMPORAL PATTERNING TESTS  
+  Frequency Pattern (Pitch Pattern) Sequence Test
+  Duration Pattern Sequence Test
+BINAURAL INTERACTION TESTS  
+  Masking Level Difference for Speech
+  Binaural Fusion Test (Ivey, NU-6 or CVC Fusion)
+",,
+1400,"Central Auditory Processing Disorders test, test to be specified.",,R225.50
+E.,Electro-Physiological Examinations/Auditory Evoked Potentials (AEP),,
+1500,Diagnostic Neurological short latency ABR (Auditory Brainstem Response) Bilateral; single decibel (2692),R561.70,"R1,040.60"
+1505,AABR - Bilateral (Automated Auditory Brainstem Response). Cannot be charged with 1510,,R481.10
+1510,Screening ABR - Bilateral (Auditory Brainstem Response) . Cannot be charged with 1505,,R320.90
+1515,Diagnostic Audiological Click ABR (Auditory Brainstem Evoked Response) – Bilateral  Air conduction threshold determination using click stimuli,,"R1,040.60"
+1520,Diagnostic Audiological Click ABR-(Auditory Brainstem Response) – Bilateral Bone conduction threshold determination using click stimuli,,"R1,387.50"
+,Combinations of items 1531 to 1534 cannot be billed together.,,
+1531,Diagnostic Audiological Tone Burst ABR (Auditory Brainstem Response) – Bilateral Frequency specific threshold determination using tone-burst stimuli at: 1 frequency,,R520.50
+1532,Diagnostic Audiological Tone Burst ABR (Auditory Brainstem Response) – Bilateral Frequency specific threshold determination using tone-burst stimuli at : 2 frequencies,,"R1,040.60"
+1533,Diagnostic Audiological Tone Burst ABR (Auditory Brainstem Response) – Bilateral Frequency specific threshold determination using tone-burst stimuli at : 3 frequencies,,"R1,561.20"
+1534,Diagnostic Audiological Tone Burst ABR (Auditory Brainstem Response) – Bilateral Frequency specific threshold determination using tone-burst stimuli at : 4 frequencies,,"R2,081.40"
+,Combinations of items 1541 to 1544 cannot be billed together.,,
+1541,Diagnostic Audiological Middle latency & Late Cortical Auditory Evoked responses (2698) – Bilateral Frequency specific threshold determination using tone-burst stimuli at : 1 frequency,,R433.90
+1542,Diagnostic Audiological Middle latency & Late Cortical Auditory Evoked responses (2698) – Bilateral Frequency specific threshold determination using tone-burst stimuli at : 2 frequencies,,R867.60
+1543,Diagnostic Audiological Middle latency & Late Cortical Auditory Evoked responses (2698) – Bilateral Frequency specific threshold determination using tone-burst stimuli at : 3 frequencies,,"R1,300.80"
+1544,Diagnostic Audiological Middle latency & Late Cortical Auditory Evoked responses(2698) – Bilateral Frequency specific threshold determination using tone-burst stimuli at : 4 frequencies,,"R1,734.60"
+,Combinations of items 1551 to 1554 cannot be billed together.,,
+1551,ASSER (Auditory Steady State Evoked Response) – Bilateral threshold determination : 1 frequency,,R520.50
+1552,ASSER (Auditory Steady State Evoked Response) – Bilateral threshold determination : 2 frequencies ,,R694.00
+1553,ASSER (Auditory Steady State Evoked Response) – Bilateral threshold determination : 3 frequencies  ,,"R1,040.60"
+1554,ASSER (Auditory Steady State Evoked Response) – Bilateral threshold determination : 4 frequencies,,"R1,387.50"
+1560,P300 Cognitive AEP (Auditory Evoked Potential) or MMN (Mismatch Negativity),,R607.30
+1565,Electrocochleography: unilateral (2699),,R780.30
+1570,Electrocochleography: bilateral (2700),,"R1,561.20"
+1575,Cochlear nerve function test - intra-operative monitoring - per 30min,,R520.50
+1580,Evoked otoacoustic emissions (OAE); limited,,R231.40
+1581,Evoked otoacoustic emissions (OAE): comprehensive,,R481.10
+F.,Balance/Vestibular Examinations and Treatment,,
+1600,Spontaneous and positional nystagmus using electro-nystagmography (ENG)  (3253).,,R954.10
+1605,Spontaneous and positional nystagmus using Video-nystagmography (VNG,,"R1,004.00"
+1610,Eye Visualization – spontaneous and positional nystagmus – monocular ,,R540.50
+1615,"Videonystagmoscopy: spontaneous and positional nystagmus. (Only camera/goggles, without computerised VNG software)",,R561.70
+1620,Oculo-motor/central tests using electro-nystagmography (ENG),,R456.60
+1625,Oculo-motor/central tests using video-nystagmography (VNG),,R456.60
+1630,DVA (Dynamic Visual Acuity) test using Video-nystagmography (VNG),,R182.70
+1635,Caloric test using ENG electro-nystagmography (3255),,R912.60
+1640,Caloric test using VNG electro-nystagmography (3255),,R912.60
+1645,Posturography,,R456.60
+1650,Rotational Chair test,,R240.70
+1655,Otolith repositioning/canalith maneuvre,,R370.80
+1660,"Vestibular rehabilitation (neuromuscular) re-education of movement, balance, coordination, kinesthetic sense, posture, and proprioception",,R370.80
+G.,Cochlear Implant Tests,,
+1700,Cochlear Implants: Pre-implant round window promontory testing,,R722.20
+1710,Cochlear Implants : Electrode mapping : per 15min (max 120min),,R273.70
+1720,Cochlear Implants : Implant test : Four test modes : intra- or post-operatively ,,R85.10
+1725,Cochlear Implants : Neural Response Telemetry : intra-operatively (during cochlear implant surgery),,R365.30
+1730,Cochlear Implants : Neural Response Telemetry : post-operatively (after cochlear implant surgery),,R933.70
+1735,Cochlear Implants : Electrical Stapedius Reflex Thresholds : intra-operatively only,,R237.20
+1740,"Cochlear Implants : Comprehensive speech perception testing, pre- and post-cochlear implant, per 15min (max 45min)",,R259.80
+H.,Hearing Amplification / Hearing Aids ,,
+1800,Hearing aid evaluation - per ear,,R231.40
+1805,Free Field Hearing Aid Evaluation : Pure tone and speech (with and without lipreading),,R225.50
+1810,"Insertion gain measurement, per ear",,R160.90
+1815,"Re-programming of hearing aid, per ear",,R154.40
+1820,"Technical adjustment of hearing aid/device, per ear.",,R93.10
+1825,Repairs to hearing aids,,
+1830,Global charge for supply and fitting of hearing aid and follow-up (By arrangement with scheme).,,
+I.,Occupational Health / Industrial Hearing Assessment,,
+1900,Pure Tone Audiogram (Air conduction). (3237),,R222.60
+1905,Pure Tone Audiogram (Bone conduction) (3274),,R177.90
+1910,Full Speech Audiogram including speech reception threshold and discrimination at two or more levels (3277),,R222.60
+1915,Speech audiogram screening,,R74.10
+1920,Immittance Measurements (Impedance) (Tympanometry),,R59.40
+1925,Immittance Measurements (Impedance) (Stapedial reflex) (3276),,R177.90
+4,Material,,
+0300,Medication,,
+0301,Material,,
+1340,Basic Capital equipment used in own rooms by Audiologist,R0.00,R0.00

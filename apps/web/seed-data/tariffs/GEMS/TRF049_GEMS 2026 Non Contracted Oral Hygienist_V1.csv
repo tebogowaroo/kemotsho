@@ -1,0 +1,88 @@
+"
+GEMS TARIFF FILE FOR NON-CONTRACTED ORAL HYGIENIST WITH EFFECT FROM 2026-01-01
+",,113 - Oral Hygienists
+Tariff Code ,Tariff Description,2026 Tariff value
+,"Reimbursement for the tariff codes for procedures performed within the scope of practice for oral hygienist will be subject to  scheme rules, managed care rules and benefit limits.",
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,"Funding for these tariff codes is subject to the managed care protocols and billing rules, scheme rules and benefit limits.",
+8099,Dental laboratory service,R0.00
+8154,Oral examination,R148.10
+8164,Limited oral examination,R115.20
+8106,Special report,R0.00
+8107,Intraoral radiograph - periapical,R115.40
+8108,Intraoral radiographs/images - complete series,R895.60
+8109,Infection control/barrier techniques,R26.00
+8110,Sterilized instrumentation,R66.30
+8111,Dental testimony,R0.00
+8112,Intraoral radiograph - bitewing,R115.40
+8113,Intraoral radiograph - occlusal,R132.90
+8115,Panoramic radiograph/image,R462.70
+8116,Cephalometric radiograph/image,R0.00
+8117,Diagnostic models,R92.20
+8119,Diagnostic models mounted,R231.80
+8120,Treatment plan completed,R0.00
+8121,Oral and/or facial image (digital/conventional),R118.90
+8123,Caries susceptibility tests (By Arrangement),R0.00
+8124,Pulp Tests,R0.00
+8125,Pulp Tests - more than 3 teeth,R0.00
+8129,Office/hospital visit – after regularly scheduled hours,R0.00
+8131,Emergency dental treatment,R0.00
+8139,Appointment not kept /30min,R0.00
+8140,House/extended care facility/hospital call,R235.40
+8145,Local anaesthetic - per visit,R111.60
+8149,Nutritional counselling,R0.00
+8150,Tobacco counselling,R0.00
+8151,Oral hygiene instruction ( not to be billed together with 8153),R0.00
+8153,Oral hygiene instruction - each additional visit ( not to be billed together with 8151),R0.00
+8155,Polishing - complete dentition,R175.40
+8157,Re-burnishing and polishing of restorations - complete dentition,R129.90
+8158,Enamel microabrasion,R0.00
+8159,Prophylaxis - complete dentition,R345.20
+8160,Removal of gross calculus,R0.00
+8161,Topical application of fluoride - child,R175.40
+8162,Topical application of fluoride - adult,R175.40
+8163,Sealant - per tooth,R115.40
+8165,Sedative filling Placement of temporary filling,R0.00
+8166,Application of desensitising or caries arresting agent – per tooth,R97.60
+8167,"Application of desensitising medicament, per visit",R114.30
+8168,Behaviour management,R0.00
+8169,Interocclusal appliance,R0.00
+8171,Mouth guard,R151.30
+8173,"Space maintainer - fixed, per abutment ",R0.00
+8175,Space maintainer  - removable,R0.00
+8176,Periodontal examination,R240.80
+8177,Oral hygiene instruction (periodontally compromised patient),R197.10
+8178,Oral hygiene instruction - each additional visit (periodontally compromised patient),R106.40
+8179,Polishing - complete dentition (periodontally compromised patient),R201.40
+8180,Prophylaxis - complete dentition (periodontally compromised patient),R375.00
+8222,Temporary re cementation of crown/bridge ,R0.00
+8223,Temporary re cementation of inlay/onlay  ,R0.00
+8228,ART restorations,R303.50
+8265,Tissues conditioning per arch (including soft self-cure reline),R203.50
+8273,Impression to repair or modify a denture or other intra-oral appliance,R0.00
+8278,Modification of surgical conformer.,R0.00
+8304,Rubber dam per arch,R101.50
+8308,External bleaching - per arch,R0.00
+8309,Home bleaching - instructions and applicator,R0.00
+8310,Supply of bleaching materials,R0.00
+8311,Home bleaching - subsequent visit,R0.00
+8325,Internal bleaching - per tooth,R0.00
+8327,Internal bleaching - each additional visit,R0.00
+8367,"Resin - one surface, posterior",R0.00
+8551,Occlusal adjustment major,R0.00
+8553,Occlusal adjustment minor ,R0.00
+8590,Implant maintenance procedures - per implant,R0.00
+8722,Cost of provisional splinting materials. See Rule 002 Appendix A.,R0.00
+8725,Provisional splinting - extracoronal (wire plus resin) - per sextant,R350.40
+8727,Provisional; splinting - intra coronal - per tooth,R0.00
+8733,Periodontal packs ,R0.00
+8735,Suture Removal  ,R0.00
+8737,Root planing - four or more teeth per quadrant,R702.80
+8739,Root planing - one to three teeth per quadrant,R559.10
+8773,Cost of intrapocket chemotherapeutic agent,R0.00
+8815,Tracing and analysis of extra-oral film,R0.00
+8820,"Placement of pre activated orthodontic appliances.
+Used by oral hygienist only under the instruction of a dentist and dental specialist The instruction must be recorded in the patient file.",R0.00
+9099,Unlisted dental procedure or service (By report),R0.00
+9297,Removal of eyelet wiring.,R0.00

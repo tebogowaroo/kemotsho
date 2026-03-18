@@ -1,0 +1,13 @@
+"GEMS TARIFF FOR TISSUE TRANSPORTATION
+WITH EFFECT FROM 2026-01-01",,Accredited Blood and Blood Product Couriers
+Tariff Code,Tariff Description,2026 Tariff Value
+,The GEMS tariff valuesfor Tissue Transportation services are obtainable from the Scheme administrator. Please contact GEMS at 0860 00 4367 to be supplied with the applicable tariffs and reimbursement value,
+001,"Items in the section on blood transportation are only chargeable by providers with a \""003\"" practice number (Accredited Blood and Blood Product Couriers)",
+1,BLOOD TRANSPORTATION,
+700,"Routine compat collection: Collection of patient’s blood compat by courier from hospital / clinic, other than as an emergency.  Compat to be delivered to blood bank for cross match.",
+710,"Routine blood / blood product collection: Collection and delivery of cross-matched blood/blood produce by courier from blood bank, other than as an emergency.  Blood/blood product to be taken to hospital/clinic for patient.",
+720,Emergency blood / blood product collection: Collection of blood/blood product (without a full cross-match) where the driver has to wait for the blood/blood product and deliver it to the hospital (i.e. ROUND TRIP).,
+,"Medical scheme may require verification of emergency and determine the nature of such required verification.  May not be billed with 700, 710 or 730.",
+730,"Emergency blood / blood product collection following change of status of request: Collection of blood/blood product (with or without a full cross-match) where, after the original request was delivered to the blood bank by the courier as a routine request, the status of the request was subsequently changed by the hospital or clinic to an emergency necessitating a non-routine collection by the courier.  Blood/blood product to be taken to hospital/clinic for patient.",
+,Medical scheme may require verification of change of status and determine the nature of such required verification. Typically billed with 700.  May not be billed with 710.,
+740,"Long distance: Additional per km fee for collections further than 50km.  This fee applies only to those kilometres in excess of 50 km.  Supporting documentation required, illustrating distance traveled.",

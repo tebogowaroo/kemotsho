@@ -1,0 +1,154 @@
+"GEMS TARIFF IN RESPECT OF PHYSIOTHERAPISTS
+WITH EFFECT FROM 2026-01-01",,072 - Physiotherapists
+Tariff Code,Tariff Description, 2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,REGULATIONS DEFINING THE SCOPE OF THE PROFESSION OF PHYSIOTHERAPY (R2301 - 3 December 1976),
+,SCHEDULE,
+,General rules governing the scale of benefits,
+001,"Unless timely steps (i.e. 24 hours prior to the appointment) are taken to cancel an appointment the relevant fee may be charged, but shall not be payable by medical schemes. Each case shall, however, be considered on merit and, if circumstances warrant, no fee shall be charged. Modifier 0001 to be quoted",
+002,"In exceptional cases where the fee is disproportionately low in relation to the actual services rendered by the practitioner, the practitioner shall provide motivation for a higher fee and such higher fee as may be agreed upon between the practitioner and the scheme may be charged",
+003,"Where a practitioner uses equipment which is not owned by that practitioner, a reduction of 15% of the relevant rate will be applicable. Modifier 0003 must be quoted when this rule is applied",
+004,"In the case of prolonged or costly treatment, the practitioner should first ascertain from the scheme concerned whether it will accept financial responsibility in respect of such treatment, since the member may be subject to maximum annual benefits",
+005,"After a series of 20 treatments in respect of one patient for the same condition, the practitioner concerned shall report to the scheme as soon as possible if further treatment is necessary. Payment for treatments in excess of the stipulated number may be granted by the scheme after receipt of a letter from the practitioner concerned, motivating the need for such treatment",
+007,Practitioners are reminded that a lower fee than that appearing in the scale of benefits shall be charged if the customary fee in the area is less than that charged. Reduced fees shall also be charged where the practitioner would have reduced his/her fee in private practice in particular cases. Prolonged treatment or exceptional cases should also receive special consideration in accordance with the usual medical practice,
+008,"The fee in respect of more than one procedure (excluding evaluation and visiting items 407, 501, 502, 503, 507, 509, 701, 702, 703, 704, 705, 706, 707, 708, 801, 803, 901 and 903) performed at the same consultation or visit, shall be the fee for the major procedure plus half the fee in respect of each additional procedure, but under no circumstances may fees be charged for more than three procedures carried out in the treatment of any one condition. Modifier 0008 must then be quoted after the appropriate code numbers for the additional code numbers for the additional procedures to indicate that this rule is applicable.",
+009,"When more than one condition requires treatment and each of these conditions necessitates an individual treatment, they shall be charged as individual treatments. Full details of the nature of the treatments and the diagnosis or diagnostic codes shall be stated.   Modifier 0009 must then be quoted after the appropriate code number to indicate that this rule is applicable.",
+010,"When the treatment times of two completely separate and different conditions overlap, the fee shall be the full fee for one condition and 50% of the fee for the other condition. Both conditions must be specified.   Modifier 0010 must then be quoted after the appropriate code number to indicate that this rule is applicable.",
+011,"Every physiotherapist must acquaint himself with the provisions of the Medical Schemes Act, 1998 and the regulations promulgated under the Act in connection with the rendering of accounts.
+
+Every account shall contain the following particulars :
+
+· The name and practice code number of the referring practitioner (where applicable).
+· The name of the member.
+· The name of the patient.
+· The name of the medical scheme.
+· The membership number of the member.
+· The practice code number and name of practitioner
+· The nature and cost of the treatment.
+· The date on which the service was rendered.
+· The  relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered.",
+012,NB: Rounding off does not apply to amounts occurring once the modifiers are used.,
+013,"Where the physiotherapist performs treatment away from the treatment rooms, travelling costs being more than 16 kilometres in total) to be charged according to the AA-rate. Modifier 0013 must be quoted after the appropriate code numbers to show that this rule is applicable. Please note that although only some medical schemes accept responsibility for the payment of transport expenses, others do so in exceptional cases only.",
+014,Physiotherapy services rendered in a nursing home or hospital. Modifier 0014 must be quoted after each code.,
+016,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+,Modifiers,
+0001,Appointment not kept,
+0003,15% of the relevant rate to be deducted where equipment used is not owned by the practitioner,
+0008,Only 50% of the fee for these additional procedures may be charged,
+0009,The full fee for the additional condition may be charged,
+0010,Only 50% of the fee for the second condition may be charged,
+0013,"Travelling costs (being more than 16 kilometres in total) according to AA-rate. Please note that although only some medical schemes accept responsibility for the payment of transport expenses, others do so in exceptional cases only.",
+0014,Physiotherapy services rendered to an in-patient in a nursing home or hospital.,
+1,RADIATION THERAPY / MOIST HEAT / CRYOTHERAPY,
+001,"Infra-red, Radiant heat, Wax therapy Hot packs",R71.70
+005,Ultraviolet light,R143.80
+006,Laser beam,R215.50
+007,Cryotherapy,R71.70
+2,LOW FREQUENCY CURRENTS,
+103,"Galvanism, Diodynamic current, Tens.",R143.80
+105,Muscle and nerve stimulating currents.,R172.20
+107,Interferential Therapy.,R143.80
+3,HIGH FREQUENCY CURRENTS,
+201,Shortwave diathermy.,R71.70
+203,Ultrasound.,R143.80
+205,Microwave.,R71.70
+4,PHYSICAL MODALITIES,
+300,Vibration,R143.80
+301,Percussion,R231.40
+302,Massage,R143.80
+303,"Myofacial release/soft tissue mobilisation, one or more body parts",R288.50
+304,Acupuncture,R215.50
+305,Re-education of movement/Exercises (excluding ante- and post-natal exercises),R143.80
+307,Pre- and post-operative exercises and/or breathing exercises,R143.80
+308,Group exercises (excluding ante- and post-natal exercises - maximum of 10 in a group),R143.80
+309,Isokinetic treatment.,R143.80
+310,Neural tissue mobilisation,R287.00
+313,Ante and post natal exercises/counselling,R143.80
+314,Lymph drainage,R71.70
+315,Postural drainage.,R143.80
+317,Traction.,R143.80
+318,Upper respiratory nebulisation and/or lavage,R143.80
+319,Nebulisation,R143.80
+321,Intermittent positive pressure ventilation.,R143.80
+323,Suction: Level 1 (including sputum specimen taken by suction),R71.70
+325,Suction: Level 2 (Suction with involvement of lavage as a treatment in a special unit situation or in the respiratory compromised patient),R288.50
+327,Bagging (used on the intubated unconscious patient or in the severely respiratory distressed patient).,R71.70
+328,Dry needling,R215.50
+5,MANIPULATION/MOBILISATION OF JOINTS OR IMMOBILISATION,
+401,Spinal.,R215.50
+402,Pre meditated manipulation,R143.80
+405,All other joints.,R215.50
+407,Immobilisation (excluding materials). Rule 008 does not apply.,R215.50
+6,REHABILITATION,
+501,Rehabilitation where the pathology requires the undivided attention of the physiotherapist. Rule 008 does not apply. Duration: 30min.,R358.80
+502,"Hydrotherapy where the pathology requires the undivided attention of the physiotherapist. Rule 008 does not apply. Duration: 30min.
+",R358.80
+503,Rehabilitation for Central Nervous System disorders - condition to be clearly stated and fully documented (No other treatment modality may be charged in conjunction with this). Duration: 60min.,R789.80
+504,EMG Biofeedback treatment,R215.50
+505,"Group rehabilitation. Treatment of a patient with disabling pathology in an appropriate facility requiring specific equipment and supervision, without individual attention for the whole treatment session, no charge may be levied by facility",R172.20
+506,Stress management,R287.00
+507,Respiratory Re-education and Training. Duration: 30min.,R215.50
+509,"Rehabilitation. Each additional full 15 mins. Where the pathology requires the undivided attention of the physiotherapist. (Rule 0008 does not apply.)  Can only be used with codes 501, 502, 507 or 503 to indicate the completion of an additional 15 minutes. A maximum of two instances of this code may be charged per session.
+",R215.50
+7,EVALUATION,
+701,Evaluation/counselling at the first visit only (to be fully documented),R215.50
+702,Complex evaluation/counselling at the first visit only (to be fully documented).,R430.50
+703,One complete re-assessment of a patient's condition during the course of treatment. To be used only once per episode of care.,R215.50
+704,Lung function: Peak flow (once per treatment).,R71.70
+705,Computerised/Electronic test for lung pathology,R215.50
+706,"Reports. To be used to motivate for therapy and/or give a progress report and/or a pre-authorisation report, where such a report is specifically required by the medical scheme.",R215.50
+707,Physical Performance test. Must be fully documented.,R287.00
+708,"Interview, guidance or consultation with the patient or his family. To be used only once per episode of care.",R215.50
+720,"Essential continuation of physiotherapy care, in an after-hours situation. ( See general Rules on tariff codes 720 and 721)",R287.00
+721,Emergency physiotherapy intervention ( See general Rules on tariff codes 720 and 721),R430.80
+801,Electrical test for diagnostic purposes (including IT curve and Isokinetic tests) for a specific medical condition,R502.00
+803,Effort test - multistage treadmill.,R502.00
+8,VISITING CODES,
+901,Treatment at a nursing home : Relevant fee plus (to be charged only once per day and not with every hospital visit,R143.80
+903,Domicilliary treatments : Relevant fee plus.,R287.00
+10,OTHER,
+117,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",R0.00
+937,Bird or equivalent freestanding nebuliser excluding oxygen at hospital per day.,R143.80
+938,Bird or equivalent freestanding nebuliser excluding oxygen domicilliary per day.,R143.80
+939,"Cost of material: Items to be charged (exclusive of VAT) at net acquisition price plus -
+26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; 
+a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.", 
+940,"Cost of appliances: Items to be charged (exclusive of VAT) at net acquisition price plus-
+26% of the net acquisition price where the net acquisition price of that appliance is less than one hundred rands; 
+a maximum of twenty six rands where the net acquisition price of that appliance is greater than or equal to one hundred rands.", 
+941,Hiring equipment: 1% of the current replacement value of the equipment per day. Total charge not to exceed 50% of replacement value. Description of equipment to be supplied., 
+,"Payment of this item is at the discretion of medical scheme concerned, and should be considered in instances where cost savings can be achieved. By prior arrangement with the medical scheme.", 
+,General rules  on tariff code 720 and 721,
+,"Indications for use of code 720 “essential continuation of physiotherapy care in after hours situation\""
+This code may be used under the following circumstances where failure to provide the physiotherapy intervention might result in any or all of the following:
+a) serious impairment to bodily functions
+b) serious dysfunction of a bodily organ or part
+c) reduced functional ability due to severe pain
+d) would place the patient's life in serious jeopardy
+e) increase of length of hospital stay
+f) prolongation of expected recovery time
+
+Explanation and use of “after-hours situation”
+“After-hours situation” shall mean all physiotherapy interventions, where essential continuation of care is required in excess of ordinary working hours in the following circumstances:
+a) Weekdays before 07:00 and after 17:00
+b) Saturdays before and after the normal working hours of the practice 
+c) Sundays and Public holidays
+This code may not be charged in the following circumstances:
+a) Where the physiotherapy appointment is scheduled for the convenience of the patient.
+b) Where the physiotherapy appointment is scheduled for the convenience of the physiotherapist.
+c) Where the ordinary outpatient consulting hours for the practice fall outside the above parameters.
+d) In circumstances where the above criteria are not met the use of code 720 is not applicable.
+Code 720 and 721 may not be charged together at the same single intervention.
+
+CODE 721  – emergency physiotherapy intervention
+Explanation and indications for use
+Code 721 may only be used where an emergency physiotherapy intervention is provided. Emergency is defined as a sudden, and at the time, unexpected onset of a health condition or an unplanned event that requires immediate unscheduled physiotherapy intervention. Failure to provide the physiotherapy intervention immediately might result in any or all of the following: 
+a) serious impairment to bodily functions 
+b) serious dysfunction of a bodily organ or part 
+c) reduced functional ability due to severe pain 
+d) would place the patient's life in serious jeopardy 
+
+In circumstances where the above criteria are not met the use of code 720 is not applicable. 
+
+",

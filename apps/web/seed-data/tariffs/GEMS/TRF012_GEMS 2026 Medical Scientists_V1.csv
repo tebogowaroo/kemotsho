@@ -1,0 +1,53 @@
+"GEMS TARIFF FOR MEDICAL SCIENTISTS
+WITH EFFECT FROM 2026-01-01",,069 - Medical Scientist: Clinical B
+Tariff Code,Tariff Description,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,GENERAL RULES,
+01,"Each practitioner must acquaint him-/herself with the provisions of the Medical Schemes Act, as amended, and the regulations promulgated under the Act and shall render a monthly account in respect of any service rendered during the month, irrespective of whether or not the treatment has been completed. NB. Every account shall contain the following particulars
+
+· The name and practice code number of the referring practitioner.
+· The name of the member.
+· The name of the patient.
+· The name of the medical scheme.
+· The membership number of the member.
+· The nature of the treatment.
+· The date on which the service was rendered.
+· The relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered.",
+,ITEMS,
+107,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",
+200,Genetic counselling. Duration: 1-10min.,R85.90
+201,Genetic counselling. Duration: 11-20min.,R257.30
+202,Genetic counselling. Duration: 21-30min.,R429.20
+203,Genetic counselling. Duration: 31-40min.,R600.80
+204,Genetic counselling. Duration: 41-50min.,R772.60
+205,Genetic counselling. Duration: 51-60min.,R944.50
+206,Genetic counselling. Duration: 61-70min.,"R1,115.90"
+207,Genetic counselling. Duration: 71-80min.,"R1,287.40"
+208,Genetic counselling. Duration: 81-90min.,"R1,459.20"
+,Sample extraction,
+300,DNA extraction - Blood,
+310,DNA extraction - Tissue (other than blood and including CVS and amniotic fluid),
+320,DNA extraction - Tissue (paraffin blocks),
+330,RNA extraction - Blood,
+340,RNA extraction - Tissue (other than blood and including CVS and amniotic fluid),
+350,RNA extraction - Tissue (paraffin blocks),
+,PCR,
+400,PCR-basic (up to four PCR primer sets),
+410,PCR-multiplex (five or more primer sets),
+420,PCR-realtime,
+430,PCR-reverse transcriptase ,
+,Detection Methods,
+500,Diagnostic electrophoresis (agarose and polyacrylamide gel electrophoresis and capillary electrophoresis),
+510,Restriction enzyme digestion (use multiples based on cost of enzyme),
+520,Probe hybridisation assays ,
+530,dHPLC,
+540,MLPA,
+,Southern Blotting,
+610,DNA probe labelling (including hybridisation and autoradiography),
+600,"Southern blot (digest, gel and blotting) ",
+,Other,
+700,Protein truncation test,
+730,Interpretation and reporting,
+720,DNA sequencing ,
+710,Maternal contamination test (prenatal testing),

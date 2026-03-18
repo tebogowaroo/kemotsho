@@ -1,0 +1,66 @@
+
+> build
+> npm run build --workspaces
+
+
+> @waroo/web@0.1.0 build
+> next build
+
+▲ Next.js 16.1.2 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 16.6s
+  Running TypeScript ...
+Failed to compile.
+
+./src/app/actions/users.ts:99:60
+Type error: This comparison appears to be unintentional because the types '"sys:admin" | "medical:admin" | "medical:practitioner" | "medical:clinical-support" | "medical:front-desk" | "medical:billing" | "medical:patient" | "cms:manager" | "cms:publisher" | ... 8 more ... | "sys:developer"' and '"subscriber"' have no overlap.
+
+[0m [90m  97 |[39m          [90m// Filter for users who have roles other than or in addition to 'subscriber'[39m
+ [90m  98 |[39m          [90m// For now, we assume anyone with a role that is NOT 'subscriber' is staff/admin.[39m
+[31m[1m>[22m[39m[90m  99 |[39m          [36mconst[39m staff [33m=[39m users[33m.[39mfilter(u [33m=>[39m u[33m.[39mroles[33m.[39msome(r [33m=>[39m r [33m!==[39m [32m'subscriber'[39m))
+ [90m     |[39m                                                            [31m[1m^[22m[39m
+ [90m 100 |[39m          [36mreturn[39m staff[33m.[39mmap(serializeUser)
+ [90m 101 |[39m     })
+ [90m 102 |[39m     [36mreturn[39m run(program)[0m
+Next.js build worker exited with code: 1 and signal: null
+npm error Lifecycle script `build` failed with error:
+npm error code 1
+npm error path /home/tebogo/projects/waroo/website-base/apps/web
+npm error workspace @waroo/web@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/apps/web
+npm error command failed
+npm error command sh -c next build
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/core@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/core
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/core@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/module-commerce@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/module-commerce
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/module-commerce@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/module-medical@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/module-medical
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/module-medical@0.1.0
+
+npm error Lifecycle script `build` failed with error:
+npm error workspace @waroo/platform-cms@0.1.0
+npm error location /home/tebogo/projects/waroo/website-base/packages/platform-cms
+npm error Missing script: "build"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run --workspace=@waroo/platform-cms@0.1.0

@@ -1,0 +1,1550 @@
+"GEMS TARIFF FOR RADIOLOGISTS AND NUCLEAR MEDICINE
+WITH EFFECT FROM 2026-01-01",,025 - Nuclear Medicine,038 - Radiology
+Tariff Code,Tariff Description,2026 Tariff Value,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",,
+,"This schedule is for the exclusive use of registered specialist radiology practices (Pr No \""038\"") and nuclear medicine practices (Pr No \""025\"").  “025” practices may only charge the codes with a 3rd digit of 9.  “038” practices may charge all codes except codes with a 3rd digit of 9.  Practitioners registered as both radiologists and nuclear physicians may charge all codes. Neurosurgeons accredited by the RSSA may charge for the neuro-interventional studies at 100% of the published radiology rate subject to preauthorisation and this excludes equipment fees or any other claims for the same event.",,
+,This schedule must be used in conjunction with the Radiological Society of S A Guidelines. Please refer to the PET guidelines in Annexure D. ,,
+,Code Structure Framework,,
+,"a.	 The tariff code consists of 5 digits
+i.	 1st digit indicates the main anatomical region or procedural category.
+•	 0 = General (non-specific)
+•	 1 = Head
+•	 2 = Neck
+•	 3 = Thorax
+•	 4 = Abdomen and Pelvis (soft tissue)
+•	 5 = Spine, Pelvis and Hips
+•	 6 = Upper limbs
+•	 7 = Lower limbs
+•	 8 = Interventional
+•	 9 = Soft tissue regions (nuclear medicine)
+•	 eg “Head” = 1xxxx
+
+ii.	 2nd digit indicates the sub-region within a main region or category, eg
+•	 “Head / Skull and Brain” = 10xxx
+
+iii.	3rd digit indicates modality
+•	1 = General (Black and White) x-rays
+•	2 = Ultrasound
+•	3 = Computed Tomography
+•	4 = Magnetic Resonance Imaging
+•	5 = Angiography 
+•	6 = Interventional radiology
+•	9 = Nuclear Medicine (Isotopes)
+ eg:  “Head / Skull and Brain / General x-ray” = 101xx
+
+iv.	4th and 5th digits are specific to a procedure/examination, 
+ eg: Head  / Skull and Brain / General / X-ray of the skull” = 10100.",,
+,Guidelines for use of coding structure,,
+,"•	The vast majority of the codes describe complete procedures / examination and their use for the appropriate studies is self-explanatory.
+•	Some codes may have multiple applications and their use is described in notes associated with each code
+•	Codes 00510 to 00560 (Angiography machine codes) may only be used by owners of the equipment and who have registered such equipment with the Board of Healthcare Funders / RSSA. 
+•	The machine codes 00510, 00520, 00530, 00540, 00550, 00560 may not be added to 60540, 60550, 70530, 70535 (Antegrade Venography, upper and lower limbs)  
+•	Where public sector hospital equipment is used for a procedure, the units will be reduced by 33.33%.",,
+,Consumables,,
+,"•	Contrast Medium
+o	Prior to the implementation of Act 90, contrast will be billed according to the official 2004 RSSA reimbursement price list, without mark up.
+o	After the implementation of Act 90, contrast medium will be billed according to the suppliers’ list price, without mark up.
+•	Angiography catheters, angioplasty balloons, stents, coils and other embolisation materials, guide wires and drains are to be billed at net acquisition cost, without mark up, until the implementation of Act 90.  
+•	All other consumables are to be billed at net acquisition price, until the implementation of Act 90. Thereafter Act 90 regulations apply. 
+•	The cost of film is included in the comprehensive procedure codes and is not billed for separately.
+•	Appropriate codes must be provided for consumables.",,
+,General Comments on Procedural Codes,,
+,"•	All x-ray tomography codes are stand alone studies and may be used as a unique study or in combination with the appropriate regional study if done simultaneously. May not be added to 20130, 42110, 42115.
+•	Setting of sterile tray is included in all appropriate procedure codes. 
+•	Where introduction of contrast is necessary eg. sialography, arthrography, angiography, etc, the codes used for the procedures are comprehensive and include the introduction of contrast or isotopes. 
+•	The use of Doppler or Colour Doppler as an adjunct to a study (eg small parts thyroid) is included in the code for that study. 
+•	CT Angiography (10330, 20330, 32300, 32310, 44300, 44310, 44320, 44330, 60310, 70310, 70320) are stand alone studies and may not be added to the regional contrasted studies (see 10335, 20340, 20350, 44325 for combined studies). 
+•	Angiography and interventional procedures include selective and super selective catheterization of vessels as are necessary to perform the procedures.",,
+,"Codes 00230 (Ultrasound guidance), 00320 (CT guidance) and 00430 (MR guidance) are stand alone procedures that include the regional study and may not be added to any of the ultrasound, CT or MR regional studies",,
+,General Codes,,
+,Modifiers,,
+00091,Radiology and nuclear medicine services rendered to hospital inpatients,,
+00092,Radiology and nuclear medicine services rendered to outpatients,,
+00093,A reduction of one third (33.33%) will apply to radiological examinations where hospital equipment it used,,
+,PPE Modifiers,,
+00100,COVID PPE/Cleaning modifier- General ,R0.00,R0.00
+00200,COVID PPE/Cleaning modifier- Ultra Sound ,R0.00,R0.00
+00300,COVID PPE/Cleaning modifier- CT,R0.00,R0.00
+00400,COVID PPE/Cleaning modifier- MRI,R0.00,R0.00
+00500,COVID PPE/Cleaning modifier- Angioraphy ,R0.00,R0.00
+00600,COVID PPE/Cleaning modifier- Interventional ,R0.00,R0.00
+00901,COVID PPE/Cleaning modifier- Nuclear Medicine ,R0.00,R0.00
+,Equipment / Diagnostic,,
+00090,"Consumables used in radiology procedures: cost price PLUS 26% (up to a maximum of R26,00). (Where applicable, VAT should be added to the above).",,
+,Appropriate code to be provided. See separate codes for contrast and isotopes,,
+00110,X-ray skeletal survey under five years,,"R1,107.00"
+00115,X-ray skeletal survey over five years,,"R1,838.90"
+00120,X-ray sinogram any region,,"R1,925.60"
+00130,X-ray with mobile unit in other facility,,R335.80
+,To be added to applicable procedure codes eg 30100.,, 
+00135,X-ray control view in theatre any region,,R930.00
+00140,X-ray fluoroscopy any region,,R399.50
+,"May only be added to the examination when fluoroscopy is not included in the standard procedure code. May not be added to:
+• any angiography, venography, lymphangiography or interventional codes.
+• any contrasted fluoroscopy examination.",,
+00145,"X-ray fluoroscopy guidance for biopsy, any region",,R937.40
+,"Add to the procedure eg. 80600, 80605, 80610.",, 
+00150,"X-ray C-Arm (equipment fee only, not procedure) per half hour",,R427.90
+,Only to be used if equipment is owned by the radiologist.,, 
+00155,X-ray C-arm fluoroscopy in theatre per half hour (procedure only),,R406.20
+00160,X-ray fixed theatre installation (equipment fee only),,R399.50
+,Only to be used if equipment is owned by the radiologist.,, 
+00190,X-ray examination contrast material,,R0.00
+,Identification code for the use of contrast with a procedure. Appropriate codes to be supplied.,, 
+00210,Ultrasound with mobile unit in other facility,,R325.10
+,Add to the relevant ultrasound examination codes eg 10200.,, 
+00220,Ultrasound intra-operative study,,"R1,294.10"
+,Covers all regions studied. Single code per operative procedure.,, 
+00230,Ultrasound guidance,,"R2,140.00"
+,"Comprehensive ultrasound code including regional study and guidance. Guided procedure code to be added eg. 80600, 80605, 80610.",, 
+00240,Ultrasound guidance for tissue ablation,,"R1,987.80"
+,Comprehensive ultrasound code including regional study and guidance. Radiologist assistance (01030) may be added if procedure is performed by a non-radiologist. Guided procedure code to be added if performed by a radiologist. 80620 or 80630.,,
+00250,Ultrasound limited Doppler study any region,,"R1,149.20"
+,Stand alone code may not be added to any other code.,,
+00290,Ultrasound examination contrast material,,
+,Identification code for the use of contrast with a procedure. Appropriate codes to be supplied.,,
+00310,CT planning study for radiotherapy,,"R3,778.90"
+00591,Radiology prosthetic device,,
+,To be used once per planning session for any region,,
+00320,CT guidance (separate procedure),,"R2,992.00"
+,"Comprehensive CT code including regional study and guidance. Guided procedure code to be added eg 80600, 80605, and 80610.",,
+00330,"CT guidance, with diagnostic procedure",,"R1,495.60"
+,"To be added to the diagnostic procedure code. Guided procedure code to be added eg 80600, 80605, 80610.",,
+00340,CT guidance and monitoring for tissue ablation,,"R3,739.70"
+,"May only be used once per procedure for a region. Radiologist assistance (01030) may be added if procedure is performed by a non-radiologist. If performed by radiologist, add procedural code 80620, or 80630.",,
+00390,CT examination contrast material,,
+,Identification code for the use of contrast with a procedure. Appropriate codes to be supplied.,,
+00410,MR study of the whole body for metastases screening,,"R12,448.50"
+00420,MR Spectroscopy any region,,"R5,110.30"
+,"May be added to the regional study, once only.",, 
+00430,MR guidance for needle replacement,,"R7,525.50"
+,"Comprehensive MRI code including region studied and guidance. Guided procedure code to be added eg 80600, 80605, 80610.",, 
+00440,MR low field strength imaging of peripheral joint any region,,"R2,122.10"
+00450,MR planning study for radiotherapy or surgical procedure,,"R6,719.40"
+00455,"MR planning study for radiotherapy or surgical procedure, with contrast",,"R8,310.80"
+00490,MR examination contrast material,,R0.00
+,Identification code for the use of contrast with a procedure. Appropriate codes to be supplied.,, 
+00510,Analogue monoplane screening table,,"R7,251.60"
+,A machine code may be added once per complete procedure / patient visit.,,R0.00
+00520,Analogue monoplane table with DSA attachment,,"R8,399.30"
+,A machine code may be added once per complete procedure / patient visit.,,R0.00
+00530,Dedicated angiography suite: Analogue monoplane unit. Once off charge per patient by owner of equipment.,,"R8,399.30"
+,A machine code may be added once per complete procedure / patient visit.,,R0.00
+00540,Digital monoplane screening table,,"R14,131.60"
+,A machine code may be added once per complete procedure / patient visit.,,R0.00
+00550,Dedicated angiography suite: Digital monoplane unit. Once off charge per patient by owner of equipment.,,"R16,449.90"
+,A machine code may be added once per complete procedure / patient visit.,,R0.00
+00560,Dedicated angiography suite: Digital bi-plane unit. Once off charge per patient by owner of equipment.,,"R22,103.10"
+,A machine code may be added once per complete procedure / patient visit.,,
+00590,Angiography and interventional examination contrast material,,
+,Identification code for the use of contrast with a procedure. Appropriate codes to be supplied.,,
+00900,"Nuclear Medicine study - Bone, whole body, appendicular and axial skeleton","R6,174.60",
+00903,"Nuclear Medicine study - Bone, whole body, appendicular and axial skeleton and SPECT","R8,545.90",
+00906,Nuclear Medicine study - Venous thrombosis regional,"R3,808.80",
+00909,Nuclear Medicine study - Tumour whole body,"R6,038.60",
+00912,Nuclear Medicine study - Tumour whole body multiple studies,"R8,409.30",
+00915,Nuclear Medicine study - Tumour whole body and SPECT,"R8,409.30",
+00918,Nuclear Medicine study - Tumour whole body multiple studies & SPECT,"R10,782.60",
+00921,Nuclear Medicine study – Infection whole body,"R5,561.20",
+00924,Nuclear Medicine study – infection whole body with SPECT,"R7,932.20",
+00927,Nuclear Medicine study – infection whole body multiple studies,"R7,932.20",
+00930,Nuclear Medicine study – infection whole body with SPECT multiple studies,"R10,303.70",
+00933,Nuclear Medicine study - Bone marrow imaging limited area,"R4,261.50",
+00936,Nuclear Medicine study - Bone marrow imaging whole body,"R6,632.60",
+00939,Nuclear Medicine study - Bone marrow imaging limited area multiple studies,"R6,632.60",
+00942,Nuclear Medicine study - Bone marrow imaging whole body multiple studies,"R9,003.60",
+00945,Nuclear Medicine study - Spleen imaging only - haematopoietic,"R4,261.50",
+00960,Nuclear Medicine therapy – Hyperthyroidism,"R2,120.20",
+00965,Nuclear Medicine therapy - Thyroid carcinoma and metastases,"R1,144.20",
+00970,Nuclear Medicine therapy – Intra-cavity radio-active colloid therapy,"R1,144.20",
+00975,Nuclear Medicine therapy - Interstitial radio-active colloid therapy,"R1,144.20",
+00980,Nuclear Medicine therapy - Intravascular radio pharmaceutical therapy particulate,"R1,144.20",
+00985,Nuclear Medicine therapy - Intra-articular radio pharmaceutical therapy,"R1,144.20",
+00990,Nuclear Medicine Isotope,,
+,Identification code for the use of isotope with a procedure. Appropriate codes to be supplied.,,
+00991,Nuclear Medicine Substrate,,
+00956,PET/CT scan whole body without contrast,,
+00957,PET/CT scan whole body with contrast,,
+00950,PET scan local,,
+00951,PET/CT local,,
+00952,PET/CT local with contrast,,
+00955,PET scan whole body,,
+,Call and assistance,,
+,"•	Emergency call out code 01010 only to be used if radiologist is called out to the rooms to report on an examination after normal working hours. May not be used for routine reporting during extended working hours. 
+•	Emergency call out code 01020 only to be used when a radiologist reports on subsequent cases after having been called out to the rooms to report an initial after hours procedure. This code may also be used for home tele-radiology reporting of an emergency procedure.  May not be used for routine reporting during normal or extended working hours.
+•	Radiologist assistance in theatre code 01030 only to be used if the radiologist is actively involved in assisting another radiologist or clinician with a procedure.
+•	Radiographer assistance in theatre 01040 may not be used for procedures performed in facilities owned by the radiologist; ie only for attendance in hospital theatres etc. Does not apply to Bed Side Unit (BSU) examinations. 
+•	Second opinion consultations only to be used if a written report is provided as indicated in codes 01050, 01055, 01060. Not intended for ad hoc verbal consultations.",,
+01010,"Emergency call out fee, first case",,R530.60
+01020,"Emergency call out fee, subsequent cases same trip",,R353.60
+01030,"Radiologist assistance in theatre, per half hour",,"R1,061.00"
+01040,"Radiographer attendance in theatre, per half hour",,R282.80
+01050,"Written report on study done elsewhere, short",,R265.10
+01055,"Written report on study done elsewhere, extensive",,R742.40
+01060,"Written report for medico legal purposes, per hour",,"R1,718.70"
+01070,Consultation for pre-assessment of interventional procedure,,R859.80
+01100,"X-ray procedure after hours, per procedure",,R353.60
+01200,"Ultrasound procedure after hours, per procedure",,R707.30
+01300,"CT procedure after hours, per procedure",,"R1,768.00"
+01400,"MR procedure after hours, per procedure",,"R2,475.60"
+01500,"Angiography procedure after hours, per procedure",,"R3,536.60"
+01600,"Interventional procedure after hours, per procedure",,"R4,597.60"
+01970,Consultation for nuclear medicine study,R389.10,
+,Monitoring,,
+,•	ECG / Pulse oximetry monitoring (02010). Use for monitoring patients requiring conscious sedation during imaging procedure. Not to be used as a routine.,,
+02010,ECG/pulse Oximeter monitoring,,R353.60
+,Head,,
+,Skull and Brain,,
+,Codes 10100 (skull) and 10110 (tomography) may be combined.,,
+10100,X-ray of the skull,,R682.50
+10110,X-ray tomography of the skull,,R760.50
+10120,X-ray shuntogram for VP shunt,,"R2,715.90"
+10200,Ultrasound of the brain – Neonatal,,"R1,305.10"
+10210,Ultrasound of the brain including doppler,,"R2,337.40"
+10220,"Ultrasound of the intracranial vasculature, including B mode, pulse and colour doppler",,"R2,659.50"
+10300,CT Brain uncontrasted,,"R4,005.40"
+10310,CT Brain with contrast only,,"R5,884.70"
+10320,CT Brain pre and post contrast,,"R7,158.10"
+10325,CT brain pre and post contrast for perfusion studies,,"R8,682.00"
+,"Stand alone code may not be added to any other CT studies of the brain, except for code 10330",,
+10330,CT angiography of the brain,,"R13,718.20"
+10335,CT of the brain pre and post contrast with angiography,,"R17,312.70"
+10340,CT brain for cranio-stenosis including 3D,,"R6,040.30"
+10350,CT Brain stereotactic localisation,,"R3,423.40"
+10360,CT base of skull coronal high resolution study for CSF leak,,"R6,171.00"
+10400,"MR of the brain, limited study",,"R7,702.60"
+10410,MR of the brain uncontrasted,,"R11,281.30"
+10420,MR of the brain with contrast,,"R13,428.30"
+10430,MR of the brain pre and post contrast,,"R18,396.60"
+10440,"MR of the brain pre and post contrast, for perfusion studies",,"R18,997.80"
+10450,MR of the brain plus angiography,,"R16,302.80"
+10460,MR of the brain pre and post contrast plus angiography,,"R21,436.20"
+10470,MR angiography of the brain uncontrasted,,"R10,344.10"
+10480,MR angiography of the brain contrasted,,"R13,088.20"
+10485,"MR of the brain, with diffusion studies",,"R13,968.90"
+10490,"MR of the brain, pre and post contrast, with diffusion studies,",,"R19,563.80"
+10492,"MR study of the brain plus angiography plus diffusion, uncontrasted",,"R16,798.20"
+10495,MR of the brain pre and post contrast plus angiography and diffusion,,"R22,180.60"
+10500,Arteriography of intracranial vessels: 1 - 2 vessels,,"R8,593.30"
+10510,Arteriography of intracranial vessels: 3 - 4 vessels,,"R14,557.60"
+10520,Arteriography of extra-cranial (non-cervical) vessels,,"R8,564.90"
+10530,Arteriography of intracranial and extra-cranial (non-cervical) vessels,,"R20,881.30"
+10540,Arteriography of intracranial vessels (4) plus 3 D rotational angiography,,"R17,252.70"
+10550,Arteriography of intracranial vessels (1) plus 3D rotational angiography,,"R6,593.70"
+10560,Venography of dural sinuses,,"R9,235.40"
+10900,"Nuclear Medicine study – Bone regional, static","R3,801.70",
+10905,"Nuclear Medicine study – Bone regional, static, with flow","R4,868.20",
+10910,"Nuclear Medicine study – Bone regional, static with SPECT","R6,174.60",
+10915,"Nuclear Medicine study – Bone regional, static, with flow, with SPECT","R7,239.10",
+10920,"Nuclear Medicine study – Brain, planar, complete, static","R2,992.00",
+10925,Nuclear Medicine study – Brain complete static with vascular flow,"R4,058.40",
+10930,"Nuclear Medicine study – Brain, planar, complete, static, with SPECT","R5,363.10",
+10935,"Nuclear Medicine study – Brain, planar, complete, static, with flow, with SPECT","R6,429.30",
+10940,Nuclear Medicine study - CSF flow imaging cisternography,"R3,819.60",
+10945,Nuclear Medicine study – Ventriculography,"R2,371.00",
+10950,"Nuclear Medicine study - Shunt evaluation static, planar","R2,371.00",
+10955,Nuclear Medicine study - CFS leakage detection and localisation,"R2,371.00",
+10960,Nuclear medicine study - CSF SPECT,"R2,371.00",
+10970,PET scan of the brain,,
+10971,PET/CT scan of the brain uncontrasted,,
+10972,PET/CT of the brain contrasted,,
+10980,PET perfusion scan of the brain,,
+10981,PET/CT perfusion scan of the brain,,
+,Facial bones and nasal bones,,
+,Codes 11100 (facial bones) and 11110 (tomography) may be combined,,
+11100,X-ray of the facial bones,,R695.00
+11110,X-ray tomography of the facial bones,,R760.50
+11120,X-ray of the nasal bones,,R422.80
+11300,CT of the facial bones,,"R3,706.20"
+11310,CT of the facial bones with 3D reconstructions,,"R5,375.40"
+11320,"CT of the facial bones/soft tissue, pre and post contrast",,"R7,295.70"
+11400,MR of the facial soft tissue,,"R11,033.50"
+11410,MR of the facial soft tissue pre and post contrast,,"R17,788.50"
+11420,"MR of the facial soft tissue plus angiography, with contrast",,"R19,503.50"
+11430,MR angiography of the facial soft tissue,,"R13,088.20"
+,"Orbits, lacrimal glands and tear ducts",,
+,Code 12130 (tomography) may be added to 12100 or 12110 or 12120 (orbits) or 12140 (dacrocystography).,,
+12100,X-ray orbits less than three views,,R629.50
+12110,"X-ray of the orbits, three or more views, including foramina",,R937.40
+12120,X-ray of the orbits for foreign body,,R629.50
+12130,X-ray tomography of the orbits,,R760.50
+12140,X-ray dacrocystography,,"R1,980.50"
+12200,Ultrasound of the orbit/eye,,R907.20
+12210,Ultrasound of the orbit/eye including doppler,,"R1,939.70"
+12300,CT of the orbits single plane,,"R2,776.20"
+12310,"CT of the orbits, more than one plane",,"R3,640.60"
+12320,CT of the orbits pre and post contrast single plane,,"R6,370.80"
+12330,CT of the orbits pre and post contrast multiple planes,,"R7,019.90"
+12400,MR of the orbits,,"R11,044.50"
+12410,"MR of the orbitae, pre and post contrast",,"R17,795.60"
+12900,Nuclear Medicine study – Dacrocystography,"R3,672.60",
+,Paranasal sinuses,,
+,"Code 13120 (tomography) may be added to 13100, 13110 (paranasal sinuses), 13130 (nasopharyngeal).",,
+13100,"X-ray of the paranasal sinuses, single view",,R484.40
+13110,"X-ray of the paranasal sinuses, two or more views",,R647.30
+13120,X-ray tomography of the paranasal sinuses,,R760.50
+13130,X-ray of the naso-pharyngeal soft tissue,,R484.40
+13300,"CT of the paranasal sinuses single plane, limited study",,"R1,273.20"
+13310,"CT of the paranasal sinuses, two planes, limited study",,"R2,192.70"
+13320,"CT of the paranasal sinuses, any plane, complete study",,"R2,726.70"
+13330,"CT of the paranasal sinuses, more than one plane, complete study",,"R3,672.60"
+13340,"CT of the paranasal sinuses, any plane, complete study: pre and post contrast",,"R6,143.10"
+13350,"CT of the paranasal sinuses, more than one plane, complete study; pre and post contrast",,"R7,251.60"
+13400,MR of the paranasal sinuses,,"R10,656.90"
+13410,"MR of the paranasal sinuses, pre and post contrast",,"R17,079.20"
+,"Mandible, teeth and maxilla",,
+,"Code 14110 (orthopantomogram) may be combined with 14100 (mandible) if two separate studies are performed.
+Code 14110 (orthopantomogram) may be combined with 15100 and / or 15110 (TM joint) if complete separate studies are performed.
+Code 14160 (tomography) may be combined with 14130 or 14140 or 14150 (teeth).
+Code 14160 (tomography) may be combined with 15100 and / or 15110 (TM joint) if complete separate studies are performed.
+Code 14330 and 14340 (Dental implants) may be combined if mandible and maxilla are examined at the same visit.",,
+14100,X-ray of the mandible,,R647.30
+14110,X-ray orthopantomogram of the jaws and teeth,,R718.10
+14120,X-ray maxillofacial cephalometry,,R489.80
+14130,X-ray of the teeth single quadrant,,R353.60
+14140,X-ray of the teeth more than one quadrant,,R447.50
+14150,X-ray of the teeth full mouth,,R640.10
+14160,X-ray tomography of the teeth per side,,R571.10
+14300,CT of the mandible,,"R3,939.40"
+14310,"CT of the mandible, pre and post contrast",,"R7,295.70"
+14320,CT mandible with 3D reconstructions,,"R5,375.40"
+14330,CT for dental implants in the mandible,,"R4,853.70"
+14340,CT for dental implants in the maxilla,,"R4,853.70"
+14400,MR of the mandible/maxilla,,"R11,281.30"
+14410,"MR of the mandible/maxilla, pre and post contrast",,"R17,442.10"
+,TM Joints,,
+,"Code 15100 (TM joint) and 15120 (tomography) may be combined. 
+Code 15110 (TM joint) and 15130 (tomography) may be combined. 
+Code 15140 (arthrography) and 15120 (tomography) may be combined.
+Code 15150 (arthrography) and 15130 (tomography)may be combined.
+Codes 15320 (CT arthrogram) and 15420 (MR arthrogram) include introduction of contrast (00140 may not be added).",,
+15100,"X-ray tempero-mandibular joint, left",,R629.50
+15110,"X-ray tempero-mandibular joint, right",,R629.50
+15120,"X-ray tomography tempero-mandibular joint, left",,R760.50
+15130,"X-ray tomography tempero-mandibular joint, right",,R760.50
+15140,"X-ray arthrography of the tempero-mandibular joint, left",,"R2,724.90"
+15150,"X-ray arthrography of the tempero-mandibular joint, right",,"R2,724.90"
+15200,"Ultrasound tempero-mandibular joints, one or both sides",,"R1,159.90"
+15300,CT of the tempero-mandibular joints,,"R4,487.90"
+15310,CT of the tempero-mandibular joints plus 3D reconstructions,,"R6,100.50"
+15320,CT arthrogram of the tempero-mandibular joints,,"R6,358.40"
+15400,MR of the tempero-mandibular joints,,"R11,281.30"
+15410,"MR of the tempero-mandibular joints, pre and post contrast",,"R17,831.00"
+15420,MR arthrogram of the tempero-mandibular joints,,"R13,210.30"
+,Mastoids and internal auditory canal,,
+,"Code 16100 (mastoids) and 16120 (tomography) may be combined.
+Code 16110 (mastoids bilat) and 16130 (tomography) may be combined
+Code 16140 (IAM’s) and 16150 (tomography) may be combined.",,
+16100,"X-ray of the mastoids, unilateral",,R634.80
+16110,"X-ray of the mastoids, bilateral",,"R1,269.60"
+16120,"X-ray tomography of the petro-temporal bone, unilateral",,R760.50
+16130,"X-ray tomography of the petro-temporal bone, bilateral",,"R1,520.50"
+16140,"X-ray internal auditory canal, bilateral",,R924.80
+16150,"X-ray tomography of the internal auditory canal, bilateral",,R760.50
+16300,CT of the mastoids,,"R2,228.20"
+16310,CT of the internal auditory canal,,"R3,796.50"
+16320,"CT of the internal auditory canal, pre and post contrast",,"R6,047.60"
+16330,"CT of the ear structures, limited study",,"R2,369.40"
+16340,"CT of the middle and inner ear structures, high definition including all reconstructions in various planes",,"R7,665.20"
+16400,"MR of the internal auditory canals, limited study",,"R7,702.60"
+16410,"MR of the internal auditory canals, pre and post contrast, limited study",,"R12,188.40"
+16420,"MR of the internal auditory canals, pre and post contrast, complete study",,"R18,149.00"
+16430,MR of the ear structures,,"R11,387.40"
+16440,"MR of the ear structures, pre and post contrast",,"R18,149.00"
+,Sella turcica,,
+,Code 17100 (sella) and 17110 (tomography) may be combined.,,
+17100,X-ray of the sella turcica,,R544.50
+17110,X-ray tomography of the sella turcica,,R760.50
+17300,CT of the sella turcica/hypophysis,,"R3,085.60"
+17310,"CT of the sella turcica/hypophysis, pre and post contrast",,"R7,472.50"
+17400,MR of the hypophysis,,"R7,702.60"
+17410,"MR of the hypophysis, pre and post contrast",,"R13,090.30"
+,Salivary glands and floor of the mouth,,
+,"Code 18100 (calculus) and 18110 (open mouth) may be combined.  
+Codes 18120 (sialography) and 18320 (CT sialography) include introduction of contrast and fluoroscopy (00140 may not be added).",,
+18100,X-ray of the salivary glands and ducts for calculus,,R502.20
+18110,"X-ray of the salivary ducts, open mouth for calculus",,R335.80
+18120,"X-ray sialography, per gland",,"R2,489.90"
+18200,Ultrasound of the salivary glands/floor of the mouth,,"R1,159.90"
+18300,"CT of the salivary glands, uncontrasted",,"R2,228.20"
+18310,"CT of the salivary glands/floor of the mouth, pre and post contrast",,"R7,444.50"
+18320,CT sialography,,"R4,647.10"
+18400,MR of the salivary glands/floor of the mouth,,"R11,175.20"
+18410,"MR of the salivary glands/floor of the mouth, pre and post contrast",,"R17,831.00"
+18900,Nuclear Medicine study - Salivary gland imaging,"R3,672.60",
+,Soft Tissue,,
+19900,"Nuclear Medicine study - Tumour localisation planar, static","R3,667.40",
+19905,"Nuclear Medicine study - Tumour localisation planar, static, multiple studies","R6,218.80",
+19910,"Nuclear Medicine study - Tumour localisation planar, static and SPECT","R6,038.60",
+19915,"Nuclear Medicine study - Tumour localisation planar, static, multiple studies and SPECT","R8,409.30",
+19920,"Nuclear medicine study - Infection localisation planar, static","R3,189.90",
+19925,"Nuclear medicine study - Infection localisation planar, static, multiple studies","R5,561.20",
+19930,"Nuclear medicine study - Infection localisation planar, static and SPECT","R5,561.20",
+19935,"Nuclear medicine study - Infection localisation planar, static, multiple studies and SPECT","R7,932.20",
+,Neck,,
+,"Code 20120 (laryngography) includes fluoroscopy (00140 may not be added).
+Code 20130 (speech) includes tomography and cinematography (00140 may not be added).
+Code 20450 (MR Angiography) may be combined with 10410 (MR brain).",,
+20100,X-ray of soft tissue of the neck,,R484.40
+20110,X-ray of the larynx including tomography,,"R1,660.40"
+20120,X-ray laryngography,,"R1,464.20"
+20130,X-ray evaluation of pharyngeal movement and speech by screening and / or cine with or without video recording,,"R1,467.70"
+20200,Ultrasound of the thyroid,,"R1,159.90"
+20210,Ultrasound of soft tissue of the neck,,"R1,159.90"
+20220,"Ultrasound of the carotid arteries, bilateral including B mode, pulsed and colour doppler",,"R2,652.70"
+20230,"Ultrasound of the entire extracranial vascular tree including carotids, vertebral and subclavian vessels with B mode, pulse and colour doppler",,"R3,862.00"
+20240,Ultrasound study of the venous system of the neck including pulse and colour Doppler,,"R1,909.40"
+20300,CT of the soft tissues of the neck,,"R3,226.80"
+20310,"CT of the soft tissues of the neck, with contrast",,"R6,745.60"
+20320,"CT of the soft tissues of the neck, pre and post contrast",,"R7,746.90"
+20330,CT angiography of the extracranial vessels in the neck,,"R14,032.70"
+20340,CT angiography of the extracranial vessels in the neck and intracranial vessels of the brain,,"R19,008.60"
+20350,CT angiography of the extracranial vessels in the neck and intracranial vessels of the brain plus a pre and post contrast study of the brain,,"R22,002.20"
+20400,Mr of the soft tissue of the neck,,"R11,245.80"
+20410,"MR of the soft tissue of the neck, pre and post contrast",,"R18,043.10"
+20420,MR of the soft tissue of the neck and uncontrasted angiography,,"R16,373.90"
+20430,"MR angiography of the extracranial vessels in the neck, without contrast",,"R10,538.90"
+20440,"MR angiography of the extracranial vessels in the neck, with contrast",,"R13,088.20"
+20450,MR angiography of the extra and intracranial vessels with contrast,,"R20,520.40"
+20460,"MR angiography of the intra and extra cranial vessels plus brain, without contrast",,"R23,901.10"
+20470,"MR angiography of the intra and extra cranial vessels plus brain, with contrast",,"R27,593.20"
+20500,Arteriography of cervical vessels: carotid 1 - 2 vessels,,"R7,856.60"
+20510,Arteriography of cervical vessels: vertebral 1 - 2 vessels,,"R8,970.20"
+20520,Arteriography of cervical vessels: carotid and vertebral,,"R13,726.50"
+20530,Arteriography of aortic arch and cervical vessels,,"R16,262.60"
+20540,"Arteriography of aortic arch, cervical and intracranial vessels",,"R19,250.60"
+20550,Venography of jugular and vertebral veins,,"R8,655.20"
+,Thyroid (Nuclear Medicine),,
+21900,"Nuclear Medicine study - Thyroid, single uptake","R1,711.80",
+21910,"Nuclear medicine study - Thyroid, multiple uptake","R2,597.40",
+21920,Nuclear medicine study - Thyroid imaging with uptake,"R3,133.30",
+21930,Nuclear medicine study - Thyroid imaging,"R2,249.30",
+21940,Nuclear medicine study - Thyroid imaging with vascular flow,"R3,313.60",
+21950,Nuclear medicine study - Thyroid suppression/stimulation,"R2,249.30",
+21960,PET scan of the thyroid,,
+,Parathyroid (Nuclear Medicine),,
+22900,"Nuclear Medicine study - Parathyroid, planar, static","R2,921.40",
+22910,"Nuclear medicine study - Parathyroid, planar, static, multiple","R5,111.60",
+22920,"Nuclear medicine study - Parathyroid, planar, static with subtraction technique","R3,868.70",
+22930,Nuclear medicine study - Parathyroid SPECT,"R2,371.00",
+22940,PET scan of the parathyroid,,
+,Soft Tissue,,
+29900,"Nuclear Medicine study - Tumour localisation planar, static","R3,667.40",
+29905,"Nuclear medicine study - Tumour localisation planar, static, multiple studies","R6,218.80",
+29910,"Nuclear medicine study - Tumour localisation planar, static and SPECT","R6,038.60",
+29915,"Nuclear medicine study - Tumour localisation planar, static, multiple studies and SPECT","R8,409.30",
+29920,"Nuclear medicine study - Tumour localisation planar, static","R3,189.90",
+29925,"Nuclear medicine study - Infection localisation planar, static, multiple studies","R5,561.20",
+29930,"Nuclear medicine study - Infection localisation planar, static and SPECT","R5,561.20",
+29935,"Nuclear medicine study - Infection localisation planar, static, multiple studies and SPECT","R7,932.20",
+29940,"Nuclear medicine study - Regional lymph node mapping, static, planar","R4,261.50",
+29945,"Nuclear medicine study - Regional lymph node mapping, static, planar, multiple","R6,452.30",
+29950,Nuclear medicine study – Lymph node localisation with gamma probe,"R2,190.70",
+29960,PET scan of the soft tissue of the neck,,
+29961,PET/CT scan of the soft tissue of the neck uncontrasted,,
+29962,PET/CT scan of the soft tissue of the neck contrasted,,
+,Thorax,,
+,"Chest wall, pleura, lungs and mediastinum",,
+,"Code 30140 (tomography) may be combined with 30100 or 30110 (chest) or 30150 or 30155 (ribs) or 30160 (thoracic inlet).
+Codes 30170 (Sterno-clavicular) and 30175 (tomography) may be combined. 
+Code 30180 (sternum) and 30185 (tomography) may be combined. 
+Code 30340 (CT limited high resolution) may be combined with 30310 or 30320 or 30330 (CT chest). Motivation may be required.
+Code 30350 (high resolution) is a stand alone study.
+Code 30360, (CT chest for pulmonary embolism) is a complete examination and includes the preceding uncontrasted CT scan of the chest, and may not be combined with 40330 or 40333 (CT abdomen and pelvis).
+Code 30370 (CT pulmonary embolism plus CT venography) may not be combined with 70230 (Doppler).",,
+30100,"X-ray of the chest, single view",,R538.00
+30110,"X-ray of the chest two views, PA and lateral",,R679.00
+30120,X-ray of the chest complete with additional views,,R749.70
+30130,X-ray of the chest complete including fluoroscopy,,R792.40
+30140,X-ray tomography of the chest,,R760.50
+30150,X-ray of the ribs,,R847.20
+30155,X-ray of the chest and ribs,,"R1,135.20"
+30160,X-ray of the thoracic inlet,,R452.40
+30170,X-ray of the sterno-clavicular joints,,R744.80
+30175,X-ray tomography of the sterno-clavicular joint,,R760.50
+30180,X-ray of the sternum,,R744.80
+30185,X-ray tomography of the sternum,,R760.50
+30200,"Ultrasound of the chest wall, any region",,"R1,159.90"
+30210,Ultrasound of the pleural space,,"R1,159.90"
+30220,Ultrasound of the mediastinal structures,,"R1,159.90"
+30300,"CT of the chest, limited study",,"R1,679.80"
+30310,CT of the chest uncontrasted,,"R4,703.50"
+30320,CT of the chest contrasted,,"R7,502.50"
+30330,"CT of the chest, pre and post contrast",,"R8,080.70"
+30340,"CT of the chest, limited high resolution study",,"R1,980.50"
+30350,"CT of the chest, complete high resolution study",,"R4,245.80"
+30355,"CT of the chest, complete high resolution study with additonal prone and expiratory studies",,"R5,888.20"
+30360,CT of the chest for pulmonary embolism,,"R10,100.30"
+30370,"CT of the chest for pulmonary embolism with CT venography of abdomen, pelvis and lower limbs",,"R14,195.40"
+30400,MR of the chest,,"R11,245.80"
+30410,MR of the chest with uncontrasted angiography,,"R16,373.90"
+30420,"MR of the chest, pre and post contrast",,"R18,043.10"
+30900,Nuclear Medicine study - Lung perfusion,"R3,808.80",
+30910,"Nuclear Medicine study - Lung ventilation, aerosol","R3,801.70",
+30920,Nuclear Medicine study - Lung perfusion and ventilation,"R7,432.00",
+30930,Nuclear Medicine study - Lung ventilation using radio-active gas,"R2,505.70",
+30940,Nuclear Medicine study - Lung perfusion and ventilation using radio-active gas,"R6,133.90",
+30950,Nuclear medicine study - Muco-ciliary clearance study dynamic,"R4,687.80",
+30960,Nuclear medine study - alveolar permeabillity,"R4,687.80",
+,Stand alone code. Not to be combined with 30910., ,
+30970,Nuclear medicine study - quantitative evaluation of lung perfusion and ventilation,"R1,064.50",
+,Stand alone code. Not to be combined with 30920.,,
+30980,PET scan of the chest,,
+30981,PET/CT scan of the chest uncontrasted,,
+30982,PET/CT scan of the chest contrasted,,
+30983,PET/CT scan of the chest pre and post contrast,,
+,Oesophagus,,
+,"Codes 31100, 31110, 31120 (swallow) include fluoroscopy (00140 may not be added).",,
+31100,X-ray barium swallow,,"R1,167.20"
+31105,Xray 3 phase dynamic contrasted swallow,,"R2,228.20"
+31110,"X-ray barium swallow, double contrast",,"R1,400.20"
+31120,X-ray barium swallow with cinematography,,"R1,780.40"
+,Aorta and large vessels,,
+,Codes 32210 and 32220 (Ivus) may be combined,,
+32200,"Ultrasound intravascular arterial or venous assessment for intervention, once per complete procedure",,R742.40
+32210,Ultrasound intravascular (IVUS) first vessel,,"R1,492.20"
+32220,Ultrasound intravascular (IVUS) subsequent vessels,,R937.40
+32300,CT angiography of the aorta and branches,,"R13,983.60"
+32305,CT angiography of the thoracic and abdominal aorta and branches,,"R18,654.80"
+32310,CT angiography of the pulmonary vasculature,,"R13,983.60"
+32400,MR angiography of the aorta and branches,,"R13,880.80"
+32410,MR angiography of the pulmonary vasculature,,"R18,613.90"
+32500,Arteriography of thoracic aorta,,"R4,996.80"
+32510,Arteriography of bronchial intercostal vessels alone,,"R8,867.80"
+32520,"Arteriography of thoracic aorta, bronchial and intercostal vessels",,"R11,923.60"
+32530,Arteriography of pulmonary vessels,,"R11,187.70"
+32540,"Arteriography of heart chambers, coronary arteries",,"R7,828.20"
+32550,Venography of thoracic vena cava,,"R5,018.30"
+32560,"Venography of vena cava, azygos system",,"R9,956.90"
+32570,Venography patency of A-port or other central line,,"R3,472.90"
+,Heart,,
+,Codes 33300 (CT anatomy / function) and 33310 (CT Angiography) may be done as stand alone studies or as additive studies if both are performed at the same time.,,
+33205,Ultrasound study of the heart for foetal or paediatric cases including doppler,,"R2,175.00"
+,Code 33205 is a stand alone study and may not be added to 33200 or 33210. This code is intended for paediatric and foetal cases only,, 
+33200,"Ultrasound study of the heart, including Doppler",,"R1,449.80"
+33210,Ultrasound study of the heart trans-oesophageal,,"R1,860.20"
+33220,Ultrasound intravascular imaging to guide placement of intracoronary stent once per vessel,,R919.60
+33300,CT anatomical/functional study of the heart,,"R6,120.10"
+33310,CT angiography of heart vessels,,"R14,372.50"
+33400,"MR of the heart, anatomical study",,"R10,998.70"
+33410,"MR of the heart, anatomical and functional study",,"R12,200.80"
+33420,"MR of the heart, pre and post contrast",,"R18,220.00"
+33430,MR angiography of the heart vessels,,"R12,503.10"
+33440,"MR of the heart, anatomical, functional and coronary angiography",,"R18,891.90"
+33900,Nuclear Medicine study - Cardiac shunt detection,"R3,801.70",
+33905,"Nuclear Medicine study - Cardiac blood pool imaging, ejection fraction plus wall motion single study","R4,687.80",
+33910,"Nuclear Medicine study - Cardiac blood pool imaging, ejection fraction plus wall motion multiple studies","R6,174.60",
+33915,"Nuclear Medicine study - Cardiac blood pool imaging, gated SPECT","R2,371.00",
+33920,"Nuclear medicine study - Cardiac blood pool imaging, first pass technique","R4,687.80",
+33925,"Nuclear medicine study - Myocardial perfusion, single, rest (thallium/mibi) planar, non gated","R2,921.40",
+33930,"Nuclear medicine study - Myocardial perfusion, single, stress (thallium/mibi) planar, non gated","R2,921.40",
+33935,"Nuclear medicine study - Myocardial perfusion, single, rest (thallium/mibi), SPECT (non gated)","R2,921.40",
+33940,"Nuclear medicine study - Myocardial perfusion, single, stress (thallium/mibi), SPECT non gated","R2,921.40",
+33945,"Nuclear medicine study - Myocardial perfusion, single, rest (thallium/mibi), SPECT (gated)","R5,111.60",
+33950,"Nuclear medicine study - Myocardial perfusion, single, stress (thallium/mibi), SPECT (gated)","R5,111.60",
+33955,"Nuclear medicine study - Plus wall movement and ejection fraction, SPECT","R1,064.50",
+33960,Nuclear medicine study - Cardiac hot spot imaging (infarction) planar,"R3,801.70",
+33965,Nuclear medicine study - Cardiac hot spot imaging (infarction) SPECT,"R2,371.00",
+33970,Nuclear Medicine study - Multi stage treadmill ECG test,"R1,177.60",
+33980,PET scan of the heart,,
+33981,PET/CT scan of the heart?,,
+,Mamma,,
+,"Codes 34110 (localization), 34120 (stereo-tactic localization) and 34130 (stereo-tactic biopsy) may not be combined.
+Code 34130 (stereo-tactic biopsy). Add procedural code 80610 (cutting needle) or 34150 (mammotome)
+Code 34205 (U/S FNA) includes the procedural code (may not be combined with 34150).",,
+34100,X-ray mammography including ultrasound,,"R1,845.70"
+34101,"X-Ray mammography unilateral, including ultrasound",,"R1,476.80"
+,Code 34100 may not be combined with 34205 when these two procedures are done in the same sitting. Code 34100 includes ultrasound. In this situation use code 80605 (fine needle aspiration) with 34100,, 
+34105,X-ray mammography galactography,,"R1,661.80"
+,Once off fee per visit. May be added to 34100,, 
+34110,X-ray mammography study for localisation,,"R1,280.10"
+34120,X-ray stereotactic mammography – localisation,,"R1,838.90"
+34130,X-ray stereotactic mammography – biopsy,,"R2,051.30"
+34140,X-ray of biopsy specimen of the mamma,,R484.40
+34150,X-ray Mammotome hand held biopsy apparatus,,"R1,732.40"
+34200,Ultrasound study of the breast,,"R1,396.60"
+34205,Ultrasound guided aspiration FNA/localisation of the breast,,"R2,140.00"
+34300,Computer assisted diagnosis for mammography,,R247.80
+34400,MR study of the breast,,"R11,069.00"
+34410,MR study of the breast pre and post contrast,,"R17,831.00"
+34900,PET scan of the breast/mamma,,
+,Soft Tissue,,
+39900,"Nuclear medicine study - Tumour localisation planar, static","R3,667.40",
+39905,"Nuclear medicine study - Tumour localisation planar, static, multiple studies","R6,218.80",
+39910,"Nuclear medicine study - Tumour localisation planar, static and SPECT","R6,038.60",
+39915,"Nuclear medicine study - Tumour localisation planar, static, multiple studies and SPECT","R8,409.30",
+39920,"Nuclear medicine study - Infection localisation planar, static","R3,189.90",
+39925,"Nuclear medicine study - Infection localisation planar, static, multiple studies","R5,561.20",
+39930,"Nuclear medicine study - Infection localisation planar, static and SPECT","R5,561.20",
+39935,"Nuclear medicine study - Infection localisation planar, static, multiple studies, SPECT","R7,932.20",
+39940,"Nuclear medicine study - Regional lymph node mapping, static, planar","R4,261.50",
+39945,"Nuclear medicine study - Regional lymph node mapping, static, planar, multiple","R6,452.30",
+39950,Nuclear medicine study – Lymph node localisation with gamma probe,"R2,190.70",
+,Abdomen and Pelvis,,
+,Abdomen/stomach/bowel,,
+,"Code 40120 (tomography) may be combined with 40100 or 40105 or 40110 (abdomen).
+Codes 40140 to 40190 (barium studies) include fluoroscopy (00140 may not be added).  
+Code 40190 (intussusception) is a stand alone code and may not be combined with 40160 or 40165 (barium enema), (00140 may not be added).",,
+40100,X-ray of the abdomen,,R587.10
+40105,"X-ray of the abdomen supine and erect, or decubitus",,R947.60
+40110,X-ray of the abdomen multiple views including chest,,"R1,432.50"
+40120,X-ray tomography of the abdomen,,R760.50
+40140,X-ray barium meal single contrast,,"R1,568.30"
+40143,X-ray barium meal double contrast,,"R2,120.20"
+40147,X-ray barium meal double contrast with follow through,,"R2,793.60"
+40150,X-ray small bowel enteroclysis (meal),,"R4,500.30"
+,Code 40150 excludes duodenal intubation and 40175 (Duodenal intubation) may be added.,, 
+40153,X-ray small bowel meal follow through single contrast,,"R3,456.90"
+40157,X-ray small bowel meal with pneumocolon,,"R4,531.70"
+40160,X-ray large bowel enema single contrast,,"R2,293.50"
+40165,X-ray large bowel enema double contrast,,"R3,471.40"
+40170,X-ray guided gastro oesophageal intubation,,R282.80
+40175,X-ray guided duodenal intubation,,R495.00
+40180,X-ray defaecogram,,"R2,293.50"
+40190,X-ray guided reduction of intussusception,,"R2,876.70"
+40200,Ultrasound study of the abdominal wall,,R979.60
+40210,Ultrasound study of the whole abdomen including the pelvis,,"R1,456.80"
+40300,CT study of the abdomen,,"R4,669.80"
+40310,CT study of the abdomen with contrast,,"R7,925.20"
+40313,CT study of the abdomen pre and post contrast,,"R9,369.70"
+40320,CT of the pelvis,,"R4,620.50"
+40323,CT of the pelvis with contrast,,"R8,395.80"
+40327,CT of the pelvis pre and post contrast,,"R9,525.40"
+40330,CT of the abdomen and pelvis,,"R6,807.40"
+40333,CT of the abdomen and pelvis with contrast,,"R10,992.90"
+40337,CT of the abdomen and pelvis pre and post contrast,,"R11,923.60"
+40340,"CT triphasic study of the liver, abdomen and pelvis pre and post contrast",,"R13,104.60"
+40345,"CT of the chest, abdomen and pelvis without contrast",,"R12,398.60"
+40350,"CT of the chest, abdomen and pelvis with contrast",,"R15,622.60"
+40355,"CT of the chest triphasic of the liver, abdomen and pelvis with contrast",,"R16,453.10"
+40360,CT of the base of skull to symphysis pubis with contrast,,"R18,164.90"
+40365,CT colonoscopy,,"R6,150.00"
+,"Stand alone study, may not be added to any code between 40300 and 40360",, 
+40400,MR of the abdomen,,"R11,419.40"
+40410,MR of the abdomen pre and post contrast,,"R17,831.00"
+40420,"MR of the pelvis, soft tissue",,"R11,419.40"
+40430,"MR of the pelvis, soft tissue, pre and post contrast",,"R18,043.10"
+40900,Nuclear Medicine study - Gastro oesophageal reflux and emptying,"R3,801.70",
+40905,Nuclear Medicine study - Gastro oesophageal reflux and emptying multiple studies,"R6,174.60",
+40910,Nuclear Medicine study - Gastro intestinal protein loss,"R3,801.70",
+40915,Nuclear Medicine study - Gastro intestinal protein loss multiple studies,"R6,174.60",
+40920,Nuclear Medicine study – Acute GIT bleed static/dynamic,"R3,801.70",
+40925,Nuclear medicine study – Acute GIT bleed multiple studies,"R6,174.60",
+40930,Nuclear medicine study - Meckel's localisation,"R3,672.60",
+40935,Nuclear medicine study - Gastric mucosa imaging,"R3,672.60",
+40940,Nuclear medicine study - colonic transit multiple studies,"R7,932.20",
+,Stand alone code,,
+40950,PET scan of the abdomen and pelvis,,
+40951,PET/CT scan of the abdomen and pelvis uncontrasted ,,
+40952,PET/CT scan of the abdomen and pelvis contrasted,,
+40953,PET/CT scan of the abdomen and pelvis pre and post contrast,,
+,"Liver, spleen, gall bladder and pancreas",,
+,"Code 41110, 41120 and 41130 (cholangiography) include fluoroscopy (00140 may not be added).",,
+41100,X-ray ERCP including screening,,"R3,341.70"
+41105,X-ray ERCP reporting on images done in theatre,,R424.40
+41110,X-ray cholangiography intra-operative,,"R1,494.20"
+41120,X-ray T-tube cholangiography post operative,,"R2,484.30"
+41130,X-ray transhepatic percutaneous cholangiography,,"R5,718.30"
+41200,Ultrasound study of the upper abdomen,,"R1,237.50"
+41210,Ultrasound doppler of the hepatic and splenic veins and inferior vena cava in assessment of portal venous hypertension or thrombosis,,"R1,732.40"
+,"Code 41210 is a stand alone study and may not be added to 40200, 40210, 41200 or 42200",,
+41300,CT of the abdomen triphasic study – liver,,"R9,707.70"
+41400,MR study of the liver/pancreas,,"R11,454.50"
+41410,MR study of the liver/pancreas pre and post contrast,,"R17,831.00"
+41420,MRCP,,"R8,699.60"
+41430,MR study of the abdomen with MRCP,,"R16,440.80"
+41440,MR study of the abdomen pre and post contrast with MRCP,,"R23,623.70"
+41900,"Nuclear Medicine study - Liver and spleen, planar views only","R3,801.70",
+41905,"Nuclear Medicine study - Liver and spleen, with flow study","R4,868.20",
+41910,"Nuclear Medicine study - Liver and spleen, planar views SPECT","R6,174.60",
+41915,"Nuclear Medicine study - Liver and spleen, with flow study and SPECT","R7,239.10",
+41920,Nuclear Medicine study - Hepatobiliary system planar static/dynamic,"R3,801.70",
+41925,Nuclear Medicine study – hepatobiliary tract including flow,"R4,687.80",
+41930,"Nuclear medicine study – Hepatobiliary system planar, static/dynamic multiple studies","R6,174.60",
+41935,Nuclear medicine study – Hepatobiliary tract including flow multiple studies,"R7,058.90",
+41940,Nuclear medicine study - Gall bladder ejection fraction,"R1,064.50",
+41945,Nuclear medicine study – Biliary gastric reflux study,"R3,672.60",
+,Renal tract,,
+42100,X-ray tomography of the renal tract,,R760.50
+,"Code 42100 (tomography) may not be added to 42110 or 42115 (IVP).
+Codes 42115 (IVP), 42120 (cystography), 42130 (urethography), 42140 (MCU), 42150 (retrograde), and 42160 (prograde) include fluoroscopy (00140 may not be added).",,
+42110,X-ray excretory urogram including tomography,,"R4,395.80"
+42115,X-ray excretory urogram including tomography with micturating study,,"R5,810.50"
+42120,X-ray cystography,,"R2,661.30"
+42130,X-ray urethrography,,"R2,717.70"
+42140,X-ray micturating cysto-urethrography,,"R3,412.70"
+42150,X-ray retrograde/prograde pyelography,,"R2,215.50"
+42155,X-ray retrograde/prograde pyelography reporting on images done in theatre,,R426.30
+42160,X-ray prograde pyelogram – percutaneous,,"R5,777.00"
+42200,Ultrasound study of the renal tract including bladder,,"R1,311.80"
+42205,Ultrasound doppler for resistive index in vessels of transplanted kidney,,R672.00
+,Code 42205 is a stand alone study and may not be added to 42200,,
+42210,Ultrasound study of the renal arteries including Doppler,,"R1,874.30"
+42300,CT of the renal tract for a stone,,"R4,447.30"
+42400,MR of the renal tract for obstruction,,"R8,310.80"
+42410,MR of the kidneys without contrast,,"R11,419.40"
+42420,MR of the kidneys pre and post contrast,,"R18,078.60"
+42900,"Nuclear Medicine study - Renal imaging, static (e.g. DMSA)","R3,879.70",
+42905,"Nuclear Medicine study - Renal imaging, static (e.g. DMSA) with flow","R4,943.80",
+42910,"Nuclear Medicine study - Renal imaging, static (e.g. DMSA) with SPECT","R6,250.70",
+42915,"Nuclear Medicine study - Renal imaging, static (e.g. DMSA), with flow, with SPECT","R7,315.10",
+42920,Nuclear Medicine study - Renal imaging dynamic (renogram) and vascular flow,"R4,687.80",
+42930,"Nuclear Medicine study – Renovascular study, baseline","R4,687.80",
+42940,"Nuclear Medicine study – Renovascular study, with intervention","R4,687.80",
+42950,Nuclear medicine study - indirect voiding cystogram,"R1,064.50",
+,Reproductive system,,
+,"Codes 43120 and 43130 (hystero-salpingography) include fluoroscopy (00140 may not be added).
+Codes 43230 (U/S ova aspiration) and 43240 (amniocentesis) are complete procedure codes.",,
+,"Codes 43230 (U/S ova aspiration) and 43240 (amniocentesis) are complete procedures and may not be combined with 00230 (ultrasound guidance) or 80605 (fine needle aspiration). Code 43240 may be combined with 43260 (second trimester), 43270 (third trimester) and 43273 (third trimester follow up)",,
+43100,X-ray pelvimetry single,,R707.30
+43110,X-ray pelvimetry multiple views,,"R1,025.30"
+43120,X-ray hystero-salpingography,,"R1,773.60"
+43130,X-ray hystero-salpingography with introduction of contrast,,"R2,392.40"
+43200,Ultrasound study of the pelvis transabdominal,,"R1,007.80"
+43205,Ultrasound study of the female pelvis transvaginal,,"R1,274.60"
+43210,Ultrasound study of the prostate transrectal,,"R1,305.10"
+43215,Ultrasound transrectal prostate volume for brachytherapy,,"R1,838.90"
+43220,Ultrasound study of the testes,,"R1,305.10"
+43225,Ultrasound study for male impotence including doppler and injection of vaso contrictor,,"R2,652.70"
+,"Code 43225 is a stand alone study and may not be added to 43200, 43210, 43220 or 44200",,
+43230,Ultrasound guided transvaginal aspiration for ova,,"R2,387.10"
+43240,Ultrasound guided amniocenthesis,,"R1,032.70"
+43250,"Ultrasound study of the pregnant uterus, first trimester",,R742.40
+43260,"Ultrasound study of the pregnant uterus, second trimester",,"R1,124.50"
+43270,"Ultrasound study of the pregnant uterus, third trimester, first visit",,"R1,124.50"
+43273,"Ultrasound study of the pregnant uterus, third trimester, follow-up visit",,R742.40
+43277,"Ultrasound study of the pregnant uterus, multiple gestation, second or third trimester, first visit",,"R1,445.10"
+43280,Ultrasound doppler of the umbilical cord for resistive index,,R672.00
+,"Code 43280 is a stand alone study and may not be added to the following codes: 43250, 43260, 43270, 43273 or 43277",,
+43300,CT pelvimetry – Topogram,,"R1,163.60"
+43400,MR study of pelvic reproductive organs - limited study,,"R8,416.80"
+43405,MR study for pelvimetry,,"R3,536.60"
+43410,MR study of pelvic reproductive organs - complete – uncontrasted,,"R11,419.40"
+43420,MR study of pelvic reproductive organs - complete – pre and post contrast,,"R18,078.60"
+43950,Nuclear medicine study - Radio pharmaceutical voiding cystogram,"R3,801.70",
+43960,Nuclear medicine study - Testicular imaging,"R4,687.80",
+43970,Nuclear medicine study - hystero-salpingography,"R4,687.80",
+43961,PET scan of the testis,,
+,Aorta and vessels,,
+,Code 44400 (MR Angiography) may be combined with 40400 (MR abdomen).,,
+44200,Ultrasound study of abdominal aorta and branches including doppler,,"R3,239.50"
+44205,Ultrasound study of the IVC and pelvic veins including Doppler,,"R2,475.60"
+,This is a stand alone code and may not be added to 44200.,,
+44300,CT angiography of abdominal aorta and branches,,"R13,565.90"
+44305,CT angiography of the abdominal aorta and branches and pre and post contrast study of the upper abdomen,,"R16,678.00"
+44310,CT angiography of the pelvis,,"R13,905.40"
+44320,CT angiography of the abdominal aorta and pelvis,,"R15,832.50"
+44325,CT angiography of the abdominal aorta and pelvis and pre and post contrast study of the upper abdomen and pelvis,,"R21,068.40"
+44330,CT portogram,,"R13,155.40"
+44400,MR angiography of abdominal aorta and branches,,"R13,551.70"
+44500,Arteriography of abdominal aorta alone,,"R4,972.30"
+44503,"Arteriography of aorta plus coeliac, mesenteric branches",,"R13,373.00"
+44505,"Arteriography of aorta plus renal, adrenal branches",,"R11,141.50"
+44507,Arteriography of aorta plus non-visceral branches,,"R10,749.00"
+44510,"Arteriography of coeliac, mesenteric vessels alone",,"R11,378.30"
+44515,"Arteriography of renal, adrenal vessels alone",,"R8,751.30"
+44517,Arteriography of non-visceral abdominal vessels alone,,"R9,709.30"
+44520,Arteriography of internal and external iliac vessels alone,,"R10,029.30"
+44525,Venography of internal and external iliac veins alone,,"R10,982.30"
+44530,Corpora cavernosography,,"R4,431.30"
+44535,"Vasography, vesciculography",,"R5,161.30"
+44540,Venography of inferior vena cava,,"R4,618.40"
+44543,Venography of hepatic veins alone,,"R9,507.90"
+44545,Venography of inferior vena cava and hepatic veins,,"R12,185.00"
+44550,Venography of lumbar azygos system alone,,"R7,761.00"
+44555,Venography of inferior vena cava and lumbar azygos veins,,"R11,574.70"
+44560,"Venography of renal, adrenal veins alone",,"R7,778.10"
+44565,Venography of inferior vena cava and renal/adrenal veins,,"R12,092.70"
+44570,"Venography of spermatic, ovarian veins alone",,"R7,141.90"
+44573,"Venography of inferior vena cava, renal, spermatic, ovarian veins",,"R13,083.00"
+44580,Venography indirect splenoportogram,,"R8,605.90"
+44583,Venography direct splenoportogram,,"R5,585.70"
+44587,Venography transhepatic portogram,,"R11,802.80"
+,Soft Tissue,,
+49900,"Nuclear Medicine study – Tumour localisation planar, static","R3,667.40",
+49905,"Nuclear Medicine study – Tumour localisation planar, static, multiple studies","R6,218.80",
+49910,"Nuclear Medicine study – Tumour localisation planar, static and SPECT","R6,038.60",
+49915,"Nuclear medicine study – Tumour localisation planar, static, multiple studies and SPECT","R8,409.30",
+49920,"Nuclear medicine study – Infection localisation planar, static","R3,189.90",
+49930,"Nuclear medicine study – Infection localisation planar, static, multiple studies","R5,561.20",
+49940,"Nuclear medicine study – Infection localisation planar, static and SPECT","R5,561.20",
+49950,"Nuclear medicine study – Infection localisation planar, static, multiple studies and SPECT","R7,932.20",
+49960,Nuclear medicine study – Regional lymph node mapping dynamic,R886.00,
+49965,"Nuclear medicine study – Regional lymph node mapping, static, planar","R4,261.50",
+49970,"Nuclear medicine study – Regional lymph node mapping, static, planar, multiple","R6,632.60",
+49975,Nuclear medicine study – Regional lymph node mapping SPECT,"R2,371.00",
+49980,Nuclear medicine study – Lymph node localisation with gamma probe,"R2,371.00",
+,"Spine, Pelvis and Hips",,
+,"Code 51340 (CT myelography, cervical), 52330 (CT myelography thoracic) and 53340 (CT myelography lumbar) are stand alone studies and may not be combined with the conventianla myelography codes viz. 51160, 52150, 53160",,
+,General,,
+,Code 50130 (Lumbar puncture) and 50140 (cisternal puncture) include fluoroscopy and introduction of contrast (00140 may not be added).,,
+50100,X-ray of the spine scoliosis view AP only,,"R1,237.50"
+50105,X-ray of the spine scoliosis view AP and lateral,,"R2,122.10"
+50110,X-ray of the spine scoliosis view AP and lateral including stress views,,"R3,278.50"
+50120,X-ray bone densitometry,,"R2,037.20"
+50130,X-ray guided lumbar puncture,,R848.60
+50140,X-ray guided cisternal puncture cisternogram,,"R4,063.60"
+50300,CT quantitive bone mineral density,,"R2,091.70"
+50500,"Arteriogram of the spinal column and cord, all vessels",,"R22,497.10"
+50510,"Venography of the spinal, paraspinal veins",,"R10,335.10"
+,Cervical,,
+,"Code 51100 (stress) is a stand alone study and may not be added to 51110, 51120 (cervical spine), 51160 (myelography) and 51170 (discography).
+Code 51140 (tomography) may be combined with 51110 or 51120 (spine).
+Code 51160s (myelography) and 51170 (discography) include fluoroscopy and introduction of contrast (00140 may not be added).
+Code 51300 (CT) limited  - limited to a single cervical vertebral body.
+Code 51310 (CT) regional study - 2 vertebral bodies and intervertebral disc spaces.
+Code 51320 (CT) complete study - an extensive study of the cervical spine.
+Code 51340 (CT myelography) – post myelographic study and includes all disc levels, includes fluoroscopy and introduction of contrast (00140 may not be added).",,
+51100,"X-ray f the cervical spine, stress views only",,R731.90
+51110,"X-ray of the cervical spine, one or two views",,R532.30
+51120,"X-ray of the cervical spine, more than two views",,R757.00
+51130,"X-ray of the cervical spine, more than two views including stress views",,"R1,340.30"
+51140,X-ray Tomography cervical spine,,R760.50
+51160,X-ray myelography of the cervical spine,,"R4,855.60"
+51170,X-ray discography cervical spine per level,,"R4,450.90"
+51300,CT of the cervical spine limited study,,"R1,679.80"
+51310,CT of the cervical spine – regional study,,"R2,459.30"
+51320,CT of the cervical spine – complete study,,"R6,565.60"
+51330,CT of the cervical spine pre and post contrast,,"R10,406.10"
+51340,CT myelography of the cervical spine,,"R8,344.40"
+51350,CT myelography of the cervical spine following myelogram,,"R3,835.30"
+51400,"MR of the cervical spine, limited study",,"R7,850.80"
+51410,MR of the cervical spine and cranio-cervical junction,,"R11,462.10"
+51420,MR of the cervical spine and cranio-cervical junction pre and post contrast,,"R18,060.60"
+51900,Nuclear Medicine study – Bone regional cervical,"R3,801.70",
+51910,Nuclear Medicine study – Bone tomography regional cervical,"R2,371.00",
+51920,Nuclear Medicine study – with flow,"R1,064.50",
+,Thoracic,,
+,"Code 52120 (tomography) may be combined with 52100 or 52110 (spine).
+Code 52150 (myelography) includes fluoroscopy and introduction of contrast (00140 may not be added).
+Code 52300 (CT) limited study – limited to a single thoracic vertebral body. 
+Code 52305 (CT) regional study - 2 vertebral bodies and intervertebral disc paces. 
+Code 52310 (CT) complete study - an extensive study of the thoracic spine.
+Code 52330 (CT myelography)  - post myelographic study and includes all disc levels, fluoroscopy and introduction of contrast (00140 may not be added).",,
+52100,"X-ray of the thoracic spine, one or two views",,R567.50
+52110,"X-ray of the thoracic spine, more than two views",,R707.30
+52120,X-ray tomography thoracic spine,,R760.50
+52140,"X-ray of the thoracic spine, more that two views including stress views",,"R1,173.80"
+52150,X-ray myelography of the thoracic spine,,"R3,292.30"
+52300,CT of the thoracic spine limited study,,"R1,679.80"
+52305,CT of the thoracic spine – regional study,,"R2,459.30"
+52310,CT of the thoracic spine complete study,,"R6,326.90"
+52320,CT of the thoracic spine pre and post contrast,,"R10,406.10"
+52330,CT myelography of the thoracic spine,,"R8,503.30"
+52340,CT myelography of the thoracic spine following myelogram,,"R3,601.80"
+52400,"MR of the thoracic spine, limited study",,"R8,239.90"
+52410,MR of the thoracic spine,,"R11,376.60"
+52420,MR of the thoracic spine pre and post contrast,,"R17,933.70"
+52900,Nuclear Medicine study – Bone regional dorsal,"R3,801.70",
+52910,Nuclear Medicine study – Bone tomography regional dorsal,"R2,371.00",
+52920,Nuclear Medicine study – with flow,"R1,064.50",
+,Lumbar,,
+,"Code 53100 (stress) is a stand alone study and may not be added to 53110, 53120 (lumbar spine), 53160 (myelography) and 53170 (discography).
+Code 53140 (tomography) may be combined with 53110 or 53120 (spine).
+Codes 53160 (myelography) and 53170 (discography) include fluoroscopy and introduction of contrast (00140 may not be added).
+Code 53300 (CT) limited study – limited to a single lumbar vertebral body.
+Code 53310 (CT) regional study - 2 vertebral bodies and intervertebral disc spaces.
+Code 53320 (CT) complete study - an extensive study of the lumbar spine.
+Code 53340 (CT myelography) - post myelographic study and includes all disc levels, fluoroscopy and introduction of contrast (00140 may not be added).",,
+53100,X-ray of the lumbar spine – stress study only,,R731.90
+53110,"X-ray of the lumbar spine, one or two views",,R629.50
+53120,"X-ray of the lumbar spine, more than two views",,R788.60
+53130,"X-ray of the lumbar spine, more that two views including stress views",,"R1,329.70"
+53140,X-ray tomography lumbar spine,,R760.50
+53160,X-ray myelography of the lumbar spine,,"R4,233.10"
+53170,X-ray discography lumbar spine per level,,"R4,450.90"
+53300,CT of the lumbar spine limited study,,"R1,679.80"
+53310,CT of the lumbar spine – regional study,,"R2,459.30"
+53320,Ct of the lumbar spine complete study,,"R6,655.90"
+53330,CT of the lumbar spine pre and post contrast,,"R10,406.10"
+53340,CT myelography of the lumbar spine,,"R8,684.10"
+53350,CT myelography of the lumbar spine following myelogram,,"R4,148.10"
+53400,"MR of the lumbar spine, limited study",,"R8,169.30"
+53410,MR of the lumbar spine,,"R11,373.30"
+53420,MR of the lumbar spine pre and post contrast,,"R18,263.50"
+53900,Nuclear medicine study – Bone regional lumbar,"R3,801.70",
+53910,Nuclear medicine study – Bone tomography regional lumbar,"R2,371.00",
+53920,Nuclear medicine study – with flow,"R1,064.50",
+,Sacrum,,
+,"Code 54120 (tomography) may be combined with 54100 (sacrum) or 54110 (SI joints).
+Code 54300 (CT) limited study - limited to single sacral vertebral body. 
+Code 54310 (CT) complete study - an extensive study of the sacral spine.",,
+54100,X-ray of the sacrum and coccyx,,R633.00
+54110,X-ray of the sacro-iliac joints,,R725.00
+54120,X-ray tomography – sacrum and/or coccyx,,R760.50
+54300,CT of the sacrum – limited study,,"R1,343.80"
+54310,CT of the sacrum – complete study – uncontrasted,,"R4,528.60"
+54320,CT of the sacrum with contrast,,"R8,298.40"
+54330,CT of the sacrum pre and post contrast,,"R9,366.50"
+54400,MR of the sacrum,,"R11,493.80"
+54410,MR of the sacrum pre and post contrast,,"R17,866.40"
+,Pelvis,,
+,"Codes 55110 (tomography) and 55100 (pelvis) may be combined.
+Code 55300 (CT) limited study – limited to a small region of interest of the pelvis eg. ascetabular roof or pubic ramus.",,
+55100,X-ray of the pelvis,,R647.30
+55110,X-ray tomography – pelvis,,R760.50
+55300,CT of the bony pelvis limited,,"R1,679.80"
+55310,CT of the bony pelvis complete uncontrasted,,"R4,528.60"
+55320,CT of the bony pelvis complete 3D recon,,"R6,625.60"
+55330,CT of the bony pelvis with contrast,,"R8,298.40"
+55340,CT of the bony pelvis – pre and post contrast,,"R9,366.50"
+55400,MR of the bony pelvis,,"R11,493.80"
+55410,MR of the bony pelvis pre and post contrast,,"R18,078.60"
+55900,Nuclear medicine study – Bone regional pelvis,"R3,801.70",
+55910,Nuclear medicine study – Bone tomography regional pelvis,"R2,371.00",
+55920,Nuclear medicine study – with flow,"R1,064.50",
+,Hips,,
+,"Code 56130 (tomography) may be combined with 56100 or 56110 or 56120 (hip).
+Code 56140 (stress) may be combined with 56100 or 56110 or 56120 (hip). 
+Code 56150 (arthrography) includes fluoroscopy and introduction of contrast (00140 may not be added). 
+Code 56160 (introduction of contrast into hip joint) to be used with 56310 (CT hip) and 56410 (MR hip) and includes fluoroscopy. The combination of 56150 and 56310 and 56410 is not supported except in exceptional circumstances with motivation. 
+Code 56300 (CT) study limited to small region of interest eg part of femur head.",,
+56100,X-ray of the left hip,,R561.90
+56110,X-ray of the right hip,,R561.90
+56120,X-ray pelvis and hips,,"R1,064.50"
+56130,X-ray tomography – hip,,R760.50
+56140,X-ray of the hip/s – stress study,,R774.40
+56150,X-ray arthrography of the hip joint including introduction contrast,,"R2,785.20"
+56160,X-ray guidance and introduction of contrast into hip joint only,,"R1,310.10"
+56200,Ultrasound of the hip joints,,"R1,149.20"
+56300,CT of hip – limited,,"R1,679.80"
+56310,CT of hip – complete,,"R4,839.90"
+56320,CT of hip – complete with 3D recon,,"R7,034.20"
+56330,CT of hip with contrast,,"R7,649.30"
+56340,CT of hip pre and post contrast,,"R8,466.60"
+56400,"MR of the hip joint/s, limited study",,"R7,939.30"
+56410,MR of the hip joint/s,,"R11,334.40"
+56420,"MR of the hip joint/s, pre and post contrast",,"R17,972.60"
+56900,Nuclear medicine study – Bone regional pelvis,"R3,801.70",
+56910,Nuclear medicine study – Bone limited static plus flow,"R4,868.20",
+56920,Nuclear medicine study – Bone tomography regional,"R2,371.00",
+,Upper limbs,,
+,General,,
+,"Code 60100 (stress only) is a stand alone study and may not be combined with other codes.
+Code 60110 (tomography) may be combined with any one of the defined regional x-ray studies of the upper limb. Motivation may be required for more than one regional tomographic study per visit.
+Code 60200 (U/S) may only be used once per visit.
+Code 60300 (CT) limited study – limited to a small region of interest eg. part of humeral head. 
+Code 60400 (MR limited) may only be used once per visit.",,
+60100,X-ray upper limbs - any region - stress studies only,,R799.30
+60110,X-ray upper limbs - any region – tomography,,R760.50
+60200,Ultrasound upper limb – soft tissue - any region,,"R1,305.10"
+60210,"Ultrasound of the peripheral arterial system of the left arm including B mode, pulse and colour doppler",,"R2,412.10"
+60220,"Ultrasound of the peripheral arterial system of the right arm including B mode, pulse and colour doppler",,"R2,412.10"
+60230,Ultrasound peripheral venous system upper limbs including pulse and colour doppler for deep vein thrombosis,,"R2,217.30"
+60240,Ultrasound peripheral venous system upper limbs including pulse and colour doppler,,"R3,052.10"
+60300,CT of the upper limbs limited study,,"R1,679.80"
+60310,CT angiography of the upper limb,,"R13,841.60"
+60400,"MR of the upper limbs limited study, any region",,"R7,921.60"
+60410,MR angiography of the upper limb,,"R13,201.10"
+60500,"Arteriogram of subclavian, upper limb arteries alone, unilateral",,"R8,075.30"
+60510,"Arteriogram of subclavian, upper limb arteries alone, bilateral",,"R14,617.80"
+60520,"Arteriogram of aortic arch, subclavian, upper limb, unilateral",,"R10,034.90"
+60530,"Arteriogram of aortic arch, subclavian, upper limb, bilateral",,"R15,580.00"
+60540,"Venography, antegrade of upper limb veins, unilateral",,"R4,618.40"
+60550,"Venography, antegrade of upper limb veins, bilateral",,"R8,740.60"
+60560,"Venography, retrograde of upper limb veins, unilateral",,"R5,482.90"
+60570,"Venography, retrograde of upper limb veins, bilateral",,"R9,691.60"
+60580,"Venography, shuntogram, dialysis access shunt",,"R4,206.70"
+60900,Nuclear medicine study – Venogram upper limb,"R6,563.60",
+,Shoulder,,
+,"Code 61160 (arthrography) includes fluoroscopy and introduction of contrast (00140 may not be added).
+Code 61170 (introduction of contrast into the shoulder joint) may be combined with 61300 and 61305 (CT), or 61400 and 61405 (MR). The combination of 61160 (arthrography) and 61300 and 61305 (CT) or 61400 and 61405 (MR) is not supported except in exceptional circumstances with motivation.",,
+61100,X-ray of the left clavicle,,R538.00
+61105,X-ray of the right clavicle,,R538.00
+61110,X-ray of the left scapula,,R538.00
+61115,X-ray of the right scapula,,R538.00
+61120,X-ray of the left acromio-clavicular joint,,R555.10
+61125,X-ray of the right acromio-clavicular joint,,R555.10
+61128,X-ray of acromio-clavicular joints plus stress studies bilateral,,"R1,357.70"
+61130,X-ray of the left shoulder,,R615.20
+61135,X-ray of the right shoulder,,R615.20
+61140,X-ray of the left shoulder plus subacromial impingement views,,"R1,046.90"
+61145,X-ray of the right shoulder plus subacromial impingement views,,"R1,046.90"
+61150,X-ray of the left subacromial impingement views only,,R572.90
+61155,X-ray of the right subacromial impingement views only,,R572.90
+61160,X-ray arthrography shoulder joint including introduction of contrast,,"R2,799.00"
+61170,X-ray guidance and introduction of contrast into shoulder joint only,,"R1,310.10"
+61200,Ultrasound of the left shoulder joint,,"R1,149.20"
+61210,Ultrasound of the right shoulder joint,,"R1,149.20"
+61300,CT of the left shoulder joint – uncontrasted,,"R4,307.50"
+61305,CT of the right shoulder joint – uncontrasted,,"R4,307.50"
+61310,CT of the left shoulder – complete with 3D recon,,"R6,659.20"
+61315,CT of the right shoulder – complete with 3D recon,,"R6,659.20"
+61320,CT of the left shoulder joint - pre and post contrast,,"R8,599.00"
+61325,CT of the right shoulder joint - pre and post contrast,,"R8,599.00"
+61400,MR of the left shoulder,,"R11,430.20"
+61405,MR of the right shoulder,,"R11,430.20"
+61410,MR of the left shoulder pre and post contrast,,"R17,866.40"
+61415,MR of the right shoulder pre and post contrast,,"R17,866.40"
+,Humerus,,
+62100,X-ray of the left humerus,,R519.80
+62105,X-ray of the right humerus,,R519.80
+62300,CT of the left upper arm,,"R4,307.50"
+62305,CT of the right upper arm,,"R4,307.50"
+62310,CT of the left upper arm contrasted,,"R7,067.40"
+62315,CT of the right upper arm contrasted,,"R7,067.40"
+62320,CT of the left upper arm pre and post contrast,,"R8,590.00"
+62325,CT of the right upper arm pre and post contrast,,"R8,590.00"
+62400,MR of the left upper arm,,"R11,352.20"
+62405,MR of the right upper arm,,"R11,352.20"
+62410,MR of the left upper arm pre and post contrast,,"R18,043.10"
+62415,MR of the right upper arm pre and post contrast,,"R18,043.10"
+62900,Nuclear medicine study – Bone limited/regional static,"R3,801.70",
+62905,Nuclear medicine study – Bone limited static plus flow,"R4,868.20",
+62910,Nuclear medicine study – Bone tomography regional,"R2,371.00",
+,Elbow,,
+,"Code 63120 (arthrography) includes fluoroscopy and introduction of contrast (00140 may not be added).
+Code 63130 (introduction of contrast) may be combined with 63300 and 63305 (CT) or 63400 and 63405 (MR). The combination of 63120 (arthrography) and 63300 and 63305 or 63400 and 63405 (MR) is not supported except in exceptional circumstances with motivation.",,
+63100,X-ray of the left elbow,,R555.10
+63105,X-ray of the right elbow,,R555.10
+63110,X-ray of the left elbow with stress,,R767.40
+63115,X-ray of the right elbow with stress,,R767.40
+63120,X-ray arthrography elbow joint including introduction of contrast,,"R2,809.60"
+63130,X-ray guidance and introduction  of contrast into elbow joint only,,"R1,310.10"
+63200,Ultrasound of the left elbow joint,,"R1,149.20"
+63205,Ultrasound of the right elbow joint,,"R1,149.20"
+63300,CT of the left elbow,,"R4,307.50"
+63305,CT of the right elbow,,"R4,307.50"
+63310,CT of the left elbow – complete with 3D recon,,"R6,659.20"
+63315,CT of the right elbow – complete with 3D recon,,"R6,659.20"
+63320,CT of the left elbow contrasted,,"R7,067.40"
+63325,CT of the right elbow contrasted,,"R7,067.40"
+63330,CT of the left elbow pre and post contrast,,"R8,599.00"
+63335,CT of the right elbow pre and post contrast,,"R8,599.00"
+63400,MR of the left elbow,,"R11,430.20"
+63405,MR of the right elbow,,"R11,430.20"
+63410,MR of the left elbow pre and post contrast,,"R17,866.40"
+63415,MR of the right elbow pre and post contrast,,"R17,866.40"
+63905,Nuclear medicine study – Bone limited/regional static,"R3,801.70",
+63910,Nuclear medicine study – Bone limited static plus flow,"R4,868.20",
+63915,Nuclear medicine study – Bone tomography regional,"R2,371.00",
+,Forearm,,
+64100,X-ray of the left forearm,,R519.80
+64105,X-ray of the right forearm,,R519.80
+64110,X-ray peripheral bone densitometry,,R346.70
+64300,CT of the left forearm,,"R4,307.50"
+64305,CT of the right forearm,,"R4,307.50"
+64310,CT of the left forearm contrasted,,"R7,067.40"
+64315,CT of the right forearm contrasted,,"R7,067.40"
+64320,CT of the left forearm pre and post contrast,,"R8,590.00"
+64325,CT of the right forearm pre and post contrast,,"R8,590.00"
+64400,MR of the left forearm,,"R11,352.20"
+64405,MR of the right forearm,,"R11,352.20"
+64410,MR of the left forearm pre and post contrast,,"R17,335.50"
+64415,MR of the right forearm pre and post contrast,,"R17,335.50"
+64900,Nuclear medicine study – Bone limited/regional static,"R3,801.70",
+64905,Nuclear medicine study – Bone limited static plus flow,"R4,868.20",
+64910,Nuclear medicine study – Bone tomography regional,"R2,371.00",
+,Hand and Wrist,,
+,"Code 65120 (finger) may not be combined with 65100 or 65105 (hands).
+Codes 65130 and 65135 (wrists) may be combined with 65140 or 65145 (scaphoid) respectively if requested and additional views done.
+Code 65160 (arthrography) includes fluoroscopy and the introduction of contrast (00140 may not be added). 
+Code 65170 (contrast) may be combined with 65300 and 65305 (CT) or 65400 and 65405 (MR). The combination of 65160 (arthrography) and 65300 and 65305 or 65400 and 65405 is not supported except in exceptional circumstances with motivation.",,
+65100,X-ray of the left hand,,R544.50
+65105,X-ray of the right hand,,R544.50
+65110,X-ray of the left hand – bone age,,R544.50
+65120,X-ray of a finger,,R472.30
+65130,X-ray of the left wrist,,R561.90
+65135,X-ray of the right wrist,,R561.90
+65140,X-ray of the left scaphoid,,R583.50
+65145,X-ray of the right scaphoid,,R583.50
+65150,"X-ray of the left wrist, scaphoid and stress views",,"R1,337.00"
+65155,"X-ray of the right wrist, scaphoid and stress views",,"R1,337.00"
+65160,X-ray arthrography wrist joint including introduction of contrast,,"R2,816.80"
+65170,X-ray guidance and introduction of contrast into wrist joint only,,"R1,310.10"
+65200,Ultrasound of the left wrist,,"R1,149.20"
+65210,Ultrasound of the right wrist,,"R1,149.20"
+65300,CT of the left wrist and hand,,"R4,307.50"
+65305,CT of the right wrist and hand,,"R4,307.50"
+65310,CT of the left wrist and hand - complete with 3D recon,,"R6,659.20"
+65315,CT of the right wrist and hand - complete with 3D recon,,"R6,659.20"
+65320,CT of the left wrist and hand contrasted,,"R7,067.40"
+65325,CT of the right wrist and hand contrasted,,"R7,067.40"
+65330,CT of the left wrist and hand pre and post contrast,,"R8,599.00"
+65335,CT of the right wrist and hand pre and post contrast,,"R8,599.00"
+65400,MR of the left wrist and hand,,"R11,430.20"
+65405,MR of the right wrist and hand,,"R11,430.20"
+65410,MR of the left wrist and hand pre and post contrast,,"R17,866.40"
+65415,MR of the right wrist and hand pre and post contrast,,"R17,866.40"
+65900,Nuclear Medicine study – bone limited/regional static,"R3,801.70",
+65905,Nuclear Medicine study – bone limited static plus flow,"R4,868.20",
+65910,Nuclear Medicine study – bone tomography regional,"R2,371.00",
+,Soft Tissue,,
+69900,"Nuclear medicine study – Tumour localisation planar, static","R3,667.40",
+69905,"Nuclear medicine study – Tumour localisation planar, static, multiple studies","R6,218.80",
+69910,"Nuclear medicine study – Tumour localisation planar, static and SPECT","R6,038.60",
+69915,"Nuclear medicine study – Tumour localisation planar, static, multiple studies and SPECT","R8,409.30",
+69920,"Nuclear medicine study – Infection localisation planar, static","R3,189.90",
+69925,"Nuclear medicine study – Infection localisation planar, static, multiple studies","R5,561.20",
+69930,"Nuclear medicine study – Infection localisation planar, static and SPECT","R5,561.20",
+69935,"Nuclear medicine study – Infection localisation planar, static, multiple studies and SPECT","R7,932.20",
+69940,Nuclear medicine study – Regional lymph node mapping dynamic,"R1,064.50",
+69945,"Nuclear medicine study – Regional lymph node mapping, static, planar","R4,261.50",
+69950,"Nuclear medicine study – Regional lymph node mapping, static, planar, multiple","R6,632.60",
+69955,Nuclear medicine study – Regional lymph node mapping SPECT,"R2,371.00",
+69960,Nuclear medicine study – Lymph node localisation with gamma probe,"R2,371.00",
+,Lower Limbs,,
+,General,,
+,"Code 70100 (stress) is a stand alone study and may not be combined with other codes.
+Code 70110 (tomography) may be combined with any one of the defined regional x-ray studies of the lower limb. Motivation may be required for more than one regional tomographic study per visit.
+Code 70200 (U/S) may only be billed once per visit.
+Code 70300 ((CT) limited study – limited to a small region of interest eg part of condyle of the knee.  
+Codes 70310 and 70320 (CT angiography) may not be combined. 
+Code 70400 (MR limited) may only be used once per visit.
+Code 70410 and 70420 (MR angiography) may not be combined.",,
+70100,X-ray lower limbs - any region- stress studies only,,R799.30
+70110,X-ray lower limbs - any region-tomography,,R760.50
+70120,X-ray of the lower limbs full length study,,"R1,142.20"
+70200,Ultrasound lower limb – soft tissue - any region,,"R1,305.10"
+70210,"Ultrasound of the peripheral arterial system of the left leg including B mode, pulse and colour Doppler",,"R2,412.10"
+70220,"Ultrasound of the peripheral arterial system of the right leg including B mode, pulse and colour Doppler",,"R2,412.10"
+70230,Ultrasound peripheral venous system lower limbs including pulse and colour doppler for deep vein thrombosis,,"R2,412.10"
+70240,"Ultrasound peripheral venous system lower limbs including pulse and colour doppler in erect and supine position including all compression and reflux manoeuvres, deep and superficial systems bilaterally",,"R3,476.10"
+70300,CT of the lower limbs limited study,,"R1,679.80"
+70310,CT angiography of the lower limb,,"R14,045.20"
+70320,CT angiography abdominal aorta and outflow lower limbs,,"R17,388.80"
+70400,MR of the lower limbs limited study,,"R8,204.80"
+70410,MR angiography of the lower limb,,"R13,555.10"
+70420,MR angiography of the abdominal aorta and lower limbs,,"R21,016.90"
+70500,Angiography of pelvic and lower limb arteries unilateral,,"R7,177.30"
+70505,Angiography of pelvic and lower limb arteries bilateral,,"R13,424.10"
+70510,"Angiography of abdominal aorta, pelvic and lower limb vessels unilateral",,"R10,826.90"
+70515,"Angiography of abdominal aorta, pelvic and lower limb vessels bilateral",,"R15,146.50"
+70520,Angiography translumbar aorta with full peripheral study,,"R8,077.20"
+70530,"Venography, antegrade of lower limb veins, unilateral",,"R4,502.10"
+70535,"Venography, antegrade of lower limb veins, bilateral",,"R8,740.60"
+70540,"Venography, retrograde of lower limb veins, unilateral",,"R5,511.60"
+70545,"Venography, retrograde of lower limb veins, bilateral",,"R10,041.70"
+70560,"Lymphangiography, lower limb, unilateral",,"R9,024.90"
+70565,"Lymphangiography, lower limb, bilateral",,"R14,848.00"
+70900,Nuclear medicine study – Venogram lower limb,"R6,563.60",
+,Femur,,
+71100,X-ray of the left femur,,R519.80
+71105,X-ray of the right femur,,R519.80
+71300,CT of the left femur,,"R4,335.70"
+71305,CT of the right femur,,"R4,335.70"
+71310,CT of the left upper leg contrasted,,"R7,396.40"
+71315,CT of the right upper leg contrasted,,"R7,396.40"
+71320,CT of the left upper leg pre and post contrast,,"R8,790.00"
+71325,CT of the right upper leg pre and post contrast,,"R8,790.00"
+71400,MR of the left upper leg,,"R11,458.20"
+71405,MR of the right upper leg,,"R11,458.20"
+71410,MR of the left upper leg pre and post contrast,,"R18,043.10"
+71415,MR of the right upper leg pre and post contrast,,"R18,043.10"
+71900,Nuclear Medicine study – bone limited/regional static,"R3,801.70",
+71905,Nuclear Medicine study – Bone limited static plus flow,"R4,868.20",
+71910,Nuclear Medicine study – Bone tomography regional,"R2,371.00",
+,Knee,,
+,"Codes 72140  and 72145 (patella) may not be added to 72100, 72105, 72110, 72115, 72130, 72135 (knee views)
+Code 72160 (arthrography) includes fluoroscopy and introduction of contrast (00140 may not be added). 
+Code 72170 (introduction of contrast) may be combined with 72300 and 72305 (CT) or 72400 and 72405 (MR). The combination of 72160 (arthrography) and 72300 and 72305 (CT) or 72400 and 72405 (MR) is not supported except in exceptional circumstances with motivation.",,
+72100,X-ray of the left knee one or two views,,R489.80
+72105,X-ray of the right knee one or two views,,R489.80
+72110,"X-ray of the left knee, more than two views",,R587.10
+72115,"X-ray of the right knee, more than two views",,R587.10
+72120,X-ray of the left knee including patella,,R816.70
+72125,X-ray of the right knee including patella,,R816.70
+72130,X-ray of the left knee with stress views,,"R1,029.10"
+72135,X-ray of the right knee with stress views,,"R1,029.10"
+72140,X-ray of left patella,,R489.80
+72145,X-ray of right patella,,R489.80
+72150,X-ray both knees standing – single view,,R495.00
+72160,X-ray arthrography knee joint including introduction of contrast,,"R2,795.60"
+72170,X-ray guidance and introduction of contrast into knee joint only,,"R1,310.10"
+72200,Ultrasound of the left knee joint,,"R1,149.20"
+72205,Ultrasound of the right knee joint,,"R1,149.20"
+72300,CT of the left knee,,"R4,335.70"
+72305,CT of the right knee,,"R4,335.70"
+72310,CT of the left knee complete study with 3D reconstructions,,"R6,353.20"
+72315,CT of the right knee complete study with 3D reconstructions,,"R6,353.20"
+72320,CT of the left knee contrasted,,"R7,396.40"
+72325,CT of the right knee contrasted,,"R7,396.40"
+72330,CT of the left knee pre and post contrast,,"R8,798.70"
+72335,CT of the right knee pre and post contrast,,"R8,798.70"
+72400,MR of the left knee,,"R11,334.40"
+72405,MR of the right knee,,"R11,334.40"
+72410,MR of the left knee pre and post contrast,,"R17,831.00"
+72415,MR of the right knee pre and post contrast,,"R17,831.00"
+72900,Nuclear Medicine study – Bone limited/regional static,"R3,801.70",
+72905,Nuclear Medicine study – Bone limited static plus flow,"R4,868.20",
+72910,Nuclear Medicine study – Bone tomography regional,"R2,371.00",
+,Lower Leg,,
+73100,X-ray of the left lower leg,,R519.80
+73105,X-ray of the right lower leg,,R519.80
+73300,CT of the left lower leg,,"R4,335.70"
+73305,CT of the right lower leg,,"R4,335.70"
+73310,CT of the left lower leg contrasted,,"R7,396.40"
+73315,CT of the right lower leg contrasted,,"R7,396.40"
+73320,CT of the left lower leg pre and post contrast,,"R8,790.00"
+73325,CT of the right lower leg pre and post contrast,,"R8,790.00"
+73400,MR of the left lower leg,,"R11,352.20"
+73405,MR of the right lower leg,,"R11,352.20"
+73410,MR of the left lower leg pre and post contrast,,"R18,043.10"
+73415,MR of the right lower leg pre and post contrast,,"R18,043.10"
+73900,Nuclear Medicine study – bone limited/regional static,"R3,801.70",
+73905,Nuclear Medicine study – bone limited static plus flow,"R4,868.20",
+73910,Nuclear Medicine study – bone tomography regional,"R2,371.00",
+,Ankle and Foot,,
+,"Code 74145 (toe) may not be combined with 74120 or 74125 (foot).
+Code 71450 (sesamoid bones) may be combined with 74120 or 74125 (foot) if requested. 
+Codes 74120 and 74125 (foot) may only be combined with 74130 and 74135 (calcaneus) if specifically requested. 
+Code 74160 (arthrography) includes fluoroscopy and introduction of contrast (00140 may not be added).
+Code 74170 (introduction of contrast) may be combined with 74300 and 74305 (CT) or 74400 and 74405 (MR). The combination of 74160 (arthrography) and 74300 and 74305 (CT) or 74400 and 74405 (MR) are not supported except in exceptional circumstances with motivation.",,
+74100,X-ray of the left ankle,,R587.10
+74105,X-ray of the right ankle,,R587.10
+74110,X-ray of the left ankle with stress views,,R799.30
+74115,X-ray of the right ankle with stress views,,R799.30
+74120,X-ray of the left foot,,R495.00
+74125,X-ray of the right foot,,R495.00
+74130,X-ray of the left calcaneus,,R484.40
+74135,X-ray of the right calcaneus,,R484.40
+74140,X-ray of both feet – standing – single view,,R495.00
+74145,X-ray of a toe,,R472.30
+74150,X-ray of the sesamoid bones one or both sides,,R495.00
+74160,X-ray arthrography ankle joint including introduction of contrast,,"R2,813.10"
+74170,X-ray guidance and introduction of contrast into ankle joint,,"R1,310.10"
+74210,Ultrasound of the left ankle,,"R1,149.20"
+74215,Ultrasound of the right ankle,,"R1,149.20"
+74220,Ultrasound of the left foot,,"R1,149.20"
+74225,Ultrasound of the right foot,,"R1,149.20"
+74290,Ultrasound bone densitometry,,R360.90
+74300,CT of the left ankle/foot,,"R4,335.70"
+74305,CT of the right ankle/foot,,"R4,335.70"
+74310,CT of the left ankle/foot – complete with 3D recon,,"R6,685.50"
+74315,CT of the right ankle/foot – complete with 3D recon,,"R6,685.50"
+74320,CT of the left ankle/foot contrasted,,"R7,396.40"
+74325,CT of the right ankle/foot contrasted,,"R7,396.40"
+74330,CT of the left ankle/foot pre and post contrast,,"R8,790.00"
+74335,CT of the right ankle/foot pre and post contrast,,"R8,790.00"
+74400,MR of the left ankle,,"R11,334.40"
+74405,MR of the right ankle,,"R11,334.40"
+74410,MR of the left ankle pre and post contrast,,"R17,795.60"
+74415,MR of the right ankle pre and post contrast,,"R17,795.60"
+74420,MR of the left foot,,"R11,352.20"
+74425,MR of the right foot,,"R11,352.20"
+74430,MR of the left foot pre and post contrast,,"R18,043.10"
+74435,MR of the right foot pre and post contrast,,"R18,043.10"
+74900,Nuclear Medicine study – Bone limited/regional static,"R3,801.70",
+74905,Nuclear Medicine study – Bone limited static plus flow,"R4,868.20",
+74910,Nuclear Medicine study – Bone tomography regional,"R2,371.00",
+,Soft Tissue,,
+79900,"Nuclear Medicine study – Tumour localisation planar, static","R3,667.40",
+79905,"Nuclear Medicine study – Tumour localisation planar, static, multiple studies","R6,218.80",
+79910,"Nuclear Medicine study – Tumour localisation planar, static and SPECT","R6,038.60",
+79915,"Nuclear Medicine study – Tumour localisation planar, static, multiple studies & SPECT","R8,409.30",
+79920,"Nuclear Medicine study – Infection localisation planar, static","R3,259.00",
+79925,"Nuclear Medicine study – Infection localisation planar, static, multiple studies","R5,629.70",
+79930,"Nuclear Medicine study – Infection localisation planar, static and SPECT","R5,629.70",
+79935,"Nuclear Medicine study – Infection localisation planar, static, multiple studies and SPECT","R8,001.10",
+79940,Nuclear Medicine study – Regional lymph node mapping dynamic,"R1,064.50",
+79945,"Nuclear Medicine study – Regional lymph node mapping, static, planar","R4,261.50",
+79950,"Nuclear Medicine study – Regional lymph node mapping, static, planar, multiple studies","R6,632.60",
+79955,Nuclear Medicine study – Regional lymph node mapping and SPECT,"R2,371.00",
+79960,Nuclear Medicine study – Lymph node localisation with gamma probe,"R2,371.00",
+,Intervention,,
+,General,,
+,"Codes 80600, 80605, 80610, 80620, 80630, 81660, 81680, 82600, 84660, 85640, 85645, 86610, 86615, 86620, 86630, (aspiration / biopsy / ablations etc) may be combined with the relevant guidance codes (fluoroscopy, ultrasound, CT, MR) as previously described. The machine codes 00510, 00520, 00530, 00540, 00550, 00560 may not be combined with these codes.
+If ultrasound guidance (00230) is used for a procedure which also attracts one of the machine codes (00510, 00520, 00530, 00540, 00550, 00560), it may not be billed for separately.  
+Codes 80640, 80645, 87682, 87683 include fluoroscopy. Machine fees may not be added. 
+All other interventional procedures are complete unique procedures describing a whole comprehensive procedure and combinations of different codes will only be supported when motivated.",,
+80600,"Percutaneous abscess, cyst drainage, any region",,"R1,656.90"
+80605,"Fine needle aspiration biopsy, any region",,R746.00
+80610,"Cutting needle, trochar biopsy, any region",,"R1,124.50"
+80620,Tumour/cyst ablation chemical,,"R4,486.00"
+80630,"Tumour ablation radio frequency, per lesion",,"R3,750.40"
+80640,Insertion of CVP line in radiology suite,,"R1,589.60"
+80645,Peripheral central venous line insertion,,"R2,143.30"
+80650,"Infiltration of a peripheral joint, any region",,"R1,131.70"
+,"May be combined with relevant guidance (fluoroscopy, ultrasound, CT and MR). May not be combined with machine codes 00510, 00520, 00530, 00540, 00550, 00560 or 86610 (facet joint or SI joint) or arthrogram codes.",,
+,Neuro intervention,,
+81600,"Intracranial aneurysm occlusion, direct",,"R37,931.90"
+81605,Intracranial arteriovenous shunt occlusion,,"R45,058.10"
+81610,Dural sinus arteriovenous shunt occlusion,,"R46,739.40"
+81615,Extracranial arteriovenous shunt occlusion,,"R27,810.70"
+81620,Extracranial arterial embolisation (head and neck),,"R28,843.30"
+81625,Caroticocavernous fistula occlusion,,"R34,000.90"
+81630,"Intracranial angioplasty for stenosis, vasospasm",,"R22,442.50"
+81632,Intracranial stent placement (including PTA),,"R23,644.70"
+81635,Temporary balloon occlusion test,,"R14,750.70"
+,"Code 81635 does not include the relevant preceding diagnostic study and may be combined with codes 10500, 10510, 10530, 10540, 10550.",,
+81640,Permanent carotid or vertebral artery occlusion (including occlusion  test),,"R31,506.20"
+81645,Intracranial aneurysm occlusion with balloon remodelling,,"R38,255.60"
+81650,Intracranial aneurysm occlusion with stent assistance,,"R40,748.70"
+81655,"Intracranial thrombolysis, catheter directed",,"R10,422.10"
+,Code 81655 may be combined with any of the other neuro interventional codes 81600 to 81650,,
+81660,"Nerve block, head and neck, per level",,"R1,354.50"
+81665,"Neurolysis, head and neck, per level",,"R3,561.10"
+81670,"Nerve block, head and neck, radio frequency, per level",,"R3,366.80"
+81680,"Nerve block, coeliac plexus or other regions, per level",,"R1,641.40"
+,Thorax,,
+82600,Chest drain insertion,,"R1,559.50"
+82605,"Trachial, bronchial stent insertion",,"R5,368.50"
+,Gastrointestinal,,
+83600,Oesophageal stent insertion,,"R5,520.10"
+83605,GIT balloon dilation,,"R4,307.50"
+83610,GIT stent insertion (non-oesophageal),,"R5,661.80"
+83615,"Percutaneous gastrostomy, jejunostomy",,"R4,484.20"
+,Hepatobiliary,,
+84600,"Percutaneous biliary drainage, external",,"R6,008.40"
+84605,Percutaneous external/internal biliary drainage,,"R6,579.50"
+84610,Permanent biliary stent insertion,,"R9,056.60"
+84615,Drainage tube replacement,,"R3,575.60"
+84620,Percutaneous bile duct stone or foreign object removal,,"R8,837.60"
+84625,Percutaneous gall bladder drainage,,"R5,230.30"
+84630,"Percutaneous gallstone removal, including drainage",,"R12,245.30"
+84635,Transjugular liver biopsy,,"R4,408.10"
+84640,Transjugular intrahepatic Portosystemic shunt,,"R21,124.90"
+84645,"Transhepatic Portogram including venous sampling, pressure studies",,"R14,480.00"
+84650,Transhepatic Portogram with embolisation of varices,,"R17,825.60"
+84655,Percutaneous hepatic tumour ablation,,"R2,772.70"
+84660,"Percutaneous hepatic abscess, cyst drainage",,"R2,334.00"
+84665,Hepatic chemoembolisation,,"R10,510.40"
+84670,Hepatic arterial infusion catheter placement,,"R10,662.60"
+,Urogenital,,
+85600,"Percutaneous nephrostomy, external drainage",,"R5,299.30"
+85605,Percutaneous double J stent insertion including access,,"R7,217.70"
+85610,"Percutaneous renal stone, foreign body removal including access",,"R11,810.20"
+85615,Percutaneous nephrostomy tract establishment,,"R5,175.60"
+85620,Change of nephrostomy tube,,"R2,811.80"
+85625,Percutaneous cystostomy,,"R2,921.40"
+85630,Urethral balloon dilatation,,"R2,517.70"
+85635,Urethral stent insertion,,"R5,520.10"
+85640,Renal cyst ablation,,"R2,108.10"
+85645,"Renal abscess, cyst drainage",,"R2,680.70"
+85655,Fallopian tube recanalisation,,"R7,967.60"
+,Spinal,,
+86600,Spinal vascular malformation embolisation,,"R48,654.80"
+86605,Vertebroplasty per level,,"R3,943.10"
+86610,"Facet joint block per level, uni- or bilateral",,"R1,686.40"
+,"Code 86610 may only be billed once per level, and not per left and right side per level",,
+86615,"Spinal nerve block per level, uni- or bilateral",,"R1,442.60"
+86620,Epidural block,,"R1,665.40"
+86625,"Chemonucleolysis, including discogram",,"R3,239.50"
+86630,Spinal nerve ablation per level,,"R2,051.30"
+,Vascular,,
+,"Code 87654 (Thrombolysis follow up) may only be used on the days following the initial procedure, 87650 (thrombolysis).   
+If a balloon angioplasty and / or stent placement is performed at more that one defined anatomical site at the same sitting the relevant codes may be combined. However multiple balloon dilatations or stent placements at one defined site will only attract one procedure code.",,
+87600,"Percutaneous transluminal angioplasty: aorta, IVC",,"R10,001.10"
+87601,Percutaneous transluminal angioplasty: iliac,,"R9,859.60"
+87602,Percutaneous transluminal angioplasty: femoropopliteal,,"R10,637.40"
+87603,Percutaneous transluminal angioplasty: subpopliteal,,"R12,968.00"
+87604,Percutaneous transluminal angioplasty: brachiocephalic,,"R11,868.40"
+87605,"Percutaneous transluminal angioplasty: subclavian, axillary",,"R10,637.40"
+87606,Percutaneous transluminal angioplasty: extracranial carotid,,"R12,663.90"
+87607,Percutaneous transluminal angioplasty: extracranial vertebral,,"R12,961.30"
+87608,Percutaneous transluminal angioplasty: renal,,"R15,505.50"
+87609,"Percutaneous transluminal angioplasty: coeliac, mesenteric",,"R15,505.50"
+87620,Aorta stent-graft placement,,"R21,351.40"
+87621,"Stent insertion (including PTA): aorta, IVC",,"R13,062.00"
+87622,Stent insertion (including PTA): iliac,,"R13,504.10"
+87623,Stent insertion (including PTA): femoropopliteal,,"R13,786.70"
+87624,Stent insertion (including PTA): subpopliteal,,"R14,950.40"
+87625,Stent insertion (including PTA): brachiocephalic,,"R17,412.00"
+87626,"Stent insertion (including PTA): subclavian, axillary",,"R15,328.40"
+87627,Stent insertion (including PTA): extracranial carotid,,"R18,918.10"
+87628,Stent insertion (including PTA): extracranial vertebral,,"R17,779.70"
+87629,Stent insertion (including PTA): renal,,"R17,433.00"
+87630,"Stent insertion (including PTA): coeliac, mesenteric",,"R17,433.00"
+87631,Stent-graft placement: iliac,,"R13,504.10"
+87632,Stent-graft placement: femoropopliteal,,"R13,786.70"
+87633,Stent-graft placement: brachiocephalic,,"R17,412.00"
+87634,"Stent-graft placement: subclavian, axillary",,"R14,635.40"
+87635,Stent-graft placement: extracranial carotid,,"R21,294.90"
+87636,Stent-graft placement: extracranial vertebral,,"R20,286.80"
+87637,Stent-graft placement: renal,,"R17,433.00"
+87638,"Stent-graft placement: coeliac, mesenteric",,"R17,433.00"
+87650,"Thrombolysis in angiography suite, per 24 hours",,"R8,102.20"
+,"Code 87650 may be combined with any of the relevant non neuro interventional angiography and interventional codes 10520, 20500, 20510, 20520, 20530, 20540,32500,32530,44500, 44503, 44505, 44507, 44510, 44515, 44517, 44520, 60500, 60510, 60520, 60530, 70500, 70505, 70510, 70515, 87600 to 87638.",,
+87651,"Aspiration, rheolytic thrombectomy",,"R13,733.90"
+87652,"Atherectomy, per vessel",,"R16,248.40"
+87653,Percutaneous tunnelled / subcutaneous arterial or venous central or other line insertion,,"R4,977.70"
+87654,Thrombolysis follow-up,,"R4,167.70"
+87655,"Percutaneous sclerotherapy, vascular malformation",,"R3,730.90"
+87660,"Embolisation, mesenteric",,"R17,758.20"
+87661,"Embolisation, renal",,"R17,569.10"
+87662,"Embolisation, bronchial, intercostal",,"R19,157.00"
+87663,"Embolisation, pulmonary arteriovenous shunt",,"R18,251.60"
+87664,"Embolisation, abdominal, other vessels",,"R17,936.80"
+87665,"Embolisation, thoracic, other vessels",,"R17,257.90"
+87666,"Embolisation, upper limb",,"R16,076.70"
+87667,"Embolisation, lower limb",,"R16,292.30"
+87668,"Embolisation, pelvis, non-uterine",,"R20,709.30"
+87669,"Embolisation, uterus",,"R20,136.50"
+87670,"Embolisation, spermatic, ovaria veins",,"R15,175.00"
+87680,Inferior vena cava filter placement,,"R10,934.80"
+87681,Intravascular foreign body removal,,"R15,035.30"
+87682,Revision of access port (tunnelled or implantable),,"R2,496.70"
+87683,Removal of access port (tunnelled or implantable),,"R1,966.30"
+87690,Superior petrosal venous sampling,,"R12,910.00"
+87691,Pancreatic stimulation test,,"R15,876.90"
+87692,Transportal venous sampling,,"R13,606.50"
+87693,Adrenal venous sampling,,"R9,726.90"
+87694,Parathyroid venous sampling,,"R15,323.40"
+87695,Renal venous sampling,,"R9,726.90"
+,ANNEXURE A,,
+,"Radiology tariff Contrast price  effective 1 Janaury 2004 PER VIAL
+For use in conjuction with codes:
+
+00190 X-ray examination contrast material
+00290 Ultrasound examination contrast material
+00390 CT examination contrast material
+00490 MR examination contrast material
+00590 Angiography and interventional examination contrast material
+
+
+",,
+,ANNEXURE B,,
+,Radiology tariff Contrast price effective 1 Jan 2004 PER VIAL,,
+,Contrast Index Price Range - 2004 contrast prices,,
+,ANNEXURE C,,
+,"Recommended Isotope and Kit Prices for Nuclear Medicine for 2004 by the Association of Nuclear Medicine Physicians
+For use in conjuction with codes:
+
+00990 Nuclear Medicine Isotope
+00991 Nuclear Medicine Substrate
+
+",,
+,ANNEXURE D. PET GUIDELINES,,
+A.,INDICATIONS,,
+,"For the purposes of this guideline, only established indications for PET-CT are included and this relates to the more common types of malignancies as seen in practice. While some of the less common forms of cancer may also yield advantages with PET-CT imaging, there is as yet insufficient published data to support the general use and these have been excluded in the list below. This situation may change as new research and information becomes available.",,
+,"1. Non-small cell lung carcinoma (NSCC)
+   a) Primary diagnosis of lesions
+      i. >10mm diameter lesions where conventional imaging and biopsy have been inconclusive.
+   b) Staging especially where curative surgery is planned
+      i. Evaluation of primary tumour (T-stage).
+     ii. Suspected nodal disease or characterization of nodal disease
+    iii. Suspected distal metastases of determining extent of metastases.
+     iv. Solitary distal metastasis where metastatectomy is considered. PET-CT is used to exclude additional lesions which would preclude surgery.
+   c) Investigation of suspected recurrence (restaging)
+      i. Local or regional recurrence
+     ii. Nodal or distal recurrence
+    iii. Determine the extent of proven recurrent disease
+     iv. Differentiate fibrotic mass from active disease
+   d) All patients with proven carcinoma of the lung, who are considered for curative resection, should be imaged with PETCT prior to surgery.
+   e) Current available literature confirms that PET-CT is more accurate than CT or PET alone for staging and restaging of NSCC.",,
+,"2. Hodgkin’s and Non-Hodgkin’s Lymphoma
+   a) Single most accurate imaging modality for Hodgkins and Non-Hodgkins lymphoma.
+   b) Staging
+      i. All patients prior to commencing treatment as baseline, following diagnosis.
+     ii. Indicated at completion of therapy to confirm complete response.
+   c) Monitoring of response to treatment
+      i. Numerous studies have confirmed that mid-treatment PET scans predict clinical outcome.
+     ii. Prognostic value and role in modification of therapeutic regime.
+   d) Investigation of residual or recurrent disease (restaging)
+      i. Where conventional imaging is equivocal for residual disease.
+     ii. Suspected nodal recurrence.
+    iii. Differentiating recurrent and residual disease from post-therapeutic fibrosis and scarring.",,
+,"3. Thyroid carcinoma
+   a) Not indicated for primary diagnosis.
+   b) Staging
+      i. Primary examination of choice is I-123 whole body scintigraphy.
+     ii. Only indicated for differentiated and medullary carcinoma of the thyroid in patients with negative I-123, but with a high index of suspicion for nodal or distal metastases on cross sectional imaging or where whole body I-123 scan is equivocal.
+   c) Investigation of residual or recurrent disease (restaging)
+      i. Elevated thyroglobulin despite negative whole body scintigraphy for differentiated thyroid carcinoma.
+     ii. Elevated calcitonin levels and equivocal imaging findings for medullary thyroid carcinoma.
+    iii. Solitary distal metastasis where metastatectomy is considered. PET-CT is used to exclude additional lesions which would preclude surgery.",,
+,"4. Head and neck carcinoma
+   a) Primary diagnosis
+      i. There is little, if any, role for PET-CT in primary diagnosis of mucosal lesions.
+     ii. Limited to identifying primary tumour in histologically proven metastatic squamous cell carcinoma in cervical nodes.
+   b) Staging of the primary tumour prior to therapy
+      i. Local nodes which are equivocal on CI (conventional imaging).
+     ii. Suspected distal adenopathy
+    iii. Suspected distal metastases
+     iv. All patients where uni- or bilateral surgery is planned (may alter management and approach by up to 50% and is significantly more accurate than CT alone).
+      v. Excellent sensitivity (96,4%) for local and distal nodal disease (specificity in local disease may be affected by physiological uptake).
+   c) Investigation of residual or recurrent disease (restaging)
+      i. Differentiating fibrosis and recurrence where routine imaging is equivocal and may reduce the number of equivocal findings by up to 50%.
+     ii. Following neo-adjuvant therapy for re-staging.
+    iii. Suspected local or distal recurrence.
+     iv. Differentiating post-therapeutic changes from residual or recurrent tumours poses significant problems for CT and MRI. PET-CT is significantly more accurate than routine cross sectional imaging in this regard.",,
+,"5. Breast cancer
+   a) There is no role for PET-CT in the primary diagnosis, sentinel node mapping or imaging of locally contained node negative tumours.
+   b) No role for carcinoma-in-situ.
+   c) PET-CT imaging is limited to patients with infiltrating ductal carcinoma.
+   d) Staging
+      i. Only indicated if there is a significant chance of distal disease as determined by axillary dissection or where conventional imaging is equivocal.
+     ii. Can result in up to 57% change of stage and management compared to other CI (conventional imaging).
+    iii. High accuracy (86% vs. 77% for CT alone) for nodal and distal metastases in patient with infiltrating ductal carcinoma.
+   e) Investigation of recurrent disease (restaging)
+      i. Suspected local or regional recurrence.
+     ii. Suspected nodal or distal metastatic recurrence.
+    iii. Differentiate post therapeutic fibrosis from recurrent or residual tumour.
+     iv. Significantly more accurate for nodal and distal recurrence than conventional imaging.",,
+,"6. Colorectal cancer
+   a) No role in the diagnosis of the primary tumour.
+   b) Accurate for staging (89%) and restaging (88%)
+   c) Staging
+      i. Suspected distal nodal metastases where conventional imaging is equivocal, particularly distal nodes.
+     ii. Suspected distal metastases.
+    iii. Evaluation of suspected single metastases considered for curative surgical resection to exclude concomitant disease.
+     iv. May result in changes in treatment in up to 27% of patients.
+   d) Investigation of residual or recurrent disease (restaging)
+      i. Suspected local pelvic or distal recurrence.
+     ii. Differentiate local and distal post therapeutic changes from residual and recurrent disease.
+    iii. Evaluate and restage following neo-adjuvant therapy.
+     iv. Evaluate patients with rising tumour markers and normal or equivocal conventional imaging.",,
+,"7. Stomach carcinoma - GIST
+   a) In GIST tumours FDG tracer uptake is established.
+      i. Indicated to determine response to treatment as determined by tumour activity on PET-CT measuring tracer uptake (SUV).
+     ii. Paradigm shift in assessing tumour responses to treatment.
+    iii. Response to Imatinib (Gleevec) can be predicted with 18FFDG as early as 24h after commencing treatment and long before any change in tumour size is demonstrated on conventional imaging.
+     iv. Baseline study before commencing treatment is essential to determine degree of tracer uptake for post-treatment comparison.
+   b) Variable uptake of tracer in other stomach tumours, which is difficult to explain and to predict. Routine imaging is not supported in other types of stomach tumours, at this stage.",,
+,"8. Testicular Carcinoma
+   a) Complex histology and variable uptake of different histological sub-groups.
+   b) Limited to seminoma and teratoma in the following cases:
+      i. Evaluate residual mass to differentiate residual/recurrent tumour from fibrosis.
+     ii. Suspected recurrence but normal or equivocal conventional imaging findings.",,
+,"9. Oesophageal carcinoma
+   a) Not indicated for primary diagnosis.
+   b) Staging for nodal and distal metastases (90% accurate)
+      i. Indicated for N-staging, particularly where there is suspected distal nodal disease or where conventional imaging is equivocal.
+     ii. Indicated for M- staging where distal metastases are suspected.
+    iii. Strongly indicated for patient undergoing curative surgery to exclude distal disease.
+   c) Investigation of residual or recurrent disease (restaging)
+      i. Restaging for patients who have undergone neo-adjuvant chemotherapy.
+     ii. Suspected local or distal recurrent disease.
+    iii. Differentiate post therapeutic fibrosis from recurrent or residual disease.",,
+,"10.Melanoma
+   a) No role in primary diagnosis which is primarily a surgical/histological diagnosis.
+   b) Staging is determined by depth of penetration of the primary tumour and presence of sentinel node at surgery.
+      i. Indicated for Stage 3 and 4 disease where there is a high incidence of distal nodal and metastatic disease.
+     ii. Solitary distal metastasis on conventional imaging where metastatectomy is considered. PET-CT is used to exclude additional lesions which would preclude surgery.
+    iii. Overall N and M staging is significantly more accurate than conventional imaging (97% vs 80%).
+   c) Investigation of recurrent disease (restaging)
+      i. Modality of choice for recurrent nodal and distal metastatic disease.
+     ii. Differentiate post therapeutic fibrosis from recurrent or residual disease.
+   d) PET-CT may alter management in up to 33,9% of patients with Stage III and IV disease.",,
+,"11.Ovarian carcinoma
+   a) Most cases present as advanced disease.
+   b) Recurrence is frequent and the overall 5-y survival for advanced disease is only 17%.
+   c) Diagnosis and initial staging require a laparotomy as small peritoneal deposits may be difficult to demonstrate on imaging
+      i. PET-CT is indicated where surgical or conventional imaging findings are equivocal for primary staging.
+     ii. PET-CT is accurate for demonstrating nodal and distal disease.
+    iii. Sensitivity is limited by size of peritoneal deposits. It is more accurate for macroscopic disease.
+   d) Investigation of recurrent disease (restaging)
+      i. Superior to CT and MRI for recurrence (92% sens. and 76,4% spec.).
+     ii. Alternative to a second look laparotomy (presents significant cost saving potential).
+    iii. Definite role for patients with rising tumour marker where conventional imaging is negative for recurrence.",,
+,"12.Carcinoma of unknown primary
+   a) By definition, unknown primary tumors are those that remain undetected after all diagnostic resources have been used.
+   b) PET-CT may detect up to 57% primary tumours when conventional cross sectional imaging has been negative.
+   c) PET-CT is indicated where conventional imaging has failed to identify a primary malignancy.",,
+B.,LIMITED VALUE AND RELATIVE CONTRAINDICATIONS,,
+,These conditions are those where there is variable or poor uptake of the tracer FDG or where imaging is routinely performed with tracers other than FDG which are not locally available. This may result in false negative findings using FDG and the routine use of PET-CT should be discouraged.,,
+,"1. Urological Malignancy
+   a) No role in diagnosis and staging of renal cell carcinoma
+   b) Prostate limited to suspected recurrence in histologically proven high grade tumours. Prostate is ideally imaged with Choline as tracer.
+   c) No role for diagnosis and staging of bladder carcinoma
+2. Broncho-alveolar cell carcinoma
+3. Small cell carcinoma of the lung
+4. Hepatocellular carcinoma
+5. Sarcomas
+6. Neuro-endocrine tumours
+7. Anaplastic thyroid carcinoma which is Grade 4 by definition, at diagnosis.
+8. Suspected brain tumours where MRI is more sensitive and specific.
+9. Tumours with large mucinous components.
+10.Lobular carcinoma of the breast",,
+,"In addition to these tumours, imaging should be used with caution in patients who are diabetic or who have recently used high doses of cortico-steroids.",,

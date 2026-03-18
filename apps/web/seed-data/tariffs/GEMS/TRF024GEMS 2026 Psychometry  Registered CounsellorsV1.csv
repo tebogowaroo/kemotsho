@@ -1,0 +1,54 @@
+"GEMS TARIFF FOR SERVICES BY PSYCHOMETRISTS AND REGISTERED COUNSELLORS
+WITH EFFECT FROM 2026-01-01",,081 - Registered Councellors,085 - Psychometry
+Tariff Code,Tariff Description,2026 Tariff Value,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",,
+,GENERAL RULES,,
+A,"Every account shall contain the following particulars:
+
+a)         The surname and initials of the member;
+b)         The surname, first name and other initials, if any, of the patient; 
+c)         The name of the scheme concerned;.
+d)         The membership number of the member;
+e)         The practice code number, group practice number and individual provider registration number issued by the registering authorities for providers, if applicable, of the supplier of service and, in the case of a group practice, the name of the practitioner who provided the service;
+f)          The date on which each relevant health service was rendered;
+g)         The relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered.",,
+ ,"Compilation of reports is only to be included within billable time if these reports are for purposes of motivating for therapy and/or giving a progress report and/or a pre-authorisation report, and where such a report is specifically required by the medical scheme. Maximum billable time for such a report is 15 minutes.",,
+,PSYCHOMETRIC SERVICES,,
+007,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",R0.00,R0.00
+200,Psychometric testing. Duration: 1-10min.,,R61.10
+201,Psychometric testing. Duration: 11-20min.,,R183.60
+202,Psychometric testing. Duration: 21-30min.,,R305.70
+203,Psychometric testing. Duration: 31-40min.,,R427.80
+204,Psychometric testing. Duration: 41-50min.,,R550.00
+205,Psychometric testing. Duration: 51-60min.,,R672.10
+206,Psychometric testing. Duration: 61-70min.,,R794.70
+207,Psychometric testing. Duration: 71-80min.,,R916.70
+208,Psychometric testing. Duration: 81-90min.,,"R1,039.40"
+209,Psychometric testing. Duration: 91-100min.,,"R1,161.60"
+210,Psychometric testing. Duration: 101-110min.,,"R1,283.70"
+211,Psychometric testing. Duration: 111-120min.,,"R1,406.20"
+290,Psychometric testing - per full 15 minutes in excess of 120 minutes.,,R91.80
+,SERVICES RENDERED BY REGISTERED COUNSELLORS,,
+300,"Assessment, consultation, counselling and/or therapy (individual or family). Duration: 1-10min.",R61.10,
+301,"Assessment, consultation, counselling and/or therapy (individual or family). Duration: 11-20min.",R183.60,
+302,"Assessment, consultation, counselling and/or therapy (individual or family). Duration: 21-30min.",R305.70,
+303,"Assessment, consultation, counselling and/or therapy (individual or family). Duration: 31-40min.",R427.80,
+304,"Assessment, consultation, counselling and/or therapy (individual or family). Duration: 41-50min.",R550.00,
+305,"Assessment, consultation, counselling and/or therapy (individual or family). Duration: 51-60min.",R672.10,
+306,"Assessment, consultation, counselling and/or therapy (individual or family). Duration: 61-70min.",R794.70,
+307,"Assessment, consultation, counselling and/or therapy (individual or family). Duration: 71-80min.",R916.70,
+308,"Assessment, consultation, counselling and/or therapy (individual or family). Duration: 81-90min.","R1,039.40",
+400,"Group consultation, counselling and/or therapy, per patient. Duration: 1-10min.",R12.10,
+401,"Group consultation, counselling and/or therapy, per patient. Duration: 11-20min.",R36.70,
+402,"Group consultation, counselling and/or therapy, per patient. Duration: 21-30min.",R61.10,
+403,"Group consultation, counselling and/or therapy, per patient. Duration: 31-40min.",R85.60,
+404,"Group consultation, counselling and/or therapy, per patient. Duration: 41-50min.",R110.00,
+405,"Group consultation, counselling and/or therapy, per patient. Duration: 51-60min.",R134.50,
+406,"Group consultation, counselling and/or therapy, per patient. Duration: 61-70min.",R159.00,
+407,"Group consultation, counselling and/or therapy, per patient. Duration: 71-80min.",R183.60,
+408,"Group consultation, counselling and/or therapy, per patient. Duration: 81-90min.",R208.10,
+409,"Group consultation, counselling and/or therapy, per patient. Duration: 91-100min.",R232.40,
+410,"Group consultation, counselling and/or therapy, per patient. Duration: 101-110min.",R256.80,
+411,"Group consultation, counselling and/or therapy, per patient. Duration: 111-120min.",R281.30,
+490,"Extended group consultation, counselling and/or therapy - per patient per full 15 minutes in excess of 120 minutes",R18.60,

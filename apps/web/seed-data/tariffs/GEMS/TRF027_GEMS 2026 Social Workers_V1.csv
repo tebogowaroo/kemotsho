@@ -1,0 +1,61 @@
+"GEMS TARIFF FOR SERVICES BY SOCIAL WORKERS
+WITH EFFECT FROM 2026-01-01",,089- Social Workers
+Tariff Code,Tariff Description, 2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,GENERAL RULES,
+005,"Every practitioner shall render a monthly account in respect of any service rendered during the month, irrespective of whether or not the treatment has been completed. NB. Every account shall contain the following particulars:
+ 
+a)	The surname and initials of the member;
+b)	The surname, first name and other initials, if any, of the patient; 
+c)	The name of the scheme concerned;.
+d)	The membership number of the member;
+e)	The practice code number, group practice number and individual provider registration number issued by the registering authorities for providers, if applicable, of the supplier of service and, in the case of a group practice, the name of the practitioner who provided the service;
+f)	the relevant diagnostic and such other item code numbers that relates to such relevant health service;
+g)	The date on which each relevant health service was rendered;
+h)	The relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered.",
+006,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+007,"Where emergency treatment is provided:
+a. during working hours, and the provision of such treatment requires the practitioner to leave her or his practice to attend to the patient at another venue; or 
+b. after working hours 
+
+the fee for such visits shall be the total fee plus 50%.
+
+For purposes of this rule:
+a. \""emergency treatment\"" means a bona fide, justifiable emergency social work service, where failure to provide the service immediately would result in serious or irreparable psychological or functional impairment 
+b. \""working hours\"" means 8h00 to 17h00, Monday to Friday. 
+
+Modifier 0003 must be quoted after the appropriate code number(s) to indicate that this rule is applicable.",
+008,"Compilation of reports is only to be included within billable time if these reports are for purposes of motivating for therapy and/or giving a progress report and/or a pre-authorisation report, and where such a report is specifically required by the medical scheme. Maximum billable time for such a report is 15 minutes.",
+,Modifiers,
+0003,Add 50% of the total fee for the treatment,
+0021,Services rendered to hospital inpatients: Quote modifier 0021 on all accounts for services performed on hospital inpatients.,
+0022,Services rendered at patients residence: Quote modifier 0022 on all accounts for services performed at the patients residence.,
+,ITEMS,
+107,"Appointment not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",R0.00
+200,"Social worker consultation, counselling and/or therapy. Duration: 1-10min.",R64.60
+201,"Social worker consultation, counselling and/or therapy. Duration: 11-20min.",R194.00
+202,"Social worker consultation, counselling and/or therapy. Duration: 21-30min.",R323.90
+203,"Social worker consultation, counselling and/or therapy. Duration: 31-40min.",R453.40
+204,"Social worker consultation, counselling and/or therapy. Duration: 41-50min.",R582.90
+205,"Social worker consultation, counselling and/or therapy. Duration: 51-60min.",R711.90
+206,"Social worker consultation, counselling and/or therapy. Duration: 61-70min.",R841.90
+207,"Social worker consultation, counselling and/or therapy. Duration: 71-80min.",R971.00
+208,"Social worker consultation, counselling and/or therapy. Duration: 81-90min.","R1,100.80"
+209,"Social worker consultation, counselling and/or therapy. Duration: 91-100min.","R1,230.30"
+210,"Social worker consultation, counselling and/or therapy. Duration: 101-110min.","R1,359.80"
+211,"Social worker consultation, counselling and/or therapy. Duration: 111-120min.","R1,489.00"
+,"Group consultation, counselling or therapy",
+,"Group consultation, counselling and/or therapy items are chargeable to a maximum of 12 patients.",
+300,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 1-10min.",R13.10
+301,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 11-20min.",R38.90
+302,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 21-30min.",R64.60
+303,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 31-40min.",R90.70
+304,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 41-50min.",R116.60
+305,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 51-60min.",R142.80
+306,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 61-70min.",R168.60
+307,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 71-80min.",R194.00
+308,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 81-90min.",R220.00
+309,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 91-100min.",R246.20
+310,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 101-110min.",R272.10
+311,"Social worker group consultation, counselling and/or therapy, per patient. Duration: 111-120min.",R297.80

@@ -1,0 +1,213 @@
+"GEMS TARIFF FOR SERVICES BY OCCUPATIONAL THERAPISTS
+WITH EFFECT FROM 2026-01-01",,066 - Occupational Therapists
+Tariff code ,Tariff Description,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,REGULATIONS DEFINING THE SCOPE OF THE PROFESSION OF OCCUPATIONAL THERAPY (R2145 - 31 July 1992),
+,GENERAL RULES,
+006,"Where emergency treatment is provided:
+a. during working hours, and the provision of such treatment requires the practitioner to leave her or his practice to attend to the patient in hospital; or 
+b. after working hours the fee for such visits shall be the total fee plus 50%.
+
+For purposes of this rule:
+a. Emergency treatment means a bona fide, justifiable emergency occupational therapy procedure, where failure to provide the procedure immediately would result in serious impairment to bodily functions or serious dysfunction of a bodily organ or part, or would place the person's life in serious jeopardy; and 
+b. Working hours means 8h00 to 17h00, Monday to Friday. 
+
+Modifier 0006 must be quoted after the appropriate code number(s) to indicate that this rule is applicable.
+
+NOTE: This MAY NOT be charged when weekend treatment is provided as clinical care – ONLY when an emergency intervention is requested or required per medical condition.",
+008,"The provision of assistive devices shall be charged (exclusive of VAT) at net acquisition price plus –
+
+- 26% of the net acquisition price where the net acquisition price of that appliance is less than one hundred rands; 
+
+- a maximum of twenty six rands where the net acquisition price of that appliance is greater than or equal to one hundred rands.
+
+ Modifier 0008 must be quoted after the appropriate code numbers to show that this rule is applicable.",
+009,"Materials used in the construction of orthoses or pressure garments shall be charged (exclusive of VAT) at net acquisition price plus:
+
+- 26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; 
+- a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.
+
+Modifier 0009 must be quoted after the appropriate code numbers to show that this rule is applicable.",
+010,"Materials used in treatment shall be charged (exclusive of VAT) at net acquisition price plus:
+
+- 26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; 
+- a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.
+
+Modifier 0010 must be quoted after the appropriate code numbers to show that this rule is applicable.
+
+NOTES:
+These are not an all-inclusive list of materials that can be used by occupational therapists in the course of treatment. If items are not represented by these codes, NAPPI codes should be used for the items. Funders may not cover the cost of these codes.
+
+This is a suggested modifier to be used and may not be reimbursed by the funders. This may be for the account of the client.
+",
+011,"Where the therapist performs treatments away from the treatment rooms, travelling costs to be charged according to AA rates e.g. for domicilliary treatments or treatments in nursing homes. Modifier 0011 must be quoted after the appropriate code numbers to show that this rule is applicable.
+
+Please note that although only some medical schemes accept responsibility for the payment of transport expenses, others do so in exceptional cases only.",
+012,"Every practitioner shall render a monthly account in respect of any service rendered during the month, irrespective of whether or not the treatment has been completed. NB. Every account shall contain the following particulars:
+ 
+i	The name and practice number of the consulting occupational or art therapist.
+ii	The name of the member.
+iii	The name of the patient.
+iv	The name of the medical scheme.
+v	The membership number of the patient.
+vi	The nature of the treatment.
+vii	The date on which the service was rendered.
+viii	The  relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered.",
+013,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.
+
+Please note: In the case of occupational therapy, a code will only be required when a standard proprietary (off the shelf) product is used. When a splint or support is made by the occupational therapist using or modifying one or more components, a code cannot accurately identify this non-standard product. Please refer to annexure itemising the most commonly made non-standard products used in occupational therapy and bill accordingly.
+
+The Occupational Therapy Association of S A has made available a generic list of non-proprietary splints and pressure garments commonly made by practitioners. The type of materials used to manufacture these products is at the discretion of the practitioner concerned. Price of splints and pressure garments may vary. See Annexures A & B.",
+,Modifiers,
+0006,Add 50% of the total cost for the procedure,
+0008,"Assistive devices to be charged (exclusive of VAT) at net acquisition price plus –
+
+- 26% of the net acquisition price where the net acquisition price of that appliance is less than one hundred rands; 
+
+- a maximum of twenty six rands where the net acquisition price of that appliance is greater than or equal to one hundred rands.",
+0009,"Materials used for orthoses or pressure garments  to be charged (exclusive of VAT) at net acquisition price plus:
+
+- 26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; 
+- a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.
+
+See Annexures A & B for non-standard products. ",
+0010,"Materials used in treatment to be charged (exclusive of VAT) at net acquisition price plus -
+
+- 26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; 
+
+- a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.",
+0011,"Travelling costs according to AA rates.
+
+Please note that although only some medical schemes accept responsibility for the payment of transport expenses, others do so in exceptional cases only.
+",
+0021,Services rendered to hospital inpatients: Quote modifier 0021 on all accounts for services performed on hospital inpatients.,
+,ITEMS,
+1,"PROCEDURES OF INTERVIEWING, GUIDANCE AND CONSULTANCY",
+108,"Interview, guidance or consultation: 30 minute duration.",R318.80
+109,"Interview, guidance or consultation. Each additional 15 mins. A maximum of four instances of this code may be charged per session.",R159.20
+,Time based items in this section exclude time spent on procedures charged in addition to the consultation,
+107,"Appointment not kept. 
+Medical Aid Funds will NOT reimburse for this code.",R0.00
+110,"Reports. To be used to motivate for therapy and/or give a progress report and/or a pre-authorisation report, where such a report is specifically required by the medical scheme.",R247.40
+501,Treatment in nursing home or other health care facilities. Relevant fee plus (once per day),R150.00
+503,Domicillary treatments: Relevant fee plus,R300.00
+2,PROCEDURES OF INITIAL EVALUATION TO DETERMINE THE TREATMENT,
+201,Observation and screening.,R112.40
+203,"Specific evaluation for a single aspect of dysfunction (Specify which aspect).
+Time guide: 7.5-15 minutes",R112.40
+205,"Specific evaluation of dysfunction involving only one part of the body for a specific functional problem (specify part and aspects evaluated).
+Time guide: 15-30 minutes",R337.30
+207,"Specific evaluation of dysfunction involving the whole body (specify condition and which aspects evaluated)
+Time guide: 45-60 minutes",R674.90
+209,"Specific in-depth evaluation of certain functions affecting the total person (specify which aspects evaluated)
+Time guide: 60-75 minutes","R1,124.70"
+211,"Comprehensive in depth evaluation of the total person (Specify aspects assessed)
+Time guide: 90-120 minutes","R1,575.00"
+,Measurement for designing,
+213,A static / dynamic orthosis / splint,R112.40
+217,A pressure garment for one limb (specify),R112.40
+219,A pressure garment for one hand (specify),R112.40
+221,A pressure garment for the trunk.,R112.40
+223,A pressure garment for the face (chin strap only).,R112.40
+225,A pressure garment for the face (full face mask).,R112.40
+3,PROCEDURES OF THERAPY,
+301,"Group treatment in a task-centered activity, per patient (Treatment time 60 minutes or more).",R150.00
+303,"Placement of a patient in an appropriate treatment situation requiring structuring the environment, adapting equipment and positioning the patient. This does not require individual attention for the whole treatment session, per patient)",R225.20
+305,"Groups directed to achieve common aims, per patient) (Treatment time 60 minutes or more).",R300.00
+307,"Simultaneous treatment of two to four patients each with specific problems, utilizing individual activities, per patient
+Treatment time: 45-60 minutes",R300.00
+308,"Simultaneous treatment with two to four neuro-behavioural and stress related conditions or severe head injury patients, each with specific problems, utilising individual activities, per patient (Treatment time 90 minutes or more)",R450.00
+,Individual and undivided attention during treatment sessions utilising specific activity and/or techniques in an integrated treatment session,
+309,On level one (15 minutes).,R150.00
+311,On level two (30 minutes).,R300.00
+313,On level three (45 minutes).,R450.00
+315,On level four ( 60 minutes).,R599.90
+317,On level five (90 minutes).,R749.90
+319,On level six (120 minutes).,R899.80
+4,PROCEDURES REQUIRED TO PROMOTE TREATMENT,
+401,"Recommendations  with  regards  to  assistive devices, environmental adaptations, alternative / compensatory methods, handling the patient.
+Time guideline: 7.5 – 15 minutes",R225.20
+,"Designing and constructing a custom-made adaptation, assistive device, splint or simple pressure garment for treatment in a task-centered activity (specify the adaptation, assistive device, splint or simple pressure garment)",
+403,On level one.,R150.00
+405,On level two.,R300.00
+407,On level three.,R450.00
+409,On level four.,R599.90
+411,On level five.,R749.90
+413,On level six.,R899.80
+415,Designing and constructing a static orthosis.,R899.80
+417,Designing and constructing a dynamic orthosis.,"R1,799.60"
+,Designing and constructing pressure garment for:,
+419,Limb.,R899.80
+421,Face (chin strap only).,R674.90
+423,Face (full face mask).,R899.80
+425,Trunk.,"R1,350.10"
+427,Hand.,"R1,350.10"
+,"The whole body or part thereof will be the sum total of the parts for the first garment and 76,4% of the fee for any additional garments made on the same pattern",
+431,Planning and preparing in depth home programme on a monthly basis.,"R1,350.10"
+434,Hiring equipment: 1% of the current replacement value of the equipment per day. Total charge not to exceed 50% of replacement value. Description of equipment to be supplied.,
+,"Payment of this item is at the discretion of medical scheme concerned, and should be considered in instances where cost savings can be achieved. By prior arrangement with the medical scheme.",
+,List of splints and pressure garments exempted from NAPPI codes,
+,Annexure A,
+,CODES AND DESCRIPTIONS OF SPLINTS TO BE USED WITH MODIFIER 0009,
+701,Static finger extension/flexion splint,
+702,Dynamic finger extension/flexion,
+703,Buddy strap,
+704,DIP/PIP flexion strap,
+705,"MP, PIP, DIP flexion strap",
+706,Hand based static finger extension/flexion,
+707,Hand based static thumb extension/flexion/opposition/ abduction,
+708,Hand based dynamic finger flexion/extension,
+709,Hand based dynamic thumb flexion/extension/opposition/abduction,
+710,Static wrist extension/flexion,
+711,Dynamic wrist extension/flexion,
+712,Flexion glove ,
+713,Forearm based dynamic finger flexion/extension,
+714,Forearm based dorsal protection,
+715,Forearm based volar resting ,
+716,Static elbow extension/flexion,
+717,Dynamic elbow flexion/extension splint,
+718,Shoulder abduction splint,
+719,Static rigid neck splint,
+720,Static soft neck splint/brace,
+721,Static knee extension,
+722,Static foot dorsiflexion,
+,Annexure B,
+,CODES AND DESCRIPTIONS OF PRESSURE GARMENTS TO BE USED WITH MODIFIER 0009,
+801,Glove to wrist,
+802,Glove to elbow,
+803,Gauntlet (Glove with palm and thumb only),
+804,Sleeve: Upper/forearm ,
+805,Sleeve: full,
+806,Vest + sleeves,
+807,Sleeveless vest,
+808,Upper leg,
+809,Lower leg,
+810,Full leg,
+811,Pants (trunk and full legs),
+812,Briefs,
+813,Anklet,
+814,Knee length stocking,
+815,Chin strap,
+816,Full face mask,
+817,Neck only,
+818,Finger sock,
+,Annexure C,
+,List of materials used in treatment under modifier 0010,
+901,Therapeutic putty,
+902,"Wood, leather, sisal",
+903,Sponge,
+904,Elastonet,
+905,Silicon gel sheeting,
+,Annexure D,
+,ASSISTIVE DEVICES MADE BY THERAPIST TO BE USED WITH MODIFIER 0008,
+,"NOTES:
+These are not an all-inclusive list of assistive devices that can be made or recommended by occupational therapists. Based on the definitions in the NHRPL 2009, additional items have been specified. Items may be manufactured by the occupational therapist or acquired commercially and provided to the client. If items are not represented by these codes, NAPPI codes should be used for the items. Funders may not cover these codes under occupational therapy. In these cases, access external device benefits.",
+1001,Hip abduction cushion,
+1002,Sponge on a stick,
+1003,Hand grips (for utensils),
+1004,Bath bench,
+1005,Bath seat,
+1006,Transfer board,
+1007,Plate surround,
+1008,Wheelchair strap,

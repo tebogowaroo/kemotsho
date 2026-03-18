@@ -1,0 +1,157 @@
+"GEMS TARIFF  FOR SERVICES BY PODIATRISTS
+WITH EFFECT FROM 2026-01-01",,068 - Podiatry
+Tariff Code,Tariff Description,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,General Rules,
+A,"All accounts must be presented with the following information clearly stated:
+
+ · name of practitioner
+ · qualifications of the practitioner;
+ · BHF practice number;
+ · postal address and telephone number;
+ · date on which service(s) were provided;
+ · The  relevant diagnostic codes and NHRPL item code numbers relating to the health service rendered;
+ · the surname and initials of the member;
+ · the first name of the patient;
+ · the name of the scheme;
+ · the membership number of the member; and
+ . the name and practice number of the referring practitioner, if applicable.",
+B,"The rate in respect of more than one procedure performed at the same consultation or visit, shall be the full rate for the major procedure plus half the rate in respect of each additional procedure carried out in the treatment of any one condition.",
+C,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+D,"The amount charged in respect of medicines and scheduled substances shall not exceed the limits prescribed in the Regulations Relating to a Transparent Pricing System for Medicines and Scheduled Substances, dated 30 April 2004, made in terms of the Medicines and Related Substances Act, 1965 (Act No 101 of 1965).
+
+In relation to all other materials, items are to be charged (exclusive of VAT) at net acquisition price plus -
+
+* 26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; and
+
+* a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.",
+,Modifiers,
+0002,"For procedures 021 to 031 carried out in a day clinic or unattached operating theatre unit, the rate shall be reduced to two-thirds.",
+0004,Consultation or treatment in a nursing facility/hospital,
+0006,Consultation or treatment at the patient's recidence,
+,ITEMS,
+,Modifier 0004 must be quoted for consultation or treatment rendered in a nursing home or hospital. ,
+,Modifier 0006 must be quoted for consultations or treatment rendered at the patient's residence. ,
+,CONSULTATIONS.,
+301,Consultation (initial or follow up) 5-10 minutes,R162.70
+302,Consultation (initial or follow up) 11-20 minutes,R325.80
+303,Consultation (initial or follow up) 21-30 minutes,R542.30
+304,Consultation (initial or follow up) 31-45 minutes,R813.60
+006,More than one patient seen at a residence (See note below).,R166.60
+,NOTE : This code is a blanket code for home visits away from the practitioners rooms where more than one but up to and including six patients are treated. The code may be used again if seven to twelve patients are seen., 
+101,"Appointments not kept (schemes will not necessarily grant benefits in respect of this item, it will fall into the \""By arrangement with the scheme\"" or \""Patient own account\"" category).",R0.00
+,INJECTIONS., 
+009,"Administration of injection, per administration",R25.80
+,ROUTINE TREATMENTS., 
+010,"General podiatric care up to 15 minutes including the following:
+Trim nails, Debride and cut dystrophic nails; one to five, Evacuation of sub-ungual haematoma, Paring or cutting of benign hyperkeratotic lesion; single lesion, Drain paronychia; one nail and Nail spike removal; single",R76.40
+011,"General podiatric care (30 minutes) including the following:
+Debride and cut dystrophic nails: six or more, Nail spike removal; two to four, Paring or cutting of benign hyperkeratotic lesion; two to four lesions, Paring or cutting of benign hyperkeratotic lesion; more than four lesions, Reduction of heel fissures, Enucleation of interdigital corns; more than two",R152.90
+012,"Extended care for chronic disease management or ulcer management (applicable to diabetes, arthritis and peripheral vascular diseases)",R145.10
+013,"General podiatric care more than 30 minutes (a combination of items 010 and 011)
+",R231.40
+,VERRUCA TREATMENTS, 
+,Note : No consultation fee shall be charged for the same session unless the procedure is performed at the time of the initial consultation, 
+014,Verruca Pedis (Chemotherapy first lesion) (consultation and treatment).,R115.70
+015,Subsequent lesion.,R56.60
+016,Cryotherapy first lesion (consultation and treatment).,R152.90
+017,Subsequent lesion.,R76.40
+018,Diathermy first lesion (consultation and treatment).,R135.40
+019,Subsequent lesion.,R68.60
+,Nail Surgery, 
+,Note : No consultation fee shall be charged for the same session unless the procedure is performed at the time of the initial consultation, 
+021,Nail wedge resection with matrix phenolisation : one nail - one side (including consultation).,R384.30
+022,Two nails - one side.,R499.70
+024,Two nails - both sides.,R713.80
+023,One nail - two sides (including consultation).,R499.70
+025,Avulsion with matrix phenolisation (including consultation).,R384.30
+031,Avulsion without matrix phenolisation (including consultation).,R251.00
+,Other., 
+040,"Infection control, per patient",R23.40
+041,Remedial therapy.,R96.00
+042,Sterile pack.,R115.70
+044,Suturing (includes consultation).,R152.90
+046,Incision Biopsy.,R115.70
+047,Removal of foreign body.,R174.60
+048,Suturing / Wound closure material : Cost of material plus 10%, 
+146,Excision biopsy.,R174.60
+201,Sterile Surgical Blades (maximum of 2 per patient),R19.30
+203,Wound dressing material (maximum of 2 per patient),R39.20
+205,Plaster of Paris bandage roll (maximum of 2 per patient). At net acquisition price., 
+207,Moulded Orthotic material fee,R231.40
+209,Simple insole material fee,R115.70
+211,Local anaesthetic medication per ampoule (maximum of 5 per patient),R39.20
+213,Injection medication fee (other than local anaesthetic). At net acquisition price., 
+,"Items 215, 217 or 219 may be used for corrective or supportive strapping or padding placed into footwear. The area of the foot must be specified.", 
+215,"Padding and strapping : Digital, per foot",R55.10
+217,"Padding and strapping: Metatarsal, per foot",R68.60
+219,"Padding and strapping: Heel, per foot",R68.60
+,Appliances and Orthotics,
+,(By arrangement with the scheme concerned).,
+043,Biomechanical examination.,R308.00
+051,Neutral impression Plaster of Paris casting,R166.60
+052,Orthotic repair.,R251.00
+053,Temporary orthotic or corrective component.,R251.00
+054,Prescription covering and soft tissue supplements.,R174.60
+055,Silicone devices: Digital,R105.90
+056,Computerised gait analysis,R384.30
+057,Template measurement.,R56.60
+058,Immobilisation casting,R208.10
+059,Simple insole - one foot.,R217.70
+061,Simple insoles - both feet.,R394.30
+060,Silicone devices: metatarsal,R209.60
+064,Silicone devices: heel,R312.10
+,The rates for items 063 and 065 include the cost of instrinsic and extrinsic posting adjustments,
+063,Prescription orthotic : one foot.,R374.20
+065,Prescription orthotics : both feet.,R751.00
+067,"Preformed moulded insoles: Adult, both feet",R433.50
+069,"Preformed moulded insoles: Adult, one foot",R215.40
+071,"Preformed moulded insoles: Child, both feet",R333.50
+073,"Preformed moulded insoles: Child, one foot",R166.60
+,CONSUMABLE LIST,
+,"STERILISING ITEMS
+Cold Sterilant e.g. Cidex, Steri 101, Etc.
+Ultraviolet Tubes (Replacements)
+Autoclave Bags
+
+WASTE DISPOSAL
+Sharps Container
+Medical Waste Bin
+
+REGULARLY USED ITEMS
+Disposable Hand Towels e.g. Kimdri
+Disinfecting Handwash e.g. Hibiscrub
+Linen Savers
+Cotton Wool
+Gloves:	Non-Sterile
+Sterile
+Gauze:	Non-Sterile
+Sterile
+Tube Gauze (Various Sizes)
+Padding e.g. Semi Compressed Felt
+Strapping e.g. Hapla, Zopla
+Disinfecting Hand Gel e.g. Steri 601
+Surface Disinfectant e.g. Steri 201
+Tongue Depressors
+Applicator Sticks
+Friars Balsam
+Silver Nitrate?
+Hibitane Concentrate
+Phenol
+Silicone & Activator for Devices
+Monochloracetic Acid
+Salacylic Acid in Lanolin
+Dental Needles
+Xylotox Se Plain Solution for Injection
+Emergency Drugs e.g. Adrenaline/Epipen
+Penrose Drains / Tournicot
+Hydrogen Peroxide
+70% Alcohol
+Hibicol
+Acetone
+Sterile Blades (Various Sizes)
+Moores Discs
+Sterile Dressing Trays
+Sutures
+Single Use Sterile Syringes",

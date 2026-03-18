@@ -1,0 +1,32 @@
+{
+  "name": "@kemotsho/platform-cms",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module", "scripts": { "build": "echo no-op" },
+  "exports": {
+    "./content/*": "./src/content/*",
+    "./identity/*": "./src/identity/*",
+    "./marketing/*": "./src/marketing/*",
+    "./media/*": "./src/media/*",
+    "./navigation/*": "./src/navigation/*",
+    "./pages/*": "./src/pages/*",
+    "./*": "./src/*"
+  },
+  "dependencies": {
+    "@kemotsho/core": "*",
+    "@hookform/resolvers": "^5.2.2",
+    "@tiptap/extension-image": "^3.15.3",
+    "@tiptap/extension-link": "^3.15.3",
+    "@tiptap/pm": "^3.15.3",
+    "@tiptap/react": "^3.15.3",
+    "@tiptap/starter-kit": "^3.15.3",
+    "@tailwindcss/typography": "^0.5.19",
+    "react-hook-form": "^7.71.1",
+    "recharts": "^3.7.0",
+    "resend": "^6.7.0"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

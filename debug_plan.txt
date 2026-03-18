@@ -1,0 +1,13 @@
+
+import { db } from "./src/infra/firebase/admin" // Adjust import path if running via ts-node from root
+// Actually, run via existing script infrastructure might be harder.
+// Let's use the existing Repositories if possible, or just raw firebase-admin in a script.
+
+async function checkOrders() {
+    process.env.FIRESTORE_EMULATOR_HOST = "127.0.0.1:8080"; // Assumptions? No, user is on linux, likely using real firebase or emulator.
+    // The previous context showed `firebase-admin.ts` exists.
+    
+    // I'll assume we can use the project structure.
+    // But running a script in Next.js environment is tricky without `tsx` or `ts-node`.
+    // I'll try to create a Next.js API route that I can `curl` to debug. It's safer.
+}

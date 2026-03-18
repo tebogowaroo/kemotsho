@@ -1,0 +1,31 @@
+{
+  "name": "@kemotsho/module-commerce",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo no-op"
+  },
+  "exports": {
+    "./commerce/*": "./src/commerce/*",
+    "./customers/*": "./src/customers/*",
+    "./orders/*": "./src/orders/*",
+    "./payments/*": "./src/payments/*",
+    "./products/*": "./src/products/*",
+    "./*": "./src/*"
+  },
+  "dependencies": {
+    "@kemotsho/core": "*",
+    "@kemotsho/platform-cms": "*",
+    "jspdf": "^4.1.0",
+    "jspdf-autotable": "^5.0.7",
+    "react-google-recaptcha": "^3.1.0",
+    "recharts": "^3.7.0",
+    "resend": "^6.7.0",
+    "stripe": "^20.4.1"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

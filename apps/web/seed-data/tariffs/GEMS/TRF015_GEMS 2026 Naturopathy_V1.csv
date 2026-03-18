@@ -1,0 +1,49 @@
+"GEMS TARIFF  FOR SERVICES BY NATUROPATHS
+WITH EFFECT FROM 2026-01-01",,101 - Naturopathy
+Tariff Code,Tariff Description, 2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,RULES,
+01,"All accounts must be presented with the following information clearly stated:
+ - name of naturopath
+ - qualifications of the naturopath
+ - BHF practice number
+ - Postal address and telephone number
+ - Date on which the service(s) were provided
+ - Applicable item codes
+ - The nature of the treatment
+ - The surname and initials of the member
+ - The first name of the patient
+ - The name of the medical scheme
+ - The membership number of the patient
+ - The name and practice number of the referring practitioner",
+,ITEMS,
+1,Consultations,
+10010,Consultation (initial or follow up). Duration 5 - 15 mins,R133.20
+10020,Consultation (initial or follow up). Duration 16 - 30 mins,R290.70
+10090,"Consultation, each additional full 15 mins, to a maximum of 60 mins",R193.90
+2,Diagnostic Procedures,
+20010,Vega testing,R193.90
+20020,Life blood testing,R193.90
+3,Treatment Procedures,
+30010,Hydrotherapy 30 minutes,R387.30
+30011,"Hydrotherapy, each additional full 15 mins, after initial 30 mins, to a maximum of 60 mins",R193.90
+30020,Electrotherapy,R193.90
+30021,"Electrotherapy, each additional full 15 min, after initial 15 min, to a maximum of 60 mins",R193.90
+30030,Vibration therapy,R193.90
+30031,"Vibration therapy, each additional full 15 min, after initial 15 min, to a maximum of 60 mins",R193.90
+30040,Light therapy,R193.90
+30041,"Light therapy, each additional full 15 min, after initial 15 min, to a maximum of 60 mins",R193.90
+30050,Thermal therapy,R193.90
+30051,"Thermal therapy, each additional full 15 min, after initial 15 min, to a maximum of 60 mins",R193.90
+30060,Massage therapy,R387.30
+30061,"Massage therapy, each additional full 15 min, after initial 30 mins, to a maximum of 60 mins",R193.90
+30070,Exercise therapy,R193.90
+30071,"Exercise therapy, each additional full 15 min, after initial 15 min, to a maximum of 60 mins",R193.90
+30080,Reflex therapy,R193.90
+30081,"Reflex therapy, each additional full 15 min, after initial 15 min, to a maximum of 60 mins",R193.90
+4,Medicines and Materials,
+40100,"Proprietary Naturopathic medicine, appropriate NAPPi codes to be charged",
+40200,Non-proprietary Naturopathic medicine liquid per 100ml,R606.80
+40300,Naturopathic ointments / creams per 10ml,R58.40
+40400,Naturopathic syrups and tonics per 10ml,R8.28

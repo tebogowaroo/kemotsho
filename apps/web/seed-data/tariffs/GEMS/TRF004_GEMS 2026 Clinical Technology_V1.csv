@@ -1,0 +1,150 @@
+"GEMS TARIFF FOR SERVICES BY CLINICAL TECHNOLOGISTS
+WITH EFFECT FROM 2026-01-01",,075 - Clinical Technology
+Tariff Code,Tariff Description,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,GENERAL RULES,
+001,"It is recommended that, when such benefits are granted, drugs, consumables and disposable items used during a procedure or issued to a patient on discharge will only be reimbursed by a medical scheme if the appropriate code is supplied on the account.",
+,MODIFIERS,
+0001,Fee prorated according to number of treatment days;. fee = ([number of treatment days] / 30) X (item fee),
+,ITEMS,
+,Surgical Support,
+010,Ablations,"R3,970.90"
+011,Preparation of extra-corporeal equipment for surgical procedures.,"R3,555.30"
+012,Operation of heart laser during myocardial revascularisation,"R3,970.90"
+013,Continued operation of extra-corporeal equipment during surgery for a time in excess of one hour in 30 minute increments or part thereof provided that such part comprises 50% or more of the time,R367.00
+014,Radiofrequency Catheter Ablations,"R3,970.90"
+,Not to be charged with item 012,R0.00
+015,"Preparation and operation of pre-operative, intra-operative or post operative physiological monitoring per patient, per admission",R350.70
+,May only submit once in theatre and once in catheterisation laboratory,R0.00
+017,Standby with extra-corporeal equipment for surgery within hospital,"R1,062.70"
+,Cannot be used with 011,R0.00
+019,Standby within the hospital for coronary angioplasty.,R350.70
+021,"Preparation and operation of intra-aortic balloon pump in theatre, intensive care unit and catheterisation laboratory.","R1,062.70"
+085,"Each additional 30 minutes or part thereof, provided that such part comprises 50% or more of the time.",R180.70
+023,"Global fee for preparation and operation and removal of cardio assist device (LVAD, RVAD, BVAD) in theatre and intensive care unit.","R3,555.30"
+027,Preparation and operation of a pre- and post-operative blood salvage device.,R350.70
+029,Preparation and operation of an autotransfusion cell washing system.,"R1,393.90"
+031,"Determination and monitoring of haemodynamic/pulmonary parameters, metabolism, arterial/venous pressure flow studies in high care/ICU (per patient per multiple procedures per day)","R1,115.30"
+033,"Assistance with bronchoscopy procedures, placement of arterial/venous catheters, ultrasound examinations or photography.",R264.10
+034,Lymph compression treatment.,R406.50
+116,Preparation and operation of an artificial heart (Berlin-Heart),"R3,970.90"
+118,"Daily monitoring of artificial heart, per hour",R603.60
+157,Standby with extra corporeal equipment (maximum 4 hours) (per event).,R475.40
+,Pulmonology,
+,"Items 035 to 061 apply only to outpatient department and normal wards - Not high care or intensive care, except item 050 which applies to intensive care only.",
+035,Nebulization (per one procedure).,R222.20
+037,Measurement of Lung volumes and capacities by means of closed circuit (He) or (N2) washout or body plethysmography.,R437.30
+039,Flow-volume determinations.,R552.90
+041,Flow-volume (Pre-post B-D).,R918.20
+043,Airways resistance and conductance measurements using plethysmograph or similar apparatus.,R437.30
+045,Gas distribution measurements.,R437.30
+047,Diffusion determinations.,R437.30
+049,Exercise testing (EIA).,R309.00
+050,ECMO change-out and re-establishment.,R836.70
+051,"Exercise testing with recording of : VT, VO2, HR, RR, ECG and Oximetry",R437.30
+053,Allergy tests.,R206.00
+055,If RAST included add (per allergen).,R206.00
+057,Bronchial provocation testing.,R737.40
+059,Compliance measurements.,R437.30
+061,Maximum inspiratory (MIP) and/or expiratory (MEP) pressures and/or Vital Capacity and/or PEFR.,R108.70
+,Cardiology,
+062,Assist in preparations and operations of Rotablator Procedures,R540.60
+063,Cardiac catheterisation for the first hour.,R728.50
+065,Each additional 30 minutes or part thereof provided that such part comprises 50% or more of the time,R180.70
+064,Intravascular Ultrasound (IVUS),R464.70
+,"This fee can only be charged once, irrespective of how many times this procedure is repeated. The technologist cannot charge for this procedure if a representative of a company or any other person is operating the IVUS machine",
+068,Each additional 30 minutes or part thereof provided that such part comprises 50% or more of the time.,R180.70
+066,Cardiac Cath Right Heart Studies,"R1,012.00"
+067,Cardiac Electro physiology and related procedures for first FOUR hours.,"R1,227.30"
+069,Temporary and single Pacemaker procedures.,R728.50
+070,Permanent and dual Pacemaker procedures or implantation and testing of ICD devices.,R836.70
+,Not to be charged in conjunction with items 063 or 065,
+071,Each additional 30 minutes or part thereof provided that such part comprises 50% or more of the time.,R180.70
+072,Multisite Pacing (Bi-ventricular pacing),R836.70
+073,Dilatation procedures and stents.,"R1,001.40"
+074,Wavemap - Measurement of Fractional Flow Reserve to assess the functional severity of coronary artery stenoses,R180.70
+075,Pacemaker checking and/or reprogramming.,R253.00
+077,24 Hour Holter ambulatory monitoring.,"R1,001.40"
+079,Cardiac exercise stress testing.,R526.00
+081,Recording of twelve lead ECG.,R138.90
+087,M Mode echocardiogram.,R300.30
+089,2D echocardiogram.,R531.50
+091,Doppler flow.,R583.50
+093,Colour imaging.,R583.50
+095,ECG signal averaging (Hi-Res).,R970.60
+097,Ambulatory bloodpressure monitoring.,R335.90
+099,Vector cardiogram.,"R1,001.40"
+111,Transoesophageal echocardiogram.,R779.20
+,Neurology,
+,"Preparation, recording and analyses/technical report of:",
+178,"Short latency brainstem auditory evoked potentials, neurological examination, bilateral","R1,339.30"
+179,"Auditory evoked potentials, full audiological examination, bilateral","R1,339.30"
+180,"Pattern-reversal visual evoked potentials: full evaluation of visual pathways, unilateral",R670.70
+181,"Somatosensory evoked potentials, unilateral, upper limb",R670.70
+182,"Somatosensory evoked potentials, unilateral, lower limb",R670.70
+115,"Additional 2 nerves (used as adjunct with nerve conduction studies, including F-waves, H-reflexes or additional nerves required for diagnosis)",R269.20
+117,Electroretinography (ERG) - unilateral or Electro-oculography (EOG),R779.20
+183,Electronystagmography for spontaneous and positional nystagmus (3253),R436.40
+184,Caloric test done with electronystagmography (3255),"R1,221.50"
+119,Sleep EEG.,R567.60
+185,Overnight polysomnography,"R4,786.90"
+186,Obstructive sleep apnea screening,"R2,479.30"
+187,"Long term EEG monitoring with a minimum of 8 hours (but less than 16 hours) recording time, including preparation (collodion adhesive technique with at least 21 electrodes) and interpretation","R2,492.50"
+188,"Long term EEG monitoring with 16 to 24 hours recording time, including preparation (collodion adhesive technique with at least 21 electrodes) and interpretation","R4,786.90"
+125,Multiple sleep latency test (MSLT),"R2,008.30"
+127,Overnight CPAP titration.,"R1,883.30"
+132,Mobile EEG setup in ICU (to be added to Item 133 if appropriate),R314.80
+133,EEG with special activation.,R892.90
+135,"Electromyography : Needle examination per muscle/conduction velocity (motor/sensory) each, to a maximum of 5.",R269.20
+137,Intra-operative evoked potentials for the 1st hour,"R1,001.40"
+139,Each additional hour or part thereof provided that such part comprises 50% or more of the time.,R670.60
+141,Intra-operative EEG (carotid endarterectomy).,R475.40
+143,Transcranial or Carotid Doppler (bilateral).,R712.10
+,Dialysis,
+145,"Preparation of extra-corporeal equipment: Haemoperfusion (HP), Haemofiltration (HF), Haemoconcentration (HC), Continuous renal replacement therapy (CRRT), Aphaeresis, Auto transfusion and cell recovery (AT).",R836.70
+146,Chronic haemodialysis (acetate dialysate),"R2,664.60"
+148,Chronic haemodialysis (bicarbonate dialysate),"R2,846.30"
+,"In the case of items 146 and 148, routine outpatient dialysis includes dialyser, bloodlines, acetate dialysate, priming set, sodium heparin anticoagulant, saline infusion, dressing pack, fistula needles/catheter dressing, syringes and needles, cleaning materials, equipment set-up, up to 5 hours treatment time, equipment rental",R0.00
+147,"Peritoneal dialysis, per day",R303.90
+,"The global fees for Continuous Ambulatory Peritoneal Dialysis (CAPD) (Item 176) and Automated Peritoneal Dialysis (APD) (Item 177) include: consumables; cost of machine and machine disposables; professional fee; initial training; in-centre follow-up visits; and home visits.  However, they exclude Tenckhoff catheter and insertion thereof; and disposables required for a transfer set change (usually 6 monthly).
+
+These fees are chargeable for each 30 day cycle in which CAPD or APD is provided.  If CAPD or APD is provided for less than a 30 days in any one cycle (for example due to complications or death of the patient):
+
+a. if the period of treatment is 26 days or more in that cycle, the full fee applies;
+
+b. if the period of treatment is up to 25 days in that cycle, the fee should be prorated according to number of actual treatment days.  Modifier 0001 should be quoted, and number of treatment days specified.",
+176,"Global fee for Continuous Ambulatory Peritoneal Dialysis (CAPD), per 30 day period.","R30,727.40"
+177,"Global fee for Automated Peritoneal Dialysis (APD), per 30 day period.","R42,656.50"
+149,"Treatment procedure per 1 hour (excluding acute haemodialysis, chronic haemodialysis and CRRT)",R603.60
+150,Acute haemodialysis,"R5,656.70"
+,"Emergency dialysis treatment in hospital; includes dialyser, bloodlines, acetate/bicarbonate dialysate, priming set, equipment set-up, up to 5 hours treatment time, equipment rental",
+151,Treatment procedures for CRRT up to 6 hours or part thereof provided that such part comprises 50% or more of the time,R448.20
+152,Treatment procedure for CRRT up to 12 hours or part thereof provided that such part comprises more than 6 hours of the time,R898.30
+154,Treatment procedure for CRRT up to 18 hours or part thereof provided that such part comprises more than 12 hours of the time,"R1,346.80"
+156,Treatment procedure for CRRT up to 24 hours or part thereof provided that such part comprises more than 18 hours of the time,"R1,794.90"
+153,"Patient training in centre for dialysis, CPAP training and problem-solving, home ventilators and nebulisers, per 30 minutes (to maximum of 24 hours)",R300.30
+155,"Patient training or follow-up at patient's home, for dialysis, home ventilators and nebulisers, per 30 minutes (to maximum of 24 hours).",R526.00
+97443,"Global Fee Assisted Home Haemodialysis: per 30-day period
+This code includes: the treatment procedure cost, dialyser, bloodlines, haemofiltration kits, materials (dialysates, collection bags, syringes, needles, saline, locks, heparin, solution sets, admin trays, gauze and gloves), priming set, equipment set up, up to 5 hours treatment time, equipment rental, travel to and from the patient’s home, professional fee","R72,664.60"
+97444,"Mobile Chronic Haemodialysis for hospitalised patients (ICU, high care and general ward)","R4,071.60"
+,Reproductive Health,
+,"As schemes will not necessarily grant benefits in respect of some items below, they fall into the \""By arrangement with the scheme\"" category",
+159,Post Vasectomy semen analysis.,R180.70
+161,Complete semen analysis.,R572.90
+163,Semen wash for A I.,R547.80
+165,"IVF, GIFT, PROST with semen and serum preparation including ovum and embryo handling and transfer","R6,664.10"
+,"Cannot be used with items 161, 163, 167 and 169",R0.00
+167,Ovum and embryo freezing.,"R2,373.40"
+169,Semen freezing.,R547.80
+,Miscellaneous,
+171,Travelling per km in excess of 16km (in own car).,R12.10
+173,Equipment hire (By arrangement with scheme).,
+175,Medication / Material,
+,"The amount charged in respect of medicines and scheduled substances shall not exceed the limits prescribed in the Regulations Relating to a Transparent Pricing System for Medicines and Scheduled Substances, dated 30 April 2004, made in terms of the Medicines and Related Substances Act, 1965 (Act No 101 of 1965).
+
+In relation to all other materials, items are to be charged (exclusive of VAT) at net acquisition price plus -
+
+* 26% of the net acquisition price where the net acquisition price of that material is less than one hundred rands; and
+
+* a maximum of twenty six rands where the net acquisition price of that material is greater than or equal to one hundred rands.",

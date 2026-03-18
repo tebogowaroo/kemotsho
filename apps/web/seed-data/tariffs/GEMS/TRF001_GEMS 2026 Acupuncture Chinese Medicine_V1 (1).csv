@@ -1,0 +1,41 @@
+"GEMS TARIFF  FOR SERVICES BY ACUPUNCTURE & CHINESE MEDICINE PRACTITIONERS
+WITH EFFECT FROM 2026-01-01",,105 - Acupuncturist
+Tariff Code,Tariff Description,2026 Tariff Value
+,"In calculating the GEMS Tariff , the following rounding method is used: Values  R10 and below rounded to the nearest cent, R10+ rounded to the nearest 10cent. Modifier values are rounded to the nearest cent. When new item prices are calculated, e.g. when applying a modifier, the same rounding scheme should be followed.
+ALL GEMS TARIFFS ARE VAT INCLUSIVE.",
+,RULES,
+01,"All accounts must be presented with the following information clearly stated:
+ - name of the practitioner
+ - qualifications of the practitioner
+ - BHF practice number
+ - Postal address and telephone number
+ - Date on which the service(s) were provided
+ - Applicable item codes
+ - The nature of the treatment
+ - The surname and initials of the member
+ - The first name of the patient
+ - The name of the medical scheme
+ - The membership number of the patient
+ - The name and practice number of the referring practitioner",
+02,"When two separate acupuncture techniques are used, each treatment shall be regarded as a separate treatment for which fees may be charged for separately.",
+03,Not more than two separate techniques may be charged for at each session.,
+04,"The maximum number of acupuncture treatments per course to be charged for is limited to ten. If further treatment is required at the end of this period of treatment, it should be negotiated with the patient.",
+,ITEMS,
+1,Consultations,
+,"Consultation encompasses consultation, history taking, patient examination and assessment, side room diagnostic tests, counseling and/or diagnosis",
+1100,Consultation (up to 15 mins),R228.40
+1101,Consultation (16-30 mins),R513.20
+1102,Consultation (31-45 min),R855.70
+1103,Consultation (46-60 min),"R1,197.80"
+1110,"Consultation, each additional full 15 mins beyond 60 mins",R342.20
+2,Treatments,
+3100,"First treatment (needles, plus maximum of two speciality therapy techniques) ",R901.60
+3200,"Follow-up treatment (needles, plus maximum of two speciality therapy techniques)",R824.60
+3,Speciality Therapy Techniques,
+4010,Moxibustion,R519.50
+4020,Cupping,R444.80
+4030,Dermal needle therapy (plum-blossom or seven-star),R414.80
+4040,Auricular therapy (micro acupuncture),R733.40
+4050,Scalp acupuncture,R623.30
+4060,Shilao (diet therapy),R541.30
+4070,Tui-Na (massage/pressure),R780.90

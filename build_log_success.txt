@@ -1,0 +1,147 @@
+
+> build
+> npm run build --workspaces
+
+
+> @waroo/web@0.1.0 build
+> next build
+
+▲ Next.js 16.1.2 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 20.1s
+  Running TypeScript ...
+  Collecting page data using 7 workers ...
+  Generating static pages using 7 workers (0/46) ...
+CartProvider mounting
+Get My Orders Failed: "Unknown Cause"
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+  Generating static pages using 7 workers (11/46) 
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+  Generating static pages using 7 workers (22/46) 
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+  Generating static pages using 7 workers (34/46) 
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+CartProvider mounting
+✓ Generating static pages using 7 workers (46/46) in 1462.9ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /_not-found
+├ ƒ /[[...slug]]
+├ ƒ /account
+├ ƒ /account/addresses
+├ ƒ /account/addresses/[id]/edit
+├ ƒ /account/addresses/new
+├ ƒ /account/orders
+├ ƒ /account/orders/[id]
+├ ƒ /account/orders/[id]/invoice
+├ ƒ /account/portal
+├ ƒ /account/portal/statement
+├ ƒ /account/profile
+├ ƒ /account/security
+├ ƒ /admin/analytics
+├ ƒ /admin/content
+├ ƒ /admin/content/[id]
+├ ƒ /admin/content/new
+├ ƒ /admin/dashboard
+├ ƒ /admin/marketing
+├ ƒ /admin/media
+├ ƒ /admin/medical/appointments
+├ ƒ /admin/medical/encounters/[id]
+├ ƒ /admin/medical/invoices
+├ ƒ /admin/medical/invoices/[id]
+├ ƒ /admin/medical/patients
+├ ƒ /admin/medical/patients/[id]
+├ ƒ /admin/medical/patients/[id]/statement
+├ ƒ /admin/medical/patients/new
+├ ƒ /admin/medical/settings/availability
+├ ƒ /admin/medical/settings/practice
+├ ƒ /admin/medical/settings/practitioners
+├ ƒ /admin/medical/settings/services
+├ ƒ /admin/navigation
+├ ƒ /admin/orders
+├ ƒ /admin/orders/[id]
+├ ƒ /admin/orders/[id]/packing-slip
+├ ƒ /admin/pages
+├ ƒ /admin/pages/[id]
+├ ƒ /admin/pages/new
+├ ƒ /admin/products
+├ ƒ /admin/products/[id]
+├ ƒ /admin/settings
+├ ƒ /admin/users
+├ ƒ /api/debug/fix-addresses
+├ ƒ /api/webhooks/payfast
+├ ○ /book
+├ ƒ /checkout
+├ ○ /checkout/cancel
+├ ƒ /checkout/success
+├ ○ /login
+├ ○ /privacy
+├ ƒ /products/[slug]
+├ ○ /register
+└ ○ /terms
+
+
+ƒ Proxy (Middleware)
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+
+
+> @waroo/core@0.1.0 build
+> echo 'No build step'
+
+No build step
+
+> @waroo/module-commerce@0.1.0 build
+> echo no-op
+
+no-op
+
+> @waroo/module-medical@0.1.0 build
+> echo no-op
+
+no-op
+
+> @waroo/platform-cms@0.1.0 build
+> echo no-op
+
+no-op
