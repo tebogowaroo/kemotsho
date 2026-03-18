@@ -34,6 +34,8 @@ const make = Effect.succeed({
             id: snap.id, 
             ...data,
             displayName: fixDisplayName(data.displayName),
+            roles: data.roles || [],
+            status: data.status || "active",
             createdAt: toDate(data.createdAt).toISOString(),
             updatedAt: toDate(data.updatedAt).toISOString()
         }
@@ -131,6 +133,8 @@ const make = Effect.succeed({
                 id: doc.id, 
                 ...data,
                 displayName: fixDisplayName(data.displayName),
+                roles: data.roles || [],
+                status: data.status || "active",
                 // Explicitly convert known Date fields to ISO Strings (Schema.Date expects string input)
                 createdAt: toDate(data.createdAt).toISOString(),
                 updatedAt: toDate(data.updatedAt).toISOString()

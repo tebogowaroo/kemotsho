@@ -142,7 +142,7 @@ function AddUserDialog({ onSuccess }: { onSuccess: () => void }) {
                 <Label>Role</Label>
                 <Select value={role} onValueChange={setRole}>
                     <SelectTrigger><SelectValue /></SelectTrigger>
-                    <SelectContent>
+                    <SelectContent className="z-[9999]">
                         <SelectItem value="subscriber">Subscriber</SelectItem>
                         <SelectItem value="author">Author</SelectItem>
                         <SelectItem value="editor">Editor</SelectItem>
@@ -258,7 +258,7 @@ function EditUserDialog({ user, onSuccess }: { user: any, onSuccess: () => void 
                   <Label>Status</Label>
                   <Select value={status} onValueChange={setStatus}>
                       <SelectTrigger><SelectValue /></SelectTrigger>
-                      <SelectContent>
+                      <SelectContent className="z-[9999]">
                           <SelectItem value="active">Active</SelectItem>
                           <SelectItem value="suspended">Suspended</SelectItem>
                           <SelectItem value="banned">Banned</SelectItem>
