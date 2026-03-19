@@ -2,6 +2,7 @@ import { Effect } from "effect"
 import { UserRepository } from "../domain/UserRepository"
 import { CreateUser, User, UserRole } from "../domain/User"
 import { auth } from "@kemotsho/core/infra/firebase/admin"
+import { sendInviteEmail } from "@kemotsho/core/lib/email"
 import { UnexpectedError } from "@kemotsho/core/domain/errors"
 
 export const createUserByAdmin = (input: typeof CreateUser.Type & { roles: readonly typeof UserRole.Type[] }) =>
@@ -47,40 +48,36 @@ export const createUserByAdmin = (input: typeof CreateUser.Type & { roles: reado
     const updatedUser = { ...user, roles: input.roles }
     yield* _(repo.update(updatedUser))
 
-    // 5. Send Password Reset Email via Firebase Identity Toolkit
+    // 5. Generate secure Firebase Reset Link and Send via Resend
     yield* _(
       Effect.tryPromise({
         try: async () => {
-          const apiKey = process.env.NEXT_PUBLIC_FIREBASE_API_KEY
-          if (!apiKey) {
-            console.warn("[createUserByAdmin] Missing NEXT_PUBLIC_FIREBASE_API_KEY, cannot send reset email")
-            return
-          }
+          // 5.1 Request standard password reset link from Admin SDK (bypass standard Firebase UI)
+          // We provide an optional actionCodeSettings to redirect back to app if desired, but default generates standard URL
+          const link = await auth.generatePasswordResetLink(input.email);
           
-          const endpoint = `https://identitytoolkit.googleapis.com/v1/accounts:sendOobCode?key=${apiKey}`
-          const res = await fetch(endpoint, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-              requestType: 'PASSWORD_RESET',
-              email: input.email
-            })
-          })
+          // 5.2 Extract displayName for email personalization
+          const friendlyName = input.displayName._tag === "Some" && input.displayName.value ? input.displayName.value : "User";
 
-          if (!res.ok) {
-             const errorText = await res.text()
-             console.error("[createUserByAdmin] Failed to send password reset email:", errorText)
+          // 5.3 Trigger standard Resend custom HTML structure
+          const result = await sendInviteEmail({
+              to: input.email,
+              displayName: friendlyName,
+              inviteLink: link
+          });
+
+          if (!result.success) {
+              console.error("[createUserByAdmin] Failed sending via Resend:", result.error);
           } else {
-             console.log(`[createUserByAdmin] Password reset email sent to ${input.email}`)
+              console.log(`[createUserByAdmin] Custom invite sent via Resend to ${input.email}`);
           }
         },
         catch: (error) => {
-           console.error("[createUserByAdmin] Network error triggering password reset:", error)
-           // Non-blocking error, user is still created. We don't want to crash.
+           console.error("[createUserByAdmin] Error invoking password reset generator:", error)
            return new UnexpectedError({ error })
         }
       }).pipe(
-        // Ignore the error instead of failing the whole transaction if email fails to send
+        // Ensure email failures don't crash user creation transaction
         Effect.catchAll(() => Effect.succeed(null))
       )
     )

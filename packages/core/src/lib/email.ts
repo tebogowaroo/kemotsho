@@ -20,17 +20,19 @@ export async function sendInviteEmail({
 
     try {
         const { data, error } = await resend.emails.send({
-            from: `Waroo Medical <${FROM_EMAIL}>`,
+            from: `Platform Admin <${FROM_EMAIL}>`,
             to: [to],
-            subject: 'Welcome to Patient Portal - Setup your account',
+            // TODO: Ensure we're using a verified sender domain in Resend
+            subject: 'Welcome - Set up your account',
             html: `
                 <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto;">
-                    <h2>Welcome, ${displayName}!</h2>
-                    <p>You have been invited to join the Patient Portal.</p>
-                    <p>Please click the link below to set up your password and access your account:</p>
+                    ${process.env.NEXT_PUBLIC_LOGO_URL ? `<div style="text-align: center; margin-bottom: 24px;"><img src="${process.env.NEXT_PUBLIC_LOGO_URL}" alt="Company Logo" style="max-height: 60px;" /></div>` : ''}
+                    <h2>Welcome to the Platform, ${displayName}!</h2>
+                    <p>An administrator has created an account for you.</p>
+                    <p>Please click the link below to set your permanent password and access your account:</p>
                     <p>
-                        <a href="${inviteLink}" style="background-color: #0070f3; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">
-                            Set up my account
+                        <a href="${inviteLink}" style="background-color: #000000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">
+                            Set Password & Login
                         </a>
                     </p>
                     <p style="margin-top: 24px; font-size: 14px; color: #666;">
