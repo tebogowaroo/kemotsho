@@ -18,6 +18,10 @@ export const createUserByAdmin = (input: typeof CreateUser.Type & { roles: reado
           email: input.email,
           ...(input.displayName._tag === "Some" ? { displayName: input.displayName.value } : {}),
           password: tempPassword
+        }),
+        catch: (error) => new UnexpectedError({ error })
+      })
+    )
 
     // 2. Set Custom Claims (Roles)
     yield* _(
